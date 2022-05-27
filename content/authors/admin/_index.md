@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Genetic Logic Lab
+title: Actuarial Science Research Group
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
+- name: University of Toronto
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,4 +69,4 @@ user_groups:
 
 ---
 
-The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. The research in the lab focuses on the interdisciplinary synthetic biology work in the overlap between electrical engineering, mathematical modelling, and genetic biology. Examples of work include: the creation of genetic design automation programs similar to electronic design automation programs for circuit designs, stochastic verification of genetic models, and a repository for storing and sharing genetic constructs.
+<!-- The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. The research in the lab focuses on the interdisciplinary synthetic biology work in the overlap between electrical engineering, mathematical modelling, and genetic biology. Examples of work include: the creation of genetic design automation programs similar to electronic design automation programs for circuit designs, stochastic verification of genetic models, and a repository for storing and sharing genetic constructs. -->
