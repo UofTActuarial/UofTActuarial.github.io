@@ -53,7 +53,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/MyersResearchGroup
+  link: https://github.com/UofTActuarial
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,5 +68,7 @@ email: ""
 user_groups:
 
 ---
+
+Welcome to the University of Toronto Actuarial Science Research Group! Here we display some of the most recent research work by our group.
 
 <!-- The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. The research in the lab focuses on the interdisciplinary synthetic biology work in the overlap between electrical engineering, mathematical modelling, and genetic biology. Examples of work include: the creation of genetic design automation programs similar to electronic design automation programs for circuit designs, stochastic verification of genetic models, and a repository for storing and sharing genetic constructs. -->
