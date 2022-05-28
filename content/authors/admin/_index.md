@@ -51,6 +51,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: university
+  icon_pack: fas
+  link: https://www.statistics.utoronto.ca/
 - icon: github
   icon_pack: fab
   link: https://github.com/UofTActuarial
@@ -69,6 +72,6 @@ user_groups:
 
 ---
 
-Welcome to the University of Toronto Actuarial Science Research Group! Here we display some of the most recent research work by our group.
+We are a group of researchers in the Department of Statistical Sciences, University of Toronto.
 
-<!-- The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. The research in the lab focuses on the interdisciplinary synthetic biology work in the overlap between electrical engineering, mathematical modelling, and genetic biology. Examples of work include: the creation of genetic design automation programs similar to electronic design automation programs for circuit designs, stochastic verification of genetic models, and a repository for storing and sharing genetic constructs. -->
+Here you will find information and some of the most recent research work by our group.
