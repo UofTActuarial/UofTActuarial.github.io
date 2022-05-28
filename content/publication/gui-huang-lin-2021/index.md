@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-28T01:51:57.502805Z'
+publishDate: '2022-05-28T02:10:44.444674Z'
 publication_types:
 - '2'
 abstract: The class of multivariate Erlang mixtures with common scale parameter has

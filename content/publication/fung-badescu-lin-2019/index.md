@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-28T01:51:55.902854Z'
+publishDate: '2022-05-28T02:10:42.765953Z'
 publication_types:
 - '2'
 abstract: This paper focuses on the estimation and application aspects of the Erlang
