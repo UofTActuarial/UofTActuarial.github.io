@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-05-27T20:29:31-04:00
+lastmod: 2022-05-27T21:48:50-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-28T00:37:14.474574Z'
+publishDate: '2022-05-28T01:51:55.902854Z'
 publication_types:
 - '2'
 abstract: This paper focuses on the estimation and application aspects of the Erlang

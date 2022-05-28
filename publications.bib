@@ -23,3 +23,56 @@
 	pages={647–688},
 	abstract={This paper focuses on the estimation and application aspects of the Erlang count logit-weighted reduced mixture of experts model (EC-LRMoE), which is a fully flexible multivariate insurance claim frequency regression model. We first prove the identifiability property of the proposed model to ensure that it is a suitable candidate for statistical inference. An expectation conditional maximization (ECM) algorithm is developed for efficient model calibrations. Three simulation studies are performed to examine the effectiveness of the proposed ECM algorithm and the versatility of the proposed model. The applicability of the EC-LRMoE is shown through fitting an European automobile insurance data set. Since the data set contains several complex features, we find it necessary to adopt such a flexible model. Apart from showing excellent fitting results, we are able to interpret the fitted model in an insurance perspective and to visualize the relationship between policyholders’ information and their risk level. Finally, we demonstrate how the fitted model may be useful for insurance ratemaking.}
 }
+
+@article{fung_badescu_lin_2022,
+	author = {Tsz Chai Fung and Andrei L. Badescu and X. Sheldon Lin},
+	title = {Fitting Censored and Truncated Regression Data Using the Mixture of Experts Models},
+	journal = {North American Actuarial Journal},
+	volume = {0},
+	number = {0},
+	pages = {1-25},
+	year  = {2022},
+	publisher = {Routledge},
+	doi = {10.1080/10920277.2021.2013896},
+	eprint = {https://doi.org/10.1080/10920277.2021.2013896},
+	abstract = {The logit-weighted reduced mixture of experts model (LRMoE) is a flexible yet analytically tractable non-linear regression model. Though it has shown usefulness in modeling insurance loss frequencies and severities, model calibration becomes challenging when censored and truncated data are involved, which is common in actuarial practice. In this article, we present an extended expectation–conditional maximization (ECM) algorithm that efficiently fits the LRMoE to random censored and random truncated regression data. The effectiveness of the proposed algorithm is empirically examined through a simulation study. Using real automobile insurance data sets, the usefulness and importance of the proposed algorithm are demonstrated through two actuarial applications: individual claim reserving and deductible ratemaking. }
+}
+
+@article{gui_huang_lin_2021,
+	title = {Fitting multivariate Erlang mixtures to data: A roughness penalty approach},
+	journal = {Journal of Computational and Applied Mathematics},
+	volume = {386},
+	pages = {113216},
+	year = {2021},
+	issn = {0377-0427},
+	doi = {https://doi.org/10.1016/j.cam.2020.113216},
+	author = {Wenyong Gui and Rongtan Huang and X. Sheldon Lin},
+	keywords = {Multivariate Erlang mixtures, Truncated and censored data, GECM algorithm, Roughness penalty},
+	abstract = {The class of multivariate Erlang mixtures with common scale parameter has many desirable properties and has widely been used in insurance loss modeling. The parameters of a multivariate Erlang mixture are normally estimated using an expectation–maximization (EM) algorithm as shown in Lee and Lin (2012) and Verbelen et al. (2016). However, when fitting the mixture to data of high dimension, the fitted density surface is often not smooth (with deep peaks and valleys) and the tail fitting may also be rather unsatisfactory. In this paper, we propose a generalized expectation conditional maximization (GECM) algorithm that maximizes a penalized likelihood with a proposed roughness penalty. The roughness penalty is based on integrated squared second derivative of the density function of aggregate data, which is used in functional data analysis. We illustrate the performance of the proposed method through some numerical experiments and real data applications.}
+}
+
+@article{fung_badescu_lin_2021,
+	author = {Tsz Chai Fung and Andrei L. Badescu and X. Sheldon Lin},
+	title = {A New Class of Severity Regression Models with an Application to IBNR Prediction},
+	journal = {North American Actuarial Journal},
+	volume = {25},
+	number = {2},
+	pages = {206-231},
+	year  = {2021},
+	publisher = {Routledge},
+	doi = {10.1080/10920277.2020.1729813},
+	abstract = {Insurance loss severity data often exhibit heavy-tailed behavior, complex distributional characteristics such as multimodality, and peculiar links between policyholders’ risk profiles and claim amounts. To capture these features, we propose a transformed Gamma logit-weighted mixture of experts (TG-LRMoE) model for severity regression. The model possesses several desirable properties. The TG-LRMoE satisfies the denseness property that warrants its full versatility in capturing any distribution and regression structures. It may effectively extrapolate a wide range of tail behavior. The model is also identifiable, which further ensures its suitability for statistical inference. To make the TG-LRMoE computationally tractable, an expectation conditional maximization (ECM) algorithm with parameter penalization is developed for efficient and robust parameter estimation. The proposed model is applied to fit the severity and reporting delay components of a European automobile insurance dataset. In addition to obtaining excellent goodness of fit, the proposed model is shown to be useful and crucial for adequate prediction of incurred but not reported (IBNR) reserves through out-of-sample testing. }
+}
+
+@article{lin_yang_2020, 
+	title={Efficient dynamic hedging for large variable annuity portfolios with multiple underlying assets}, 
+	volume={50}, 
+	DOI={10.1017/asb.2020.26}, 
+	number={3}, 
+	journal={ASTIN Bulletin}, 
+	publisher={Cambridge University Press}, 
+	author={Lin, X. Sheldon and Yang, Shuai}, 
+	year={2020}, 
+	pages={913–957},
+	abstract={A variable annuity (VA) is an equity-linked annuity that provides investment guarantees to its policyholder and its contributions are normally invested in multiple underlying assets (e.g., mutual funds), which exposes VA liability to significant market risks. Hedging the market risks is therefore crucial in risk managing a VA portfolio as the VA guarantees are long-dated liability that may span over decades. In order to hedge the VA liability, the issuing insurance company would need to construct a hedging portfolio consisting of the underlying assets whose positions are often determined by the liability Greeks such as partial dollar Deltas. Usually, these quantities are calculated via nested simulation. For insurance companies that manage large VA portfolios (e.g.,100K+ policies), calculating those quantities is extremely time-consuming or even prohibitive due to the complexity of the guarantee payoffs and the stochastic-on-stochastic nature of the nested simulation algorithm. In this paper, we extend the surrogate model-assisted nest simulation approach in Lin &Yang (2020) to efficiently calculate the total VA liability and the partial dollar Deltas for large VA portfolios with multiple underlying assets. In our proposed algorithm, the nested simulation is run using small sets of selected representative policies and representative outer-loops. As a result, the computing time is substantially reduced. The computational advantage of the proposed algorithm and the importance of dynamic hedging are further illustrated through a profit and loss (P&L) analysis for a large synthetic VA portfolio. Moreover, the robustness of the performance of the proposed algorithm is tested with multiple simulation runs. Numerical results show that the proposed algorithm is able to accurately approximate different quantities of interest and the performance is robust with respect to different sets of parameter inputs.}
+}
