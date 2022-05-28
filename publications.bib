@@ -76,3 +76,56 @@
 	pages={913–957},
 	abstract={A variable annuity (VA) is an equity-linked annuity that provides investment guarantees to its policyholder and its contributions are normally invested in multiple underlying assets (e.g., mutual funds), which exposes VA liability to significant market risks. Hedging the market risks is therefore crucial in risk managing a VA portfolio as the VA guarantees are long-dated liability that may span over decades. In order to hedge the VA liability, the issuing insurance company would need to construct a hedging portfolio consisting of the underlying assets whose positions are often determined by the liability Greeks such as partial dollar Deltas. Usually, these quantities are calculated via nested simulation. For insurance companies that manage large VA portfolios (e.g.,100K+ policies), calculating those quantities is extremely time-consuming or even prohibitive due to the complexity of the guarantee payoffs and the stochastic-on-stochastic nature of the nested simulation algorithm. In this paper, we extend the surrogate model-assisted nest simulation approach in Lin &Yang (2020) to efficiently calculate the total VA liability and the partial dollar Deltas for large VA portfolios with multiple underlying assets. In our proposed algorithm, the nested simulation is run using small sets of selected representative policies and representative outer-loops. As a result, the computing time is substantially reduced. The computational advantage of the proposed algorithm and the importance of dynamic hedging are further illustrated through a profit and loss (P&L) analysis for a large synthetic VA portfolio. Moreover, the robustness of the performance of the proposed algorithm is tested with multiple simulation runs. Numerical results show that the proposed algorithm is able to accurately approximate different quantities of interest and the performance is robust with respect to different sets of parameter inputs.}
 }
+
+@article{lin_yang_2020b,
+	title = {Fast and efficient nested simulation for large variable annuity portfolios: A surrogate modeling approach},
+	journal = {Insurance: Mathematics and Economics},
+	volume = {91},
+	pages = {85-103},
+	year = {2020},
+	issn = {0167-6687},
+	doi = {https://doi.org/10.1016/j.insmatheco.2020.01.002},
+	author = {X. Sheldon Lin and Shuai Yang},
+	keywords = {Variable annuity portfolio, Nested-simulation, Surrogate modeling, Spline regression, Population sampling},
+	abstract = {The nested-simulation is commonly used for calculating the predictive distribution of the total variable annuity (VA) liabilities of large VA portfolios. Due to the large numbers of policies, inner-loops and outer-loops, running the nested-simulation for a large VA portfolio is extremely time consuming and often prohibitive. In this paper, the use of surrogate models is incorporated into the nested-simulation algorithm so that the relationship between the inputs and the outputs of a simulation model is approximated by various statistical models. As a result, the nested-simulation algorithm can be run with much smaller numbers of different inputs. Specifically, a spline regression model is used to reduce the number of outer-loops and a model-assisted finite population estimation framework is adapted to reduce the number of policies in use for the nested-simulation. From simulation studies, our proposed algorithm is able to accurately approximate the predictive distribution of the total VA liability at a significantly reduced running time.}
+}
+
+@article{fung_badescu_lin_2019b,
+	title = {A class of mixture of experts models for general insurance: Theoretical developments},
+	journal = {Insurance: Mathematics and Economics},
+	volume = {89},
+	pages = {111-127},
+	year = {2019},
+	issn = {0167-6687},
+	doi = {https://doi.org/10.1016/j.insmatheco.2019.09.007},
+	author = {Tsz Chai Fung and Andrei L. Badescu and X. Sheldon Lin},
+	keywords = {Claim frequency and severity modeling, Denseness theory, Mixture of experts models, Multivariate regression analysis, Neural network},
+	abstract = {In the Property and Casualty (P&C) ratemaking process, it is critical to understand the effect of policyholders’ risk profile to the number and amount of claims, the dependence among various business lines and the claim distributions. To include all the above features, it is essential to develop a regression model which is flexible and theoretically justified. Motivated by the issues above, we propose a class of logit-weighted reduced mixture of experts (LRMoE) models for multivariate claim frequencies or severities distributions. LRMoE is interpretable, as it has two components: Gating functions, which classify policyholders into various latent sub-classes; and Expert functions, which govern the distributional properties of the claims. Also, upon the development of denseness theory in regression setting, we can heuristically interpret the LRMoE as a “fully flexible” model to capture any distributional, dependence and regression structures subject to a denseness condition. Further, the mathematical tractability of the LRMoE is guaranteed since it satisfies various marginalization and moment properties. Finally, we discuss some special choices of expert functions that make the corresponding LRMoE “fully flexible”. In the subsequent paper (Fung et al., 2019b), we will focus on the estimation and application aspects of the LRMoE.}
+}
+
+@article{badescu_chen_lin_tang_2019, 
+	title={A marked cox model for the number of ibnr claims: estimation and application}, 
+	volume={49}, 
+	DOI={10.1017/asb.2019.15}, 
+	number={3}, 
+	journal={ASTIN Bulletin}, 
+	publisher={Cambridge University Press}, 
+	author={Badescu, Andrei L. and Chen, Tianle and Lin, X. Sheldon and Tang, Dameng}, 
+	year={2019}, 
+	pages={709–739},
+	abstract={Incurred but not reported (IBNR) loss reserving is of great importance for Property & Casualty (P&C) insurers. However, the temporal dependence exhibited in the claim arrival process is not reflected in many current loss reserving models, which might affect the accuracy of the IBNR reserve predictions. To overcome this shortcoming, we proposed a marked Cox process and showed its many desirable properties in Badescu et al. (2016). In this paper, we consider the model estimation and applications. We first present an expectation–maximization (EM) algorithm which guarantees the efficiency of the estimators unlike the moment estimation methods widely used in estimating Cox processes. In addition, the proposed fitting algorithm can be implemented at a reasonable computational cost. We examine the performance of the proposed algorithm through simulation studies. The applicability of the proposed model is tested by fitting it to a real insurance claim data set. Through out-of-sample tests, we find that the proposed model can provide realistic predictive distributions.}
+}
+
+@article{fung_badescu_lin_2019c,
+	author = {Tsz Chai Fung and Andrei L. Badescu and X. Sheldon Lin},
+	title = {Multivariate Cox Hidden Markov models with an application to operational risk},
+	journal = {Scandinavian Actuarial Journal},
+	volume = {2019},
+	number = {8},
+	pages = {686-710},
+	year  = {2019},
+	publisher = {Taylor & Francis},
+	doi = {10.1080/03461238.2019.1598482},
+	abstract = {Modeling multivariate time-series aggregate losses is an important actuarial topic that is very challenging due to the fact that losses can be serially dependent with heterogeneous dependence structures across loss types and business lines. In this paper, we investigate a flexible class of multivariate Cox Hidden Markov Models for the joint arrival process of loss events. Some of the nice properties possessed by this class of models, such as closed-form expressions, thinning properties and model versatility are discussed in details. We provide the expectation-maximization (EM) algorithm for efficient model calibration. Applying the proposed model to an operational risk dataset, we demonstrate that the model offers sufficient flexibility to capture most characteristics of the observed loss frequencies. By modeling the log-transformed loss severities through mixture of Erlang distributions, we can model the aggregate losses. Finally, out-of-sample testing shows that the proposed model is adequate to predict short-term future operational risk losses. }
+}
+
