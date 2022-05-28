@@ -56,7 +56,7 @@ social:
 
 # - icon: user-graduate
 #   icon_pack: fas
-#   link: https://www.linkedin.com/in/allen-sjogren-85403a22
+#   link: https://sparktseung.com/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tpatterson
@@ -66,9 +66,12 @@ social:
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.ece.utah.edu/prospective-students/
-# - icon: university
-#   icon_pack: fas
-#   link: https://www.colorado.edu/ecee
+- icon: university
+  icon_pack: fas
+  link: https://www.statistics.utoronto.ca/people/directories/all-faculty/andrei-badescu
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/spark-tseung-b322b8223/
 
 
 # Link to a PDF of your resume/CV from the About widget.

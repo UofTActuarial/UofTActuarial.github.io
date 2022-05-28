@@ -40,11 +40,11 @@ projects:
 department:
 - Department of Statistical Sciences
 
-education:
-  courses:
-  - course: BS in Actuarial Science
-    institution: University of Hong Kong
-    year: 2018
+# education:
+#   courses:
+#   - course: BS in Actuarial Science
+#     institution: University of Hong Kong
+#     year: 2018
 
 
 
@@ -54,9 +54,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-# - icon: user-graduate
-#   icon_pack: fas
-#   link: https://www.linkedin.com/in/allen-sjogren-85403a22
+- icon: user-graduate
+  icon_pack: fas
+  link: https://utstat.toronto.edu/sheldon/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tpatterson
@@ -66,9 +66,12 @@ social:
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.ece.utah.edu/prospective-students/
-# - icon: university
-#   icon_pack: fas
-#   link: https://www.colorado.edu/ecee
+- icon: university
+  icon_pack: fas
+  link: https://www.statistics.utoronto.ca/people/directories/all-faculty/sheldon-lin
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/spark-tseung-b322b8223/
 
 
 # Link to a PDF of your resume/CV from the About widget.
