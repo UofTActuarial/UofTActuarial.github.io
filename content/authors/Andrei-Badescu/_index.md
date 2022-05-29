@@ -31,7 +31,11 @@ university: UofT
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-# - Genetic Circuit Design
+- Risk and Ruin Theory
+- Matrix Analytic Methods in Insurance and Related Areas
+- Stochastic Claim Reserving
+- Dependence Modelling in Actuarial Science
+- Predictive Analytics
 
 projects:
 # - <a href="/author/ibiosim/">iBioSim</a>
@@ -96,3 +100,4 @@ display_groups:
 # - Genetic Design Automation Area
 ---
 
+Andrei Badescu is a professor of actuarial science in the Department of Statistical Sciences at the University of Toronto (Canada). He is an associate editor at *Insurance: Mathematics and Economics*.

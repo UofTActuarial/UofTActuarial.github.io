@@ -31,7 +31,11 @@ university: UofT
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-# - Genetic Circuit Design
+- Applied Statistics
+- Data Science
+- Operations Research
+- Loss Modeling
+- Bayesian Methods
 
 projects:
 # - <a href="/author/ibiosim/">iBioSim</a>
@@ -54,9 +58,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-# - icon: user-graduate
-#   icon_pack: fas
-#   link: https://utstat.toronto.edu/sheldon/
+- icon: user-graduate
+  icon_pack: fas
+  link: https://www.sfcalceterov.com/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tpatterson
@@ -96,3 +100,4 @@ display_groups:
 # - Genetic Design Automation Area
 ---
 
+Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.

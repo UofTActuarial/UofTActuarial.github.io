@@ -31,7 +31,11 @@ university: UofT
 # bio: 
 
 interests:
-# - Genetic Circuit Design
+- Risk Modelling
+- Loss Reserving
+- Usage-based Insurance (UBI)
+- Data Science
+- Statistics Education
 
 projects:
 # - <a href="/author/ibiosim/">iBioSim</a>

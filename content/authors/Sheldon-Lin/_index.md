@@ -31,7 +31,9 @@ university: UofT
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-# - Genetic Circuit Design
+- Actuarial Science
+- Mathematical Finance
+- Applied Probability
 
 projects:
 # - <a href="/author/ibiosim/">iBioSim</a>
