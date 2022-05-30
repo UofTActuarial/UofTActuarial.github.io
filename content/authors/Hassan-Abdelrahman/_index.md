@@ -93,3 +93,4 @@ display_groups:
 # - Genetic Design Automation Area
 ---
 
+Email: hassan [dot] abdelrahman [at] mail [dot] utoronto [dot] ca

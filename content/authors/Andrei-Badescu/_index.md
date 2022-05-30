@@ -101,3 +101,5 @@ display_groups:
 ---
 
 Andrei Badescu is a professor of actuarial science in the Department of Statistical Sciences at the University of Toronto (Canada). He is an associate editor at *Insurance: Mathematics and Economics*.
+
+Email: andrei [dot] badescu [at] utoronto [dot] ca

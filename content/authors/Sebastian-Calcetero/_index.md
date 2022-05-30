@@ -101,3 +101,5 @@ display_groups:
 ---
 
 Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.
+
+Email: sebastian [dot] calcetero [at] mail [dot] utoronto [dot] ca

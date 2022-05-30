@@ -98,3 +98,4 @@ display_groups:
 # - Genetic Design Automation Area
 ---
 
+Email: sheldon [dot] lin [at] utoronto [dot] ca

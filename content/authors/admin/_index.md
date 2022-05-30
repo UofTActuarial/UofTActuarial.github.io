@@ -18,6 +18,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Statistical Sciences
+  url: ""
 - name: University of Toronto
   url: ""
 
@@ -72,6 +74,6 @@ user_groups:
 
 ---
 
-We are a group of researchers in the Department of Statistical Sciences, University of Toronto.
+<!-- We are a group of researchers in the Department of Statistical Sciences, University of Toronto. -->
 
 Here you will find information and some of the most recent research work by our group.

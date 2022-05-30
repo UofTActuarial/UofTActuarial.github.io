@@ -97,3 +97,5 @@ display_groups:
 ---
 
 Chau Lung Ngan Spark Tseung is a third-year PhD student in the Department of Statistical Sciences, with a research focus on actuarial science. His academic goal is to apply novel machine learning and data science methods to solving actuarial problems such as pricing and claims reserving. Apart from academics, he enjoys reading fictions and history. Prior to joining U of T, he obtained a bachelor’s degree in actuarial science from the University of Hong Kong.
+
+Email: spark [dot] tseung [at] mail [dot] utoronto [dot] ca
