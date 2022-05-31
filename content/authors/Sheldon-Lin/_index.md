@@ -12,6 +12,7 @@ authors:
 #Author Names (alternative spellings etc)
 names:
 - X. Sheldon Lin
+- Sheldon Lin
 
 # Is this the primary user of the site?
 superuser: false

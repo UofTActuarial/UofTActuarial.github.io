@@ -129,3 +129,80 @@
 	abstract = {Modeling multivariate time-series aggregate losses is an important actuarial topic that is very challenging due to the fact that losses can be serially dependent with heterogeneous dependence structures across loss types and business lines. In this paper, we investigate a flexible class of multivariate Cox Hidden Markov Models for the joint arrival process of loss events. Some of the nice properties possessed by this class of models, such as closed-form expressions, thinning properties and model versatility are discussed in details. We provide the expectation-maximization (EM) algorithm for efficient model calibration. Applying the proposed model to an operational risk dataset, we demonstrate that the model offers sufficient flexibility to capture most characteristics of the observed loss frequencies. By modeling the log-transformed loss severities through mixture of Erlang distributions, we can model the aggregate losses. Finally, out-of-sample testing shows that the proposed model is adequate to predict short-term future operational risk losses. }
 }
 
+@article{yin_lin_huang_yuan_2019,
+	title = {On the consistency of penalized MLEs for Erlang mixtures},
+	journal = {Statistics & Probability Letters},
+	volume = {145},
+	pages = {12-20},
+	year = {2019},
+	issn = {0167-7152},
+	doi = {https://doi.org/10.1016/j.spl.2018.08.004},
+	author = {Cuihong Yin and X. Sheldon Lin and Rongtan Huang and Haili Yuan},
+	keywords = {Erlang mixture, Insurance loss modeling, Penalized maximum likelihood estimates, Consistency},
+	abstract = {In Yin and Lin (2016), a new penalty, termed as iSCAD penalty, is proposed to obtain the maximum likelihood estimates (MLEs) of the weights and the common scale parameter of an Erlang mixture model. In that paper, it is shown through simulation studies and a real data application that the penalty provides an efficient way to determine the MLEs and the order of the mixture. In this paper, we provide a theoretical justification and show that the penalized maximum likelihood estimators of the weights and the scale parameter as well as the order of mixture are all consistent.}
+}
+
+@article{gui_huang_lin_2018,
+	title = {Fitting the Erlang mixture model to data via a GEM-CMM algorithm},
+	journal = {Journal of Computational and Applied Mathematics},
+	volume = {343},
+	pages = {189-205},
+	year = {2018},
+	issn = {0377-0427},
+	doi = {https://doi.org/10.1016/j.cam.2018.04.032},
+	author = {Wenyong Gui and Rongtan Huang and X. Sheldon Lin},
+	keywords = {Erlang mixture model, Insurance loss data, Generalized EM algorithm, Clusterized method of moments, Local search method},
+	abstract = {The Erlang mixture model with common scale parameter is flexible and analytically tractable. As such, it is a useful model to fit insurance loss data and to calculate quantities of interest for insurance risk management. In this paper, we propose a generalized expectation–maximization (GEM) algorithm along with a clusterized method of moments (CMM) to estimate the model parameters. The GEM algorithm not only estimates the mixing weights and scale parameter of the model but also estimates the shape parameters of the model using a local search method. The CMM method enables to produce quality initial estimates for the GEM algorithm. As a result, the proposed approach provides an efficient algorithm that can fit the model to the body and the tail of truncated and censored loss data well and converges fast. We examine the performance of the proposed approach through several simulation studies and apply it to fit the Erlang mixture model to two real loss data sets.}
+}
+
+@article{lee_lin_2018,
+	author = {Simon C. K. Lee and Sheldon Lin},
+	title = {Delta Boosting Machine with Application to General Insurance},
+	journal = {North American Actuarial Journal},
+	volume = {22},
+	number = {3},
+	pages = {405-425},
+	year  = {2018},
+	publisher = {Routledge},
+	doi = {10.1080/10920277.2018.1431131},
+	abstract = {In this article, we introduce Delta Boosting (DB) as a new member of the boosting family. Similar to the popular Gradient Boosting (GB), this new member is presented as a forward stagewise additive model that attempts to reduce the loss at each iteration by sequentially fitting a simple base learner to complement the running predictions. Instead of relying on the negative gradient, as is the case for GB, DB adopts a new measure called delta as the basis. Delta is defined as the loss minimizer at an observation level. We also show that DB is the optimal boosting member for a wide range of loss functions. The optimality is a consequence of DB solving for the split and adjustment simultaneously to maximize loss reduction at each iteration. In addition, we introduce an asymptotic version of DB that works well for all twice-differentiable strictly convex loss functions. This asymptotic behavior does not depend on the number of observations, but rather on a high number of iterations that can be augmented through common regularization techniques. We show that the basis in the asymptotic extension differs from the basis in GB only by a multiple of the second derivative of the log-likelihood. The multiple is considered to be a correction factor, one that corrects the bias toward the observations with high second derivatives in GB. When negative log-likelihood is used as the loss function, this correction can be interpreted as a credibility adjustment for the process variance. Simulation studies and real data application we conducted suggest that DB is a significant improvement over GB. The performance of the asymptotic version is less dramatic, but the improvement is still compelling. Like GB, DB provides a high transparency to users, and we can review the marginal influence of variables through relative importance charts and the partial dependence plots. We can also assess the overall model performance through evaluating the losses, lifts, and double lifts on the holdout sample. }
+}
+
+@article{yin_lin_2016, 
+	title={Efficient estimation of erlang mixtures using iscad penalty with insurance application}, 
+	volume={46}, 
+	DOI={10.1017/asb.2016.14}, 
+	number={3}, 
+	journal={ASTIN Bulletin}, 
+	publisher={Cambridge University Press},
+	author={Yin, Cuihong and Lin, X. Sheldon}, 
+	year={2016}, 
+	pages={779–799},
+	abstract={The Erlang mixture model has been widely used in modeling insurance losses due to its desirable distributional properties. In this paper, we consider the problem of efficient estimation of the Erlang mixture model. We present a new thresholding penalty function and a corresponding EM algorithm to estimate model parameters and to determine the order of the mixture. Using simulation studies and a real data application, we demonstrate the efficiency of the EM algorithm.}
+ }
+
+ @article{badescu_lin_tang_2016,
+	title = {A marked Cox model for the number of IBNR claims: Theory},
+	journal = {Insurance: Mathematics and Economics},
+	volume = {69},
+	pages = {29-37},
+	year = {2016},
+	issn = {0167-6687},
+	doi = {https://doi.org/10.1016/j.insmatheco.2016.03.016},
+	author = {Andrei L. Badescu and X. Sheldon Lin and Dameng Tang},
+	keywords = {IBNR claims, Loss reserving, Cox model, Hidden Markov chain, Temporal dependence, Pascal mixture},
+	abstract = {Incurred but not reported (IBNR) loss reserving is an important issue for Property & Casualty (P&C) insurers. To calculate IBNR reserve, one needs to model claim arrivals and then predict IBNR claims. However, factors such as temporal dependence among claim arrivals and environmental variation are often not incorporated in many of the current loss reserving models, which may greatly affect the accuracy of IBNR predictions. In this paper, we propose to model the claim arrival process together with its reporting delays as a marked Cox process. Our model is versatile in modeling temporal dependence, allowing also for natural interpretations. This paper focuses mainly on the theoretical aspects of the proposed model. We show that the associated reported claim process and IBNR claim process are both marked Cox processes with easily convertible intensity functions and marking distributions. The proposed model can also account for fluctuations in the exposure. By an order statistics property, we show that the corresponding discretely observed process preserves all the information about the claim arrivals. Finally, we derive closed-form expressions for both the autocorrelation function (ACF) and the distributions of the numbers of reported claims and IBNR claims. Model estimation and its applications are considered in a subsequent paper, Badescu et al. (2015b).}
+}
+
+@article{verbelen_gong_antonio_badescu_lin_2015, 
+	title={Fitting mixtures of erlangs to censored and truncated data using the EM algorithm}, 
+	volume={45}, 
+	DOI={10.1017/asb.2015.15}, 
+	number={3}, 
+	journal={ASTIN Bulletin}, 
+	publisher={Cambridge University Press}, 
+	author={Verbelen, Roel and Gong, Lan and Antonio, Katrien and Badescu, Andrei and Lin, Sheldon}, 
+	year={2015}, 
+	pages={729–758},
+	abstract={We discuss how to fit mixtures of Erlangs to censored and truncated data by iteratively using the EM algorithm. Mixtures of Erlangs form a very versatile, yet analytically tractable, class of distributions making them suitable for loss modeling purposes. The effectiveness of the proposed algorithm is demonstrated on simulated data as well as real data sets.}
+}
