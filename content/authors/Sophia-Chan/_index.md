@@ -104,6 +104,6 @@ display_groups:
 # - Genetic Design Automation Area
 ---
 
-Sophia is a PhD candidate in actuarial science at the University of Toronto, supervised by Prof. <a href="/author/sheldon-lin/">X. Sheldon Lin </a> and Prof. <a href="/author/andrei-badescu/">Andrei L. Badescu</a>.  Her research focuses on risk modelling, particularly in the context of general insurance.  Recently she has been exploring usage-based insurance and enhancement of auto-insurance ratemaking via incorporation of vehicle telematics data.  Prior to her current studies, she received her HBSc in Actuarial Science and Masters in Financial Insurance both from U of T.
+Sophia Chan is a PhD candidate in actuarial science at the University of Toronto, supervised by Prof. <a href="/author/sheldon-lin/">X. Sheldon Lin </a> and Prof. <a href="/author/andrei-badescu/">Andrei L. Badescu</a>.  Her research focuses on risk modelling, particularly in the context of general insurance.  Recently she has been exploring usage-based insurance and enhancement of auto-insurance ratemaking via incorporation of vehicle telematics data.  Prior to her current studies, she received her HBSc in Actuarial Science and Masters in Financial Insurance both from U of T.
 
 Email: ianweng [dot] chan [at] mail [dot] utoronto [dot] ca
