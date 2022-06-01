@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Fitting mixtures of erlangs to censored and truncated data using the EM algorithm
+title: Fitting mixtures of Erlangs to censored and truncated data using the EM algorithm
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-31T01:19:26.708326Z'
+publishDate: '2022-06-01T22:16:45.588937Z'
 publication_types:
 - '2'
 abstract: We discuss how to fit mixtures of Erlangs to censored and truncated data

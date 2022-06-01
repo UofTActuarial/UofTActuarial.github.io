@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Efficient estimation of erlang mixtures using iscad penalty with insurance
+title: Efficient estimation of Erlang mixtures using iSCAD penalty with insurance
   application
 subtitle: ''
 summary: ''
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-31T01:16:33.160301Z'
+publishDate: '2022-06-01T22:16:43.493535Z'
 publication_types:
 - '2'
 abstract: The Erlang mixture model has been widely used in modeling insurance losses
