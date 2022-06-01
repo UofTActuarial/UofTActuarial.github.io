@@ -12,7 +12,6 @@ authors:
 # Author Names (alternative spellings etc)
 names:
 - Ian Weng Chan
-- Sophia Chan
 
 # Is this the primary user of the site?
 superuser: true
