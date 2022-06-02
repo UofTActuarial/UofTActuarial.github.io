@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: PhD Alumni
+role: PhD, 2020
 
 # Organizations/Affiliations
 organizations:
