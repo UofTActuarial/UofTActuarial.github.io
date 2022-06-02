@@ -64,3 +64,6 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% callout note %}}
+View our list of [software packages](/software/).
+{{% /callout %}}
