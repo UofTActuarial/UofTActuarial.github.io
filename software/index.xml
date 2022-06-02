@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Softwares | UofT ActSci</title><link>https://actsci.utstat.utoronto.ca/software/</link><atom:link href="https://actsci.utstat.utoronto.ca/software/index.xml" rel="self" type="application/rss+xml"/><description>Softwares</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://actsci.utstat.utoronto.ca/images/icon_hu4d218d6b5a759e6192687f4e4cea32fb_24821_512x512_fill_lanczos_center_2.png</url><title>Softwares</title><link>https://actsci.utstat.utoronto.ca/software/</link></image><item><title>LRMoE Package</title><link>https://actsci.utstat.utoronto.ca/software/lrmoe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://actsci.utstat.utoronto.ca/software/lrmoe/</guid><description>&lt;p>LRMoE packages are available in Julia and R.&lt;/p>
+&lt;ul>
+&lt;li>In Julia: &lt;a href="https://uoftactuarial.github.io/LRMoE.jl/" target="_blank" rel="noopener">documentation&lt;/a>&lt;/li>
+&lt;li>In R: &lt;a href="https://uoftactuarial.github.io/LRMoE/" target="_blank" rel="noopener">documentation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>LRMoE is a package tailor-made for actuarial applications which allows actuarial researchers and practitioners to model and analyze insurance loss frequencies and severities using the Logit-weighted Reduced Mixture-of-Experts (LRMoE) model. The flexibility of LRMoE models is theoretically justified in &lt;a href="https://actsci.utstat.utoronto.ca/publication/fung-badescu-lin-2019-b/">Fung et al. (2019)&lt;/a>, and an application of LRMoE for modelling correlated insurance claim frequencies is in &lt;a href="https://actsci.utstat.utoronto.ca/publication/fung-badescu-lin-2019/">Fung et al. (2019)&lt;/a>.&lt;/p>
+&lt;p>The package LRMoE offers several new distinctive features which are motivated by various actuarial applications and mostly cannot be achieved using existing packages for mixture models. Key features include:&lt;/p>
+&lt;ul>
+&lt;li>A wider coverage on frequency and severity distributions and their zero inflation;&lt;/li>
+&lt;li>The flexibility to vary classes of distributions across components;&lt;/li>
+&lt;li>Parameter estimation under data censoring and truncation;&lt;/li>
+&lt;li>A collection of insurance rate making and reserving functions; and&lt;/li>
+&lt;li>Model selection and visualization tools.&lt;/li>
+&lt;/ul>
+&lt;p>While LRMoE was initially developed for actuarial application, this package also allows for customized expert functions for various modelling problems outside of the insurance context.&lt;/p></description></item></channel></rss>
