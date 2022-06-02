@@ -20,6 +20,12 @@
   weight = 50
   identifier = "Publications"
 
+[[main]]
+  name = "Software"
+  url = "/software"
+  weight = 70
+  identifier = "Software"
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
