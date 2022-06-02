@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Click on the titles for more information, or quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Quickly discover relevant content by [filtering publications](/publication/).
 {{% /callout %}}

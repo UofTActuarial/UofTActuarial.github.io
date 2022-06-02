@@ -65,5 +65,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-View our list of [software packages](/software/).
+View our list of [software packages](/software/) and their documentations.
 {{% /callout %}}
