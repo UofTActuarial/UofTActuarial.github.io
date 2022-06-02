@@ -11,4 +11,8 @@ title = "Welcome to the University of Toronto Actuarial Science Research Group!"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "0", "0px", "0"]
 +++
