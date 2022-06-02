@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -92,5 +92,7 @@ display_groups:
 # - iBioSim Tool
 # - Genetic Design Automation Area
 ---
+
+Hassan Abdelrahman is a first-year PhD student in the Department of Statistical Sciences, supervised by Professors Andrei Badescu and Sheldon Lin. He is mainly interested in micro-level claim reserving and ratemaking. Prior to joining U of T, he graduated with a double major in Actuarial Science and Mathematics from the American University in Cairo, before obtaining a Master of Mathematics in Actuarial Science from the University of Waterloo.
 
 Email: hassan [dot] abdelrahman [at] mail [dot] utoronto [dot] ca
