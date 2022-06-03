@@ -33,8 +33,6 @@ university: UofT
 
 interests:
 - Actuarial Science
-- Mathematical Finance
-- Applied Probability
 
 projects:
 # - <a href="/author/ibiosim/">iBioSim</a>
