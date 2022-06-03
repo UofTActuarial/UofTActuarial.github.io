@@ -12,7 +12,7 @@
 * Create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
 
-## How To's:
+## How To's
 
 ### Edit Personal Profiles:
 
@@ -52,7 +52,7 @@
   A folder for each of your publication will be added under content\publication; the folder name automatically replaces any underscore(_) with hyphen(-).
 * To include a pdf of a publication, place the pdf file in the corresponding folder and rename it the same as the folder name.
 
-## More on the Website Design:
+## More on the Website Design (Skip for Non-maintainers)
 ### Website Structure Overview
 
 * The general file structure looks like this: https://wowchemy.com/docs/get-started/#remove-any-unused-example-pages
@@ -111,6 +111,6 @@
 
   Like most website there are css files. You can go in and edit them to change the way the page appears. Better practice is to use the file for custom scss located under themes\academic\assests\scss\custom.scss. Be careful overriding anything in here as it can drastically affect the way widgets works.
 
-## Common error and mistakes
+## Common Error and Mistakes
 
 * Folders **must not** have any spaces. Use web-friendly hyphens instead.
