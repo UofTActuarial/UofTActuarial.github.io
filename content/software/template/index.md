@@ -1,9 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LRMoE Package"
-summary: "Logit-weighted Reduced Mixture of Experts model, packages available in Julia and R."
-date: "2021-11-17T00:00:00Z"
+title: "Template Package"
+summary: "Template model, packages available in R."
+date: "2200-01-01T00:00:00Z" 
+# date as to be earlier than today's date for the page to show; default is to set to package's last update date
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://sbolstandard.org/"
@@ -37,6 +38,7 @@ date: "2021-11-17T00:00:00Z"
 # slides: ""
 ---
 
+# The following is the description section for the LRMoE package for your reference.
 LRMoE packages are available in Julia and R.
 - In Julia: [documentation](https://uoftactuarial.github.io/LRMoE.jl/)
 - In R: [documentation](https://uoftactuarial.github.io/LRMoE/)

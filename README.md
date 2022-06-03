@@ -41,7 +41,7 @@
     ~~~
     pip3 install -U academic
     ~~~
-* All publications are stored in publications.bib.
+* All publications are stored in publications.bib located at the root folder.
 * To add a publication, input the reference in bibtex into publications.bib.
   * Modify the title if necessary, e.g. citations downloaded from ASTIN have the whole title capitalized.
   * Inclusion of the abstract is encouraged - it will be displayed on the publication's individual page.
@@ -51,6 +51,17 @@
   ~~~
   A folder for each of your publication will be added under content\publication; the folder name automatically replaces any underscore(_) with hyphen(-).
 * To include a pdf of a publication, place the pdf file in the corresponding folder and rename it the same as the folder name.
+
+### Edit List of Softwares:
+
+* Software pages are located in content\software.
+* To create a new software page:
+  * Copy the template folder, paste and rename it as the package's name.
+* Once the package folder is created, change the index.md file in the folder.  In particular, fill in the following fields:
+  * title - required
+  * summary - required
+  * date - required, for the page to show
+  * A description at the end of the file.
 
 ## More on the Website Design (Skip for Non-maintainers)
 ### Website Structure Overview
