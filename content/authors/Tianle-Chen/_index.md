@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Dameng Tang
+title: Tianle Chen
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 810
 
 # Username (this should match the folder name)
 authors:
-- Dameng Tang
+- Tianle Chen
 
 #Author Names (alternative spellings etc)
 names:
-- Dameng Tang
+- Tianle Chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD, 2016
+role: 
 
 # Organizations/Affiliations
 organizations:

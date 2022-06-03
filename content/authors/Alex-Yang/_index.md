@@ -83,7 +83,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Alumni
+- Former PhD Students
 # - iBioSim
 # - Genetic Design Automation
 
