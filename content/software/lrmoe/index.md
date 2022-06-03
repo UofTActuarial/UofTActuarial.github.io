@@ -6,8 +6,7 @@ summary: "Logit-weighted Reduced Mixture of Experts model, packages available in
 authors: []
 tags: []
 categories: []
-date:
-show_date: false
+date: "2021-11-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://sbolstandard.org/"
