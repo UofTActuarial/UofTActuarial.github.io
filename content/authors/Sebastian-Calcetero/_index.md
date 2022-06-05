@@ -100,6 +100,6 @@ display_groups:
 # - Genetic Design Automation Area
 ---
 
-Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.
+Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance. You can doiwnload my CV [here](https://drive.google.com/uc?export=download&id=1wWPZ1hHzRfIENGqokJ51ZXHb7YGR5MGl).
 
 Email: sebastian [dot] calcetero [at] mail [dot] utoronto [dot] ca
