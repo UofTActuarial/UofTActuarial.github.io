@@ -63,6 +63,6 @@ user_groups: # Uncomment your corresponding group.
 
 <!-- Include your short bio here.
 
-You can download my CV [here](external links). -->
+You can download his/her CV [here](external links). -->
 
 Email: sheldon [dot] lin [at] utoronto [dot] ca

@@ -62,6 +62,6 @@ user_groups: # Uncomment your corresponding group.
 
 Include your short bio here.
 
-You can download my CV [here](external links).
+You can download his/her CV [here](external links).
 
 Email: (your email, e.g. firstname [dot] lastname [at] mail [dot] utoronto [dot] ca, to avoid spam)
