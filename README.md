@@ -2,6 +2,10 @@
 
 ## Website Editting
 
+**If you are unfamiliar with coding:**
+* Follow **How To's** below and edit the corresponding files on Github directly.
+
+**If you have experience with coding:**
 * Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
 * cd into a directory you want to have the file in
 * git clone https://github.com/UofTActuarial/UofTActuarial.github.io.git
@@ -19,7 +23,7 @@
 * Personal profiles are located in content\authors.
 * To create a new profile:
   * Copy the Profile-Template folder, paste and rename it as your Firstname-Lastname.
-* Once your profile folder is created, change the _index.md file in your folder.  In particular, fill in the following fields:
+* Once your profile folder is created, change the _index.md file in your folder.  In particular, fill in the following fields (please refer to the markdown file for field descriptions):
   * title - required
   * weight - required, for correct ordering
   * authors - required
@@ -34,6 +38,16 @@
   * Since avatars are set to display as circle and center, make sure your face is relatively centered in your photo; crop first if necessary.
 
 ### Edit List of Publications:
+
+**If you are unfamiliar with coding:**
+
+* All publications are stored in publications.bib located at the root folder.
+* To add a publication, input the reference in bibtex into publications.bib.
+  * Modify the title if necessary, e.g. citations downloaded from ASTIN have the whole title capitalized.
+  * Inclusion of the abstract is encouraged - it will be displayed on the publication's individual page.
+* Contact the website manager to update the list on the website.
+
+**If you have experienced with coding:**
 
 * Prerequisite:
   * To edit the list of publications, please install and use the [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage).  It uses [Python 3.6+](https://realpython.com/installing-python/), so install if it's not already installed.
@@ -63,7 +77,7 @@
   * date - required, for the page to show
   * A description at the end of the file.
 
-## More on the Website Design (Skip for Non-maintainers)
+## More on the Website Design (Skip for Non-website managers)
 ### Website Structure Overview
 
 * The general file structure looks like this: https://wowchemy.com/docs/get-started/#remove-any-unused-example-pages

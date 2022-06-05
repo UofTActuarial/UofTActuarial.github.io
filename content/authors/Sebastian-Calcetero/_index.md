@@ -2,33 +2,27 @@
 # Display name
 title: Sebastian Calcetero
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
+# Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
+# Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
 weight: 203
 
 # Username (this should match the folder name)
 authors:
 - Sebastian Calcetero
 
-#Author Names (alternative spellings etc)
+# Author Names (alternative spellings etc)
 names:
-- Sebastian Calcetero
+- Sebastian Calcetero # or any other spellings as in your publication citations
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? DO NOT CHANGE THIS FIELD
 superuser: false
 
-# Role/position
+# Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
 role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
 - name: University of Toronto
-  url: ""
-
-#Utah or CU
-university: UofT
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Applied Statistics
@@ -37,39 +31,25 @@ interests:
 - Loss Modeling
 - Bayesian Methods
 
-projects:
-# - <a href="/author/ibiosim/">iBioSim</a>
-
-
 department:
 - Department of Statistical Sciences
 
+# Uncomment the following to include education; not required at the moment.
 education:
-  # courses:
-  # - course: BS in Actuarial Science
-  #   institution: University of Hong Kong
-  #   year: 2018
-
-
+#   courses:
+#   - course: BS in Actuarial Science
+#     institution: University of Toronto
+#     year: 2018
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+social: # uncomment the social link sections you are providing
 
 - icon: user-graduate
   icon_pack: fas
   link: https://www.sfcalceterov.com/
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/tpatterson
-#- icon: orcid
-#  icon_pack: fab
-#  link: https://orcid.org/0000-0002-8627-0591
-# - icon: university-logo
-#   icon_pack: Custom_University
-#   link: https://www.ece.utah.edu/prospective-students/
+#   link: <replace with github page>
 - icon: university
   icon_pack: fas
   link: https://www.statistics.utoronto.ca/people/directories/graduate-students/sebasti%C3%A1n-calcetero
@@ -77,29 +57,15 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/sebastiancalcetero/
 
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: https://drive.google.com/uc?export=download&id=1wWPZ1hHzRfIENGqokJ51ZXHb7YGR5MGl
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+# Organizational groups that you belong to
+user_groups: # Uncomment your corresponding group.
+# - Faculty
 - PhD Students
-# - iBioSim
-# - Genetic Design Automation
-
-#any user groups to display on the page
-display_groups:
-# - iBioSim Tool
-# - Genetic Design Automation Area
+# - Former Graduate Students
 ---
 
-Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance. You can doiwnload my CV [here](https://drive.google.com/uc?export=download&id=1wWPZ1hHzRfIENGqokJ51ZXHb7YGR5MGl).
+Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.
+
+You can download my CV [here](https://drive.google.com/uc?export=download&id=1wWPZ1hHzRfIENGqokJ51ZXHb7YGR5MGl).
 
 Email: sebastian [dot] calcetero [at] mail [dot] utoronto [dot] ca

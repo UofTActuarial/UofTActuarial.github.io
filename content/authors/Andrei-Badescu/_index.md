@@ -2,34 +2,28 @@
 # Display name
 title: Andrei Badescu
 
-# Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
+# Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
+# Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
 weight: 1
 
 # Username (this should match the folder name)
 authors:
 - Andrei Badescu
 
-#Author Names (alternative spellings etc)
+# Author Names (alternative spellings etc)
 names:
 - Andrei L. Badescu
-- Andrei Badescu
+- Andrei Badescu # or any other spellings as in your publication citations
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? DO NOT CHANGE THIS FIELD
 superuser: false
 
-# Role/position
+# Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
 role: Professor, Actuarial Science
 
 # Organizations/Affiliations
 organizations:
 - name: University of Toronto
-  url: ""
-
-#Utah or CU
-university: UofT
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Risk and Ruin Theory
@@ -38,67 +32,37 @@ interests:
 - Dependence Modelling in Actuarial Science
 - Predictive Analytics
 
-projects:
-# - <a href="/author/ibiosim/">iBioSim</a>
-
-
 department:
 - Department of Statistical Sciences
 
+# Uncomment the following to include education; not required at the moment.
 education:
-  # courses:
-  # - course: BS in Actuarial Science
-  #   institution: University of Hong Kong
-  #   year: 2018
-
-
+#   courses:
+#   - course: BS in Actuarial Science
+#     institution: University of Toronto
+#     year: 2018
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+social: # uncomment the social link sections you are providing
 
 # - icon: user-graduate
 #   icon_pack: fas
-#   link: https://sparktseung.com/
+#   link: <replace with personal webpage>
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/tpatterson
-#- icon: orcid
-#  icon_pack: fab
-#  link: https://orcid.org/0000-0002-8627-0591
-# - icon: university-logo
-#   icon_pack: Custom_University
-#   link: https://www.ece.utah.edu/prospective-students/
+#   link: <replace with github page>
 - icon: university
   icon_pack: fas
   link: https://www.statistics.utoronto.ca/people/directories/all-faculty/andrei-badescu
 # - icon: linkedin
 #   icon_pack: fab
-#   link: https://www.linkedin.com/in/spark-tseung-b322b8223/
+#   link: <replace with linkedin>
 
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+# Organizational groups that you belong to
+user_groups: # Uncomment your corresponding group.
 - Faculty
-# - iBioSim
-# - Genetic Design Automation
-
-#any user groups to display on the page
-display_groups:
-# - iBioSim Tool
-# - Genetic Design Automation Area
+# - PhD Students
+# - Former Graduate Students
 ---
 
 Andrei Badescu is a professor of actuarial science in the Department of Statistical Sciences at the University of Toronto (Canada). He is an associate editor at *Insurance: Mathematics and Economics*.
