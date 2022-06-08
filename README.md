@@ -10,7 +10,7 @@
 * cd into a directory you want to have the file in
 * git clone https://github.com/UofTActuarial/UofTActuarial.github.io.git
 * cd into the UofTActuarial.github.io folder
-* `hugo server`
+* `hugo server` which allows you to view changes on the localhost first.
 * Check it is up and running at localhost:1313
 * Install the text editor of your choice
 * Create branch for the repository and open the branch in vs code
