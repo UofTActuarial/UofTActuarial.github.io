@@ -44,4 +44,4 @@ SWIM package is available in R and Shiny app.
 
 ---
 
-The SWIM package provides weights on simulated scenarios from a stochastic model, such that stressed model components (random variables) fulfil given probabilistic constraints (e.g. specified values for risk measures), under the new scenario weights. Scenario weights are selected by constrained minimisation of the relative entropy to the baseline model. The SWIM package is based on the papers [Pesenti et al. (2019)](/publication/pesenti-millossovich-tsanakas-2019) and [Pesenti (2021)](/publication/pesenti-2021)
+The SWIM package provides weights on simulated scenarios from a stochastic model, such that stressed model components (random variables) fulfil given probabilistic constraints (e.g. specified values for risk measures), under the new scenario weights. Scenario weights are selected by constrained minimisation of the relative entropy to the baseline model. The SWIM package is based on the papers [Pesenti et al. (2019)](/publication/pesenti-millossovich-tsanakas-2019) and [Pesenti (2021)](/publication/pesenti-2021).
