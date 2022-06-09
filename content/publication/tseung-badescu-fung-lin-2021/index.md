@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-01T22:16:29.843418Z'
+publishDate: '2022-06-09T01:09:33.209476Z'
 publication_types:
 - '2'
 abstract: This paper introduces a new julia package, LRMoE, a statistical software

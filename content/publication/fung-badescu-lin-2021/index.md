@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-01T22:16:34.124164Z'
+publishDate: '2022-06-09T01:09:37.992129Z'
 publication_types:
 - '2'
 abstract: 'Insurance loss severity data often exhibit heavy-tailed behavior, complex
