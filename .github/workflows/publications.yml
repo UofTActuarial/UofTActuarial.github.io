@@ -70,9 +70,9 @@ jobs:
           
       - name: Commit files
         run: |
+         git config --global --add safe.directory /github/workspace
          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
          git config --local user.name "github-actions[bot]"
-         git config --global --add safe.directory /home/runner/work/UofTActuarial.github.io/UofTActuarial.github.io
          git add .
          git commit -m "Add changes" -a
          
