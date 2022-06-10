@@ -60,7 +60,7 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Emma is a PhD student in the Department of Statistical Sciences. Her research is in quantitative risk management, at the intersection of mathematical finance and actuarial science. Her advisors are Dr. Silvana Pesenti and Dr. Sebastian Jaimungal.  She previously received a MSc in Mathematics and a BA (Honours) in Mathematics and Economics from McMaster University. Emma supported by a NSERC [Canada Graduate Scholarship (Doctoral)](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp).
+Emma is a PhD student in the Department of Statistical Sciences. Her research is in quantitative risk management, at the intersection of mathematical finance and actuarial science. Her advisors are Dr. Silvana Pesenti and Dr. Sebastian Jaimungal.  She previously received a MSc in Mathematics and a BA (Honours) in Mathematics and Economics from McMaster University. Emma is supported by a NSERC [Canada Graduate Scholarship (Doctoral)](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp).
 
 For more, please visit her [personal website](https://www.emmakroell.ca).
 
