@@ -22,13 +22,13 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+# - name: University of Toronto
 
 interests:
 # - Actuarial Science # or specific fields
 
 department:
-- Department of Statistical Sciences
+# - Department of Statistical Sciences
 
 # Uncomment the following to include education; not required at the moment.
 education:

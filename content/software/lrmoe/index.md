@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "LRMoE Package"
-summary: "Logit-weighted Reduced Mixture of Experts model, packages available in Julia and R."
+summary: "Logit-weighted Reduced Mixture of Experts model, a flexible nonlinear regression model for insurance data analysis, ratemaking and reserving. Packages available in Julia and R."
 date: "2021-11-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
