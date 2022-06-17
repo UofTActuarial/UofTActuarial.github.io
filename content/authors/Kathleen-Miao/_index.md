@@ -4,7 +4,7 @@ title: Kathleen Miao
 
 # Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
 # Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
-weight: 208
+weight: 201
 
 # Username (this should match the folder name)
 authors:
@@ -46,9 +46,9 @@ social: # uncomment the social link sections you are providing
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
-# - icon: university
-#   icon_pack: fas
-#   link: <replace with profile on department website>
+- icon: university
+  icon_pack: fas
+  link: https://www.statistics.utoronto.ca/people/directories/graduate-students/kathleen-miao/
 # - icon: linkedin
 #   icon_pack: fab
 #   link: <replace with linkedin>
