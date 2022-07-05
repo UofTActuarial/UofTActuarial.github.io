@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-09T01:09:46.849229Z'
+publishDate: '2022-07-05T01:06:23.635237Z'
 publication_types:
 - '2'
 abstract: The Erlang mixture model with common scale parameter is flexible and analytically
