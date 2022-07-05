@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-05T01:06:24.511132Z'
+publishDate: '2022-07-05T01:10:24.517768Z'
 publication_types:
 - '2'
 abstract: The Erlang mixture model has been widely used in modeling insurance losses
