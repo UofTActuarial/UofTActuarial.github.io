@@ -19,7 +19,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Professor, Actuarial Science
+role: Professor, Actuarial Science; Director, Master of Financial Insurance
 
 # Organizations/Affiliations
 organizations:
@@ -45,9 +45,9 @@ education:
 # Social/Academic Networking
 social: # uncomment the social link sections you are providing
 
-# - icon: user-graduate
-#   icon_pack: fas
-#   link: <replace with personal webpage>
+- icon: user-graduate
+  icon_pack: fas
+  link: https://badescua.github.io/
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
@@ -65,6 +65,8 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Andrei Badescu is a professor of actuarial science in the Department of Statistical Sciences at the University of Toronto (Canada). He is an associate editor at *Insurance: Mathematics and Economics*.
+Andrei Badescu is a professor of actuarial science in the Department of Statistical Sciences and the current Director of the [Master of Financial Insurance](https://mfi.utoronto.ca/) at the University of Toronto (Canada). He is an associate editor at *Insurance: Mathematics and Economics*.
+
+For more information, refer to his personal website [here](https://badescua.github.io/).
 
 Email: andrei [dot] badescu [at] utoronto [dot] ca
