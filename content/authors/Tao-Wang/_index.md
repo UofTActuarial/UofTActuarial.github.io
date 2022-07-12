@@ -18,17 +18,17 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD, 2008
+role: PhD, 2008; Managing Director
 
 # Organizations/Affiliations
 organizations:
-# - name: University of Toronto
+ - name: Aon PathWise Solutions Group LLC
 
 interests:
 # - Actuarial Science # or specific fields
 
 department:
-# - Department of Statistical Sciences
+ - Aon PathWise Solutions Group LLC
 
 # Uncomment the following to include education; not required at the moment.
 education:
@@ -60,4 +60,4 @@ user_groups: # Uncomment your corresponding group.
  - Former Graduate Students
 ---
 
-Tao leads the PathWise consulting solutions for researching and on-boarding life insurance products, scenario generation and hedge overlay.  He has been a key member of the PathWise Solution Group in supporting proprietary research and development efforts since 2008.  Tao leads 20+ large-scale consulting projects including Kyobo IFRS17 project to help the client develop world-first IFRS17 platform in PathWise.  Prior to joining Aon, he served at TD Financial Group Equity Derivative Trading Desk as a senior quantitative analyst.  He also worked for Manulife Variable Annuity Hedging Department as a senior analyst.  Tao earned his PhD in actuarial science from University of Toronto, a Master and an honour Bachelor’s Degree in financial mathematics from Beijing University.  He is an associate of the Society of Actuaries (ASA) and a member of the American Academy of Actuaries (MAAA).
+Tao leads the PathWise consulting solutions for researching and on-boarding life insurance products, scenario generation and hedge overlay.  He has been a key member of the PathWise Solutions Group in supporting proprietary research and development efforts since 2008.  Tao leads 20+ large-scale consulting projects including Kyobo IFRS17 project to help the client develop world-first IFRS17 platform in PathWise.  Prior to joining Aon, he served at TD Financial Group Equity Derivative Trading Desk as a senior quantitative analyst.  He also worked for Manulife Variable Annuity Hedging Department as a senior analyst.  Tao earned his PhD in actuarial science from University of Toronto, a Master and an honour Bachelor’s Degree in financial mathematics from Beijing University.  He is an associate of the Society of Actuaries (ASA) and a member of the American Academy of Actuaries (MAAA).
