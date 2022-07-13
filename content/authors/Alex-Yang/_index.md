@@ -18,17 +18,17 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD, 2020
+role: PhD, 2020; Associate Director
 
 # Organizations/Affiliations
 organizations:
-# - name: University of Toronto
+ - name: Aon PathWise Solutions Group
 
 interests:
 # - Actuarial Science # or specific fields
 
 department:
-# - Department of Statistical Sciences
+ - Aon PathWise Solutions Group
 
 # Uncomment the following to include education; not required at the moment.
 education:
@@ -59,9 +59,5 @@ user_groups: # Uncomment your corresponding group.
 # - PhD Students
 - Former Graduate Students
 ---
-<!-- 
-Include your short bio here.
 
-You can download his/her CV [here](external links).
-
-Email: (your email, e.g. firstname [dot] lastname [at] mail [dot] utoronto [dot] ca, to avoid spam) -->
+Alex is an associate director at the Aon PathWise Solutions Group. His expertise is in variable annuity (VA), and he has been involved in many VA consulting projects such as inforce compression, hedging analysis, capital projection, and M&A deal structuring. Prior to joining PathWise, Alex has many years of actuarial-science related research experience including mortality modeling, modern portfolio theory, valuation and hedging of large VA portfolios. He obtained a first-class honours Bachelor’s degree in Actuarial Science from Simon Fraser University, a Master’s degree in Mathematics from the University of Waterloo, and PhD in Statistics from the University of Toronto. He was a Hickman Scholarship recipient and an Ontario trillium scholarship recipient during his PhD study. He is a fellow of the Society of Actuaries, a fellow of the Canadian Institute of Actuaries, and a Chartered Enterprise Risk Analyst. 
