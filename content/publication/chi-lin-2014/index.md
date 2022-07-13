@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-13T02:05:45.898415Z'
+publishDate: '2022-07-13T02:08:26.593487Z'
 publication_types:
 - '2'
 abstract: An optimal reinsurance problem from the perspective of an insurer is studied
