@@ -18,17 +18,17 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD, 2020
+role: PhD, 2020; Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-# - name: University of Toronto
+- name: Department of Risk Management and Insurance, Georgia State University
 
 interests:
 # - Actuarial Science # or specific fields
 
 department:
-# - Department of Statistical Sciences
+ - Department of Risk Management and Insurance, Georgia State University
 
 # Uncomment the following to include education; not required at the moment.
 education:
@@ -60,8 +60,4 @@ user_groups: # Uncomment your corresponding group.
 - Former Graduate Students
 ---
 
-<!-- Include your short bio here.
-
-You can download his/her CV [here](external links).
-
-Email: (your email, e.g. firstname [dot] lastname [at] mail [dot] utoronto [dot] ca, to avoid spam) -->
+Tsz Chai (Samson) Fung, FSA, is an Assistant Professor in the Department of Risk Management and Insurance, Georgia State University (GSU). Prior to joining GSU, he worked as a Postdoctoral Researcher at ETH Zurich under the supervision of Professor Mario Wuthrich during 2020-2021. He earned a PhD Statistics degree at the University of Toronto in 2020, supervised by Professor Sheldon Lin and Professor Andrei Badescu, and he was also awarded the Hickman Scholarship and the Ontario Trillium Scholarship during his PhD study. His current research interests include insurance loss modeling, flexible statistical models, universal approximation theories, and inference techniques with applications in actuarial problems, including pricing, reserving, and risk management. He has actively published in leading actuarial journals, including IME, ASTIN Bulletin, NAAJ, and SAJ.
