@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-13T02:05:42.867150Z'
+publishDate: '2022-11-11T20:59:00.549620Z'
 publication_types:
 - '2'
 abstract: Risk contributions of portfolios form an indispensable part of risk adjusted

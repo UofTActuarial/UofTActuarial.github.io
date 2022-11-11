@@ -54,9 +54,9 @@ social: # uncomment the social link sections you are providing
 - icon: university
   icon_pack: fas
   link: https://www.statistics.utoronto.ca/people/directories/all-faculty/andrei-badescu
-# - icon: linkedin
-#   icon_pack: fab
-#   link: <replace with linkedin>
+- icon: linkedin
+  icon_pack: fab
+  link: https://ca.linkedin.com/in/andrei-badescu-2b6a0415 
 
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
