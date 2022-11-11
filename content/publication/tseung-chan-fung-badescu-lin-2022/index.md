@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-11T20:59:03.949483Z'
+publishDate: '2022-11-11T21:07:48.019968Z'
 publication_types:
 - '2'
 abstract: A well-designed framework for risk classification and ratemaking in automobile

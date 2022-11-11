@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-11T20:58:58.888172Z'
+publishDate: '2022-11-11T21:07:46.851757Z'
 publication_types:
 - '2'
 abstract: 'We present a reinforcement learning (RL) approach for robust optimization

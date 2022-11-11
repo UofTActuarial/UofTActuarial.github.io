@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-11T20:58:59.382454Z'
+publishDate: '2022-11-11T21:07:46.943982Z'
 publication_types:
 - '2'
 abstract: The robustness of risk measures to changes in underlying loss distributions
