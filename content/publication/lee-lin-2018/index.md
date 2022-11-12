@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-11T20:58:54.065182Z'
+publishDate: '2022-11-12T14:58:23.402219Z'
 publication_types:
 - '2'
 abstract: 'In this article, we introduce Delta Boosting (DB) as a new member of the
