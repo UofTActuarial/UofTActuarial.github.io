@@ -46,9 +46,9 @@ social: # uncomment the social link sections you are providing
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
-# - icon: university
-#   icon_pack: fas
-#   link: <replace with profile on department website>
+- icon: university
+  icon_pack: fas
+  link: https://www.statistics.utoronto.ca/people/directories/graduate-students/hassan-youssef-abdelrahman 
 # - icon: linkedin
 #   icon_pack: fab
 #   link: <replace with linkedin>
@@ -60,6 +60,6 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Hassan Abdelrahman is a first-year PhD student in the Department of Statistical Sciences, supervised by Professors Andrei Badescu and Sheldon Lin. He is mainly interested in micro-level claim reserving and ratemaking. Prior to joining U of T, he graduated with a double major in Actuarial Science and Mathematics from the American University in Cairo, before obtaining a Master of Mathematics in Actuarial Science from the University of Waterloo.
+Hassan Abdelrahman is a PhD student in the Department of Statistical Sciences, supervised by Professors Andrei Badescu and Sheldon Lin. He is mainly interested in micro-level claim reserving and ratemaking. Prior to joining U of T, he graduated with a double major in Actuarial Science and Mathematics from the American University in Cairo, before obtaining a Master of Mathematics in Actuarial Science from the University of Waterloo.
 
 Email: hassan [dot] abdelrahman [at] mail [dot] utoronto [dot] ca
