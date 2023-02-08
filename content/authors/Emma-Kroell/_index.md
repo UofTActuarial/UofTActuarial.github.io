@@ -56,7 +56,7 @@ social: # uncomment the social link sections you are providing
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
 # - Faculty
- - PhD Students
+ - Postdocs and PhD Students
 # - Former Graduate Students
 ---
 
