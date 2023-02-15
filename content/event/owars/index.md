@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "OWARS Semniar Series"
+title: "OWARS Seminar Series"
 summary: "One World Actuarial Research Seminar Series, with online seminars held on Wednesdays fortnightly."
 date: "2022-06-01T00:00:00Z" 
 # date as to be earlier than today's date for the page to show; default is to set to package's last update date
