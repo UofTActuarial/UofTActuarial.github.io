@@ -3,7 +3,7 @@
 
 title: "Casualty Actuarial Society Ratemaking, Product and Modeling Seminar 2023"
 summary: "Slides to our CAS RPM talk 'Mixture-of-Experts Models for Claim Frequency and Severity'."
-date: "2022-06-02T00:00:00Z" 
+date: "2023-03-15T00:00:00Z" 
 # date as to be earlier than today's date for the page to show; default is to set to package's last update date
 
 # Optional external URL for project (replaces project detail page).
