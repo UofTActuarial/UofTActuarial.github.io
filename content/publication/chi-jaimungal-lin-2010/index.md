@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-20T20:06:52.822624Z'
+publishDate: '2023-04-20T20:08:10.560159Z'
 publication_types:
 - '2'
 abstract: In this paper, we extend the Cramér–Lundberg insurance risk model perturbed
