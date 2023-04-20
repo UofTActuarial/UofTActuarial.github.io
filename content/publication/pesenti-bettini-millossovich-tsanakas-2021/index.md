@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-20T19:36:54.818773Z'
+publishDate: '2023-04-20T19:40:54.027661Z'
 publication_types:
 - '2'
 abstract: The Scenario Weights for Importance Measurement (SWIM) package implements

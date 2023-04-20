@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-20T19:36:51.263471Z'
+publishDate: '2023-04-20T19:40:53.294192Z'
 publication_types:
 - '2'
 abstract: Incurred but not reported (IBNR) loss reserving is an important issue for
