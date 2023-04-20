@@ -86,6 +86,7 @@ jobs:
       - name: GitHub Pull Request Action
         # You may pin to the exact commit or the version.
         # uses: repo-sync/pull-request@d80b305e358ef8131f270608735c72e2c913f2af
+        run: git config --global --add safe.directory "/github/workspace"
         uses: repo-sync/pull-request@v2.12
         with:
           # Branch name to pull from, default is triggered branch
