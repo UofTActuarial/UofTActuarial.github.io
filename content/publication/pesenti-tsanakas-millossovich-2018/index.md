@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-20T20:06:47.358954Z'
+publishDate: '2023-04-24T01:01:12.097190Z'
 publication_types:
 - '2'
 abstract: Major (2018) discusses Euler/Aumann–Shapley allocations for non-linear positively

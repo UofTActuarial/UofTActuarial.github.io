@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-20T20:06:56.758933Z'
+publishDate: '2023-04-24T01:01:19.415858Z'
 publication_types:
 - '2'
 abstract: 'With the advancement in technology, telematics data which capture vehicle
@@ -55,4 +55,5 @@ abstract: 'With the advancement in technology, telematics data which capture veh
   are not directly proportional with driving time or distance, but they increase at
   a decreasing rate.'
 publication: '*arXiv*'
+doi: 10.48550/arXiv.2304.10591
 ---
