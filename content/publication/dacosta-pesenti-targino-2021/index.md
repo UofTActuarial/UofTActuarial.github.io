@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-24T01:01:15.597554Z'
+publishDate: '2023-07-05T18:04:31.516186Z'
 publication_types:
 - '2'
 abstract: Risk budgeting is a portfolio strategy where each asset contributes a prespecified

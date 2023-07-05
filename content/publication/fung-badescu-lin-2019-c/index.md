@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-24T01:01:08.091488Z'
+publishDate: '2023-07-05T18:04:21.895336Z'
 publication_types:
 - '2'
 abstract: 'Modeling multivariate time-series aggregate losses is an important actuarial
