@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-05T18:04:22.371762Z'
+publishDate: '2023-07-05T18:10:00.463118Z'
 publication_types:
 - '2'
 abstract: In Yin and Lin (2016), a new penalty, termed as iSCAD penalty, is proposed
