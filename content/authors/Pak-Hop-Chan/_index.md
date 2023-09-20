@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Spark Tseung
+title: Pak Hop Chan
 
 # Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
 # Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
-weight: 210
+weight: 206
 
 # Username (this should match the folder name)
 authors:
-- Spark Tseung
+- Pak Hop Chan
 
 # Author Names (alternative spellings etc)
 names:
-- Spark C. Tseung # or any other spellings as in your publication citations
+- Pak Hop Chan # or any other spellings as in your publication citations
 
 # Is this the primary user of the site? DO NOT CHANGE THIS FIELD
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -42,16 +42,16 @@ social: # uncomment the social link sections you are providing
 
 - icon: user-graduate
   icon_pack: fas
-  link: https://sparktseung.com/
+  link: https://ph-chan.github.io/
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
 - icon: university
   icon_pack: fas
-  link: https://www.statistics.utoronto.ca/people/directories/graduate-students/chau-lung-ngan-spark-tseung
+  link: https://www.statistics.utoronto.ca/people/directories/graduate-students/pak-hop-chan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/spark-tseung-b322b8223/
+  link: https://www.linkedin.com/in/pak-hop-chan-49660255/
 
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
@@ -60,8 +60,6 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Chau Lung Ngan Spark Tseung is a third-year PhD student in the Department of Statistical Sciences, with a research focus on actuarial science. His academic goal is to apply novel machine learning and data science methods to solving actuarial problems such as pricing and claims reserving. Apart from academics, he enjoys reading fictions and history. Prior to joining U of T, he obtained a bachelor’s degree in actuarial science from the University of Hong Kong.
+Pak Hop Chan is a first-year PhD student in the Department of Statistical Sciences, specializing in actuarial science. He is interested in data analytic methods applicable to general insurance. He holds a Bachelor of Science in Actuarial Science degree from the University of Hong Kong. In his leisure time, he enjoys playing and watching various sports, photography, as well as appreciating anime and manga.
 
-For more information, visit his personal website [here](https://sparktseung.com/).
-
-Email: spark [dot] tseung [at] mail [dot] utoronto [dot] ca
+Email: ph [dot] chan [at] mail [dot] utoronto [dot] ca
