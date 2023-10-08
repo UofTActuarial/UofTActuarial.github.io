@@ -51,7 +51,7 @@ social: # uncomment the social link sections you are providing
   link: https://www.statistics.utoronto.ca/people/directories/graduate-students/pak-hop-chan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/pak-hop-chan-49660255/
+  link: https://www.linkedin.com/in/pak-hop-chan/
 
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
