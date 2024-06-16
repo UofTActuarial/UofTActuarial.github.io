@@ -30,26 +30,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-05T18:04:36.904563Z'
+publishDate: '2024-06-16T23:06:31.866947Z'
 publication_types:
 - '2'
-abstract: Claim reserving is primarily accomplished using macro-level or aggregate
-  models, with the Chain-Ladder method being the most popular one. However, these
-  methods are heuristically constructed, rely on oversimplified data assumptions,
-  neglect the heterogeneity of policyholders, and so lead to a lack of accuracy. In
-  contrast, micro-level reserving leverages on stochastic modeling with granular information
-  for improved predictions, but usually comes at the cost of more complex models that
-  are unattractive to practitioners. In this paper, we introduce a simplistic macro-level
-  type approach that can incorporate granular information at the individual level.
-  We do so by considering a novel framework in which we view the claim reserving problem
-  as a population sampling problem and propose an estimator using inverse probability
-  weighting techniques, with weights driven by policyholder attributes. The framework
-  provides a statistically sound method for aggregate claim reserving in a frequency
-  and severity distribution-free fashion, while also incorporating the capability
-  to utilize granular information via a regression-type framework. The resulting reserve
-  estimator has the attractiveness of resembling the Chain-Ladder claim development
-  principle but applied at the individual claim level, so it is easy to interpret
-  by actuaries, and more appealing to practitioners as an extension of a macro-model.
+abstract: Claim reserving primarily relies on macro-level models, with the Chain-Ladder
+  method being the most widely adopted. These methods were heuristically developed
+  without minimal statistical foundations, relying on oversimplified data assumptions
+  and neglecting policyholder heterogeneity, often resulting in conservative reserve
+  predictions. Micro-level reserving, utilizing stochastic modeling with granular
+  information,  can improve predictions but tends to involve less attractive and complex
+  models for practitioners. This paper aims to strike a practical balance between
+  aggregate and individual models by introducing a methodology that enables the Chain-Ladder
+  method to incorporate individual information. We achieve this by proposing a novel
+  framework, formulating the claim reserving problem within a population sampling
+  context. We introduce a reserve estimator in a frequency and severity distribution-free
+  manner that utilizes inverse probability weights (IPW) driven by individual information,
+  akin to propensity scores. We demonstrate that the Chain-Ladder method emerges as
+  a particular case of such an IPW estimator, thereby inheriting a statistically sound
+  foundation based on population sampling theory that enables the use of granular
+  information, and other extensions.
 publication: '*Available at SSRN 4499355*'
 links:
 - name: URL

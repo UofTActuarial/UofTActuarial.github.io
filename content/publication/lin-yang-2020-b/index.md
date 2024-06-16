@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-05T18:04:20.389922Z'
+publishDate: '2024-06-16T23:06:16.170292Z'
 publication_types:
 - '2'
 abstract: The nested-simulation is commonly used for calculating the predictive distribution

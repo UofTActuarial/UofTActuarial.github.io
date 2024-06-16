@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Credibility Index Approach for Effective a Posteriori Ratemaking with Large
-  Insurance Portfolios
+title: Effective Experience Rating for Large Insurance Portfolios via Surrogate Modeling
 subtitle: ''
 summary: ''
 authors:
@@ -30,29 +29,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-05T18:04:35.920175Z'
+publishDate: '2024-06-16T23:06:32.407499Z'
 publication_types:
 - '2'
-abstract: Credibility, experience rating and more recently the so-called a posterior
-  ratemaking in insurance consists in the determination of premiums that account for
-  both the policyholders' attributes and their claim history. The models designed
-  for such purposes are known as credibility models and fall under the same framework
-  of Bayesian inference in statistics. Most of the data-driven models used for this
-  task are mathematically intractable due to their complex structure, and therefore
-  credibility premiums must be obtained via numerical methods e.g simulation via Markov
-  Chain Monte Carlo. However, such methods are computationally expensive and even
-  prohibitive for large portfolios when these must be applied at the policyholder
-  level. In addition, these computations are ``black-box\" procedures for actuaries
-  as there is no clear expression showing how the claim history of policyholders is
-  used to upgrade their premiums. In this paper, we address these challenges and propose
-  a methodology to derive a closed-form expression to compute credibility premiums
-  for any given Bayesian model. We do so by introducing a credibility index, that
-  works as an efficient summary statistic of the claim history of a policyholder,
-  and illustrate how it can be used as the main input to approximate any credibility
-  formula. The closed-form solution can be used to reduce the computational burden
-  of a posteriori ratemaking for large portfolios via the same idea of surrogate modeling,
-  and also provides a transparent way of computing premiums from which practical interpretations
-  and risk assessments can be performed.
+abstract: Experience rating in insurance uses a Bayesian credibility model to upgrade
+  the current premiums of a contract by taking into account policyholders' attributes
+  and their claim history. Most data-driven models used for this task are mathematically
+  intractable, and premiums must be obtained through numerical methods such as simulation
+  via MCMC. However, these methods can be computationally expensive and even prohibitive
+  for large portfolios when applied at the policyholder level. Additionally, these
+  computations become \"black-box\" procedures as there is no analytical expression
+  showing how the claim history of policyholders is used to upgrade their premiums.
+  To address these challenges, this paper proposes a surrogate modeling approach to
+  inexpensively derive an analytical expression for computing the Bayesian premiums
+  for any given model, approximately. As a part of the methodology, the paper introduces
+  a likelihoodbased summary statistic of the policyholder's claim history that serves
+  as the main input of the surrogate model and that is sufficient for certain families
+  of distribution, including the exponential dispersion family. As a result, the computational
+  burden of experience rating for large portfolios is reduced through the direct evaluation
+  of such analytical expression, which can provide a transparent and interpretable
+  way of computing Bayesian premiums.
 publication: '*Available at SSRN 4275353*'
 links:
 - name: URL

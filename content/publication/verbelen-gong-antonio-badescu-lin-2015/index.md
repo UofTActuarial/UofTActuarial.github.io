@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-05T18:04:24.915364Z'
+publishDate: '2024-06-16T23:06:20.525601Z'
 publication_types:
 - '2'
 abstract: We discuss how to fit mixtures of Erlangs to censored and truncated data
