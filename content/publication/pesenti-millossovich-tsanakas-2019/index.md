@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:06:23.013603Z'
+publishDate: '2024-06-16T23:58:12.004067Z'
 publication_types:
 - '2'
 abstract: 'Sensitivity analysis is an important component of model building, interpretation

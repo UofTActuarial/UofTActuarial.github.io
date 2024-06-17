@@ -5,12 +5,12 @@ title: Risk Budgeting Portfolios from Simulations
 subtitle: ''
 summary: ''
 authors:
-- Bernardo Freitas Paulo da Costa
+- B. Freitas Paulo da Costa
 - Silvana M. Pesenti
-- Rodrigo Targino
+- Rodrigo S. Targino
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-01-01'
 lastmod: 2022-07-04T21:06:30-04:00
 featured: false
 draft: false
@@ -29,19 +29,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:06:27.051124Z'
+publishDate: '2024-06-16T23:58:15.861109Z'
 publication_types:
 - '2'
 abstract: Risk budgeting is a portfolio strategy where each asset contributes a prespecified
-  amount to the aggregate risk of the portfolio. In this work, we propose a numerical
-  framework that uses only simulations of returns for estimating risk budgeting portfolios.
-  Specifically, we provide a Sample Average Approximation (SAA) algorithm with cutting
-  planes, and a Stochastic Gradient Decent (SGD) algorithm, tailored to the risk budgeting
-  portfolio for the Expected Shortfall. We illustrate different risk budgeting portfolios,
-  constructed using a especially designed Julia package, on real financial data and
-  compare it to classical portfolio strategies.
-publication: '*Available at SSRN 4038514*'
+  amount to the aggregate risk of the portfolio. In this work, we propose an efficient
+  numerical framework that uses only simulations of returns for estimating risk budgeting
+  portfolios. Besides a general cutting planes algorithm for determining the weights
+  of risk budgeting portfolios for arbitrary coherent distortion risk measures, we
+  provide a specialised version for the Expected Shortfall, and a tailored Stochastic
+  Gradient Descent (SGD) algorithm, also for the Expected Shortfall. We compare our
+  algorithm to standard convex optimisation solvers and illustrate different risk
+  budgeting portfolios, constructed using an especially designed Julia package, on
+  real financial data and compare it to classical portfolio strategies.
+publication: '*European Journal of Operational Research*'
 links:
 - name: URL
-  url: https://ssrn.com/abstract=4038514
+  url: https://www.sciencedirect.com/science/article/pii/S0377221723004277
+doi: https://doi.org/10.1016/j.ejor.2023.06.003
 ---

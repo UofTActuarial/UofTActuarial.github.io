@@ -5,10 +5,10 @@ title: Reverse Sensitivity Analysis for Risk Modelling
 subtitle: ''
 summary: ''
 authors:
-- Silvana M Pesenti
+- Silvana M. Pesenti
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2022-01-01'
 lastmod: 2022-06-08T21:09:14-04:00
 featured: false
 draft: false
@@ -27,16 +27,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:06:21.557943Z'
+publishDate: '2024-06-16T23:58:10.553742Z'
 publication_types:
 - '2'
 abstract: We consider the problem where a modeller conducts sensitivity analysis of
   a model consisting of random input factors, a corresponding random output of interest,
   and a baseline probability measure. The modeller seeks to understand how the model
   (the distribution of the input factors as well as the output) changes under a stress
-  on the output's distribution. Specifically, for a stress on the output random variable,
+  on the output’s distribution. Specifically, for a stress on the output random variable,
   we derive the unique stressed distribution of the output that is closest in the
-  Wasserstein distance to the baseline output's distribution and satisfies the stress.
+  Wasserstein distance to the baseline output’s distribution and satisfies the stress.
   We further derive the stressed model, including the stressed distribution of the
   inputs, which can be calculated in a numerically efficient way from a set of baseline
   Monte Carlo samples and which is implemented in the R package SWIM on CRAN. The
@@ -45,8 +45,9 @@ abstract: We consider the problem where a modeller conducts sensitivity analysis
   including the Value-at-Risk and Expected-Shortfall, and (c) expected utility type
   constraints, thus making the reverse sensitivity analysis framework suitable for
   risk models.
-publication: '*Available at SSRN 3878879*'
+publication: '*Risks*'
 links:
 - name: URL
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878879
+  url: https://www.mdpi.com/2227-9091/10/7/141
+doi: 10.3390/risks10070141
 ---

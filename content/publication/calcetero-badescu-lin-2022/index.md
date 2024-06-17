@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:06:32.407499Z'
+publishDate: '2024-06-16T23:58:21.019431Z'
 publication_types:
 - '2'
 abstract: Experience rating in insurance uses a Bayesian credibility model to upgrade

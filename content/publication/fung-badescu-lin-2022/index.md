@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:06:14.086914Z'
+publishDate: '2024-06-16T23:58:03.370237Z'
 publication_types:
 - '2'
 abstract: 'The logit-weighted reduced mixture of experts model (LRMoE) is a flexible
