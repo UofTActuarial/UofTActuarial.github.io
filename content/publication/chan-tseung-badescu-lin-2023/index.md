@@ -31,29 +31,29 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:58:20.113809Z'
+publishDate: '2024-07-09T14:28:14.755822Z'
 publication_types:
 - '2'
 abstract: 'With the advancement in technology, telematics data which capture vehicle
-  movements information are becoming available to more insurers.  As these data capture
+  movements information are becoming available to more insurers. As these data capture
   the actual driving behaviour, they are expected to improve our understanding of
-  driving risk and facilitate more accurate auto-insurance ratemaking.  In this paper,
+  driving risk and facilitate more accurate auto-insurance ratemaking. In this paper,
   we analyze an auto-insurance dataset with telematics data collected from a major
-  European insurer.  Through a detailed discussion of the telematics data structure
+  European insurer. Through a detailed discussion of the telematics data structure
   and related data quality issues, we elaborate on practical challenges in processing
-  and incorporating telematics information in loss modelling and ratemaking.  Then,
+  and incorporating telematics information in loss modelling and ratemaking. Then,
   with an exploratory data analysis, we demonstrate the existence of heterogeneity
   in individual driving behaviour, even within the groups of policyholders with and
-  without claims, which supports the study of telematics data.  Our regression analysis
+  without claims, which supports the study of telematics data. Our regression analysis
   reiterates the importance of telematics data in claims modelling; in particular,
   we propose a speed transition matrix that describes discretely recorded speed time
-  series and produces statistically significant predictors for claim counts.  We conclude
+  series and produces statistically significant predictors for claim counts. We conclude
   that large speed transitions, together with higher maximum speed attained, nighttime
-  driving and increased harsh braking, are associated with increased claim counts.  Moreover,
-  we empirically illustrate the learning effects in driving behaviour: we show that
-  both severe harsh events detected at a high threshold and expected claim counts
-  are not directly proportional with driving time or distance, but they increase at
-  a decreasing rate.'
+  driving and increased harsh braking, are associated with increased claim counts.
+  Moreover, we empirically illustrate the learning effects in driving behaviour: we
+  show that both severe harsh events detected at a high threshold and expected claim
+  counts are not directly proportional with driving time or distance, but they increase
+  at a decreasing rate.'
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2304.10591
 ---

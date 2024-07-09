@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:58:22.450199Z'
+publishDate: '2024-07-09T14:28:18.736702Z'
 publication_types:
 - '2'
 abstract: We study a reinsurer who faces multiple sources of model uncertainty. The

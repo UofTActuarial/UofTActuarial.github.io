@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-16T23:58:20.614121Z'
+publishDate: '2024-07-09T14:28:15.436063Z'
 publication_types:
 - '2'
 abstract: Claim reserving primarily relies on macro-level models, with the Chain-Ladder
