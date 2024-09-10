@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Professor, Actuarial Science
+role: Assistant Professor, Actuarial Science
 
 # Organizations/Affiliations
 organizations:
