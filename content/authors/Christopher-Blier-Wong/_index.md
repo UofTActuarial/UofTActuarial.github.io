@@ -26,6 +26,9 @@ organizations:
 
 interests:
 - Actuarial Science # or specific fields
+- Machine Learning
+- E-values
+- Dependence Modelling
 
 department:
 - Department of Statistical Sciences
@@ -40,18 +43,18 @@ education:
 # Social/Academic Networking
 social: # uncomment the social link sections you are providing
 
-# - icon: user-graduate
-#   icon_pack: fas
-#   link: <replace with personal webpage>
+- icon: user-graduate
+  icon_pack: fas
+  link: chrisbw.ca
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
-# - icon: university
-#   icon_pack: fas
-#   link: <replace with profile on department website>
-# - icon: linkedin
-#   icon_pack: fab
-#   link: <replace with linkedin>
+- icon: university
+  icon_pack: fas
+  link: https://www.statistics.utoronto.ca/people/directories/all-faculty/christopher-blier-wong
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/christopher-blier-wong/
 
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
