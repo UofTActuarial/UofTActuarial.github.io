@@ -8,7 +8,7 @@ weight: 2
 
 # Username (this should match the folder name)
 authors:
-- Christopher Blier-Wong
+- Christopher Blier Wong
 
 # Author Names (alternative spellings etc)
 names:
