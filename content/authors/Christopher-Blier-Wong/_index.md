@@ -60,8 +60,8 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Include your short bio here.
+Christopher Blier-Wong is an assistant professor at the University of Toronto. His research interests lie in the intersection of actuarial science, machine learning, and statistics, with a particular focus on dependence modelling, e-variables, and risk modelling with unstructured data. Christopher has contributed to the body of knowledge through journal publications in actuarial science, statistics, machine learning, and applied probability. His research explores a variety of topics, including non-life insurance, risk theory, risk-sharing, the application of machine learning and statistics in applied probability, and multivariate analysis.
 
-You can download his/her CV [here](external links).
+For more information, refer to his personal website [here](chrisbw.ca).
 
-Email: (your email, e.g. firstname [dot] lastname [at] mail [dot] utoronto [dot] ca, to avoid spam)
+Email: christopher [dot] blierwong [at] utoronto [dot] ca
