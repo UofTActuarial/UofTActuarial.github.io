@@ -29,6 +29,7 @@ interests:
 - Machine Learning
 - E-values
 - Dependence Modelling
+- Risk Models
 
 department:
 - Department of Statistical Sciences
