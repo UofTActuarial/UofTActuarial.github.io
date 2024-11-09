@@ -44,9 +44,9 @@ education:
 # Social/Academic Networking
 social: # uncomment the social link sections you are providing
 
-- icon: user-graduate
-  icon_pack: fas
-  link: https://www.sfcalceterov.com/
+# - icon: user-graduate
+#   icon_pack: fas
+#   link: https://www.sfcalceterov.com/
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
@@ -65,7 +65,5 @@ user_groups: # Uncomment your corresponding group.
 ---
 
 Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.
-
-For more information refer to his personal website [here](https://www.sfcalceterov.com/).
 
 Email: sebastian [dot] calcetero [at] mail [dot] utoronto [dot] ca

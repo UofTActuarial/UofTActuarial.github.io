@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-11-09T01:29:22.877812Z'
+publishDate: '2024-11-09T02:16:01.466532Z'
 publication_types:
 - '2'
 abstract: We employ scoring functions, used in statistics for eliciting risk functionals,

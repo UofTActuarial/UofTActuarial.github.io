@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-11-09T01:29:05.938533Z'
+publishDate: '2024-11-09T02:15:43.930423Z'
 publication_types:
 - '2'
 abstract: 'In the Property and Casualty (P&C) ratemaking process, it is critical to
