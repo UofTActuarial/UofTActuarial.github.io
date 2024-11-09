@@ -46,7 +46,7 @@ social: # uncomment the social link sections you are providing
 
 - icon: user-graduate
   icon_pack: fas
-  link: chrisbw.ca
+  link: https://chrisbw.ca
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>

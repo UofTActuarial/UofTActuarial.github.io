@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-07-09T14:28:17.996488Z'
+publishDate: '2024-11-09T01:29:20.896342Z'
 publication_types:
 - '2'
 abstract: We define and develop an approach for risk budgeting allocation -- a risk

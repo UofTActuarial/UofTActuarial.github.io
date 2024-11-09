@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-07-09T14:28:14.755822Z'
+publishDate: '2024-11-09T01:29:19.216441Z'
 publication_types:
 - '2'
 abstract: 'With the advancement in technology, telematics data which capture vehicle

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-07-09T14:28:17.057998Z'
+publishDate: '2024-11-09T01:29:20.419662Z'
 publication_types:
 - '2'
 abstract: 'Stress testing, and in particular, reverse stress testing, is a prominent

@@ -461,14 +461,17 @@
 	author = {Tseung, Spark C. and Chan, Ian Weng and Fung, Tsz Chai and Badescu, Andrei L. and Lin, X. Sheldon},
 	title = {Improving risk classification and ratemaking using mixture-of-experts models with random effects},
 	journal = {Journal of Risk and Insurance},
-	volume = {n/a},
-	number = {n/a},
-	pages = {},
+	volume = {90},
+	number = {3},
+	pages = {789-820},
 	keywords = {mixture-of-experts, random effects, ratemaking, risk classification, variational inference},
 	doi = {https://doi.org/10.1111/jori.12436},
 	url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/jori.12436},
-	abstract = {In the underwriting and pricing of nonlife insurance products, it is essential for the insurer to utilize both policyholder information and claim history to ensure profitability and proper risk management. In this paper, we apply a flexible regression model with random effects, called the Mixed Logit-weighted Reduced Mixture-of-Experts, which leverages both policyholder information and their claim history, to categorize policyholders into groups with similar risk profiles, and to determine a premium that accurately captures the unobserved risks. Estimates of model parameters and the posterior distribution of random effects can be obtained by a stochastic variational algorithm, which is numerically efficient and scalable to large insurance portfolios. Our proposed framework is shown to outperform the classical benchmark models (Logistic and Lognormal GL(M)M) in terms of goodness-of-fit to data, while offering intuitive and interpretable characterization of policyholders' risk profiles to adequately reflect their claim history.}
+	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/jori.12436},
+	abstract = {Abstract In the underwriting and pricing of nonlife insurance products, it is essential for the insurer to utilize both policyholder information and claim history to ensure profitability and proper risk management. In this paper, we apply a flexible regression model with random effects, called the Mixed Logit-weighted Reduced Mixture-of-Experts, which leverages both policyholder information and their claim history, to categorize policyholders into groups with similar risk profiles, and to determine a premium that accurately captures the unobserved risks. Estimates of model parameters and the posterior distribution of random effects can be obtained by a stochastic variational algorithm, which is numerically efficient and scalable to large insurance portfolios. Our proposed framework is shown to outperform the classical benchmark models (Logistic and Lognormal GL(M)M) in terms of goodness-of-fit to data, while offering intuitive and interpretable characterization of policyholders' risk profiles to adequately reflect their claim history.},
+	year = {2023}
 }
+
 
 @article{fung_tseung_2022,
 	doi = {10.48550/ARXIV.2209.15207},
@@ -581,12 +584,16 @@
 	abstract={We employ scoring functions, used in statistics for eliciting risk functionals, as cost functions in the Monge-Kantorovich (MK) optimal transport problem. This gives raise to a rich variety of novel asymmetric MK divergences, which subsume the family of Bregman-Wasserstein divergences. We show that for distributions on the real line, the comonotonic coupling is optimal for the majority of the new divergences. Specifically, we derive the optimal coupling of the MK divergences induced by functionals including the mean, generalised quantiles, expectiles, and shortfall measures. Furthermore, we show that while any elicitable law-invariant coherent risk measure gives raise to infinitely many MK divergences, the comonotonic coupling is simultaneously optimal. The novel MK divergences, which can be efficiently calculated, open an array of applications in robust stochastic optimisation. We derive sharp bounds on distortion risk measures under a Bregman-Wasserstein divergence constraint, and solve for cost-efficient payoffs under benchmark constraints.}
 }
 
-@article{blier_wong_wang_2024,
-	doi = {10.48550/arXiv.2408.11307},
-	title = {Improved thresholds for e-values},
-  author = {Blier-Wong, Christopher and Wang, Ruodu},
-  year = {2024},
-  url = {https://arxiv.org/abs/2408.11307}, 
-  abstract={The rejection threshold used for e-values and e-processes is by default set to $1/\alpha$ for a guaranteed type-I error control at $\alpha$,  based on Markov's and Ville's inequalities. This threshold can be wasteful in practical applications. We discuss how this threshold can be improved under additional distributional assumptions on the e-values; some of these assumptions are naturally plausible and empirically observable, without knowing explicitly the form or model of the e-values. For small  values of $\alpha$, the threshold can roughly be improved (divided) by a factor of $2$ for decreasing  or unimodal densities, and by a factor of $e$ for decreasing or unimodal-symmetric densities of the log-transformed  e-value. Moreover, we propose to use the supremum of comonotonic e-values, which is shown to preserve the type-I error guarantee. We also propose some preliminary methods to boost e-values in the e-BH procedure under some distributional assumptions while controlling the false discovery rate. Through a series of simulation studies, we demonstrate the effectiveness of our proposed methods in various testing scenarios, showing enhanced power.
-  }
+@article{blierwong_cossette_lamontagne_marceau_2021,
+	AUTHOR = {Blier-Wong, Christopher and Cossette, Hélène and Lamontagne, Luc and Marceau, Etienne},
+	TITLE = {Machine Learning in P&C Insurance: A Review for Pricing and Reserving},
+	JOURNAL = {Risks},
+	VOLUME = {9},
+	YEAR = {2021},
+	NUMBER = {1},
+	ARTICLE-NUMBER = {4},
+	URL = {https://www.mdpi.com/2227-9091/9/1/4},
+	ISSN = {2227-9091},
+	ABSTRACT = {In the past 25 years, computer scientists and statisticians developed machine learning algorithms capable of modeling highly nonlinear transformations and interactions of input features. While actuaries use GLMs frequently in practice, only in the past few years have they begun studying these newer algorithms to tackle insurance-related tasks. In this work, we aim to review the applications of machine learning to the actuarial science field and present the current state of the art in ratemaking and reserving. We first give an overview of neural networks, then briefly outline applications of machine learning algorithms in actuarial science tasks. Finally, we summarize the future trends of machine learning for the insurance industry.},
+	DOI = {10.3390/risks9010004}
 }
