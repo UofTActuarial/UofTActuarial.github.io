@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD, 2008; Managing Director
+role: PhD, 2008; Senior Managing Director
 
 # Organizations/Affiliations
 organizations:

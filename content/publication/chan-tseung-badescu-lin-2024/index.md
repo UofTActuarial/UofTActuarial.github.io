@@ -30,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-11-09T02:15:57.404798Z'
+publishDate: '2025-03-31T18:49:08.535185Z'
 publication_types:
 - '2'
-abstract: ' With the advancements in technology, telematics data that capture vehicle
+abstract: 'With the advancements in technology, telematics data that capture vehicle
   movement information are becoming available to more insurers. Because these data
   capture the actual driving behavior, they are expected to improve our understanding
   of driving risk and facilitate more accurate auto insurance ratemaking. In this

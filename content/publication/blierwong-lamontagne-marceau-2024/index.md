@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-11-09T02:16:04.421808Z'
+publishDate: '2025-03-31T18:49:07.033335Z'
 publication_types:
 - '2'
 abstract: Unstructured data are a promising new source of information that insurance

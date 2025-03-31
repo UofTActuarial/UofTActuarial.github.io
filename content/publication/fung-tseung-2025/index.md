@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Mixture of experts models for multilevel data: modelling framework and approximation
+title: 'Mixture of experts models for multilevel data: Modeling framework and approximation
   theory'
 subtitle: ''
 summary: ''
@@ -9,17 +9,14 @@ authors:
 - Tsz Chai Fung
 - Spark C. Tseung
 tags:
-- Statistics Theory (math.ST)
-- Machine Learning (cs.LG)
-- Neural and Evolutionary Computing (cs.NE)
-- Methodology (stat.ME)
-- 'FOS: Mathematics'
-- 'FOS: Mathematics'
-- 'FOS: Computer and information sciences'
-- 'FOS: Computer and information sciences'
+- Artificial neural network
+- Crossed and nested random effects
+- Denseness
+- Mixed effects models
+- Universal approximation theorem
 categories: []
-date: '2022-01-01'
-lastmod: 2022-11-11T15:56:01-05:00
+date: '2025-01-01'
+lastmod: 2025-03-31T14:49:09-04:00
 featured: false
 draft: false
 
@@ -37,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-11-09T02:15:56.908639Z'
+publishDate: '2025-03-31T18:49:08.967155Z'
 publication_types:
 - '2'
 abstract: Multilevel data are prevalent in many real-world applications. However,
@@ -53,9 +50,9 @@ abstract: Multilevel data are prevalent in many real-world applications. However
   the multilevel data is hierarchical, we further show that a nested version of the
   MMoE universally approximates a broad range of dependence structures of the random
   effects among different factor levels.
-publication: '*arXiv*'
-doi: 10.48550/ARXIV.2209.15207
+publication: '*Neurocomputing*'
+doi: https://doi.org/10.1016/j.neucom.2025.129357
 links:
 - name: URL
-  url: https://arxiv.org/abs/2209.15207
+  url: https://www.sciencedirect.com/science/article/pii/S0925231225000293
 ---

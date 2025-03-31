@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD, 2020; Associate Director
+role: PhD, 2020; Director
 
 # Organizations/Affiliations
 organizations:
