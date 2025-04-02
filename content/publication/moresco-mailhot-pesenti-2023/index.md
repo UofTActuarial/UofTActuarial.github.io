@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-03-31T18:49:02.755484Z'
+publishDate: '2025-04-02T02:33:58.777594Z'
 publication_types:
 - '2'
 abstract: We introduce a framework for quantifying propagation of uncertainty arising

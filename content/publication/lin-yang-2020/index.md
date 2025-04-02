@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-03-31T18:48:49.502871Z'
+publishDate: '2025-04-02T02:33:40.733224Z'
 publication_types:
 - '2'
 abstract: A variable annuity (VA) is an equity-linked annuity that provides investment
