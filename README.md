@@ -12,6 +12,11 @@
 * cd into the UofTActuarial.github.io folder
 * `hugo server` which allows you to view changes on the localhost first.
 * Check it is up and running at localhost:1313
+  *  If you encounter the error `hugo academic failed to extract shortcode: template for shortcode "callout" not found`, do:
+      ~~~
+      hugo mod clean
+      hugo mod get -u ./...
+      ~~~
 * Install the text editor of your choice
 * Create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
