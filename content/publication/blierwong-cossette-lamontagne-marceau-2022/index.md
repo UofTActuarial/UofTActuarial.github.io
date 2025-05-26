@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-04-02T02:34:01.318427Z'
+publishDate: '2025-05-26T20:03:57.264762Z'
 publication_types:
 - '2'
 abstract: 'Spatial data are a rich source of information for actuarial applications:

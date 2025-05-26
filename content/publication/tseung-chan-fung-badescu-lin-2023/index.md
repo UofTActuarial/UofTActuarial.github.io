@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-04-02T02:33:56.790178Z'
+publishDate: '2025-05-26T20:03:51.647922Z'
 publication_types:
 - '2'
 abstract: Abstract In the underwriting and pricing of nonlife insurance products,

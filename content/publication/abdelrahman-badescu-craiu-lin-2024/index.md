@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-04-02T02:34:00.795293Z'
+publishDate: '2025-05-26T20:03:56.809829Z'
 publication_types:
 - '2'
 abstract: 'Accurate loss reserving is crucial in Property and Casualty (P&C) insurance

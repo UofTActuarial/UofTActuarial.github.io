@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-04-02T02:34:01.752277Z'
+publishDate: '2025-05-26T20:03:58.032815Z'
 publication_types:
 - '2'
 abstract: We propose an approach to construct a new family of generalized Farlie–Gumbel–Morgenstern
