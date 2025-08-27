@@ -4,7 +4,7 @@ title: Ian Weng (Sophia) Chan
 
 # Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
 # Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
-weight: 208
+weight: 843
 
 # Username (this should match the folder name)
 authors:
@@ -18,11 +18,11 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD Candidate
+role: PhD, 2025; Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+- name: Division of Banking & Finance, Nanyang Technological University
 
 interests:
 - Risk Modelling
@@ -32,7 +32,7 @@ interests:
 - Statistics Education # or specific fields
 
 department:
-- Department of Statistical Sciences
+- College of Business (Nanyang Business School) - Division of Banking & Finance, Nanyang Technological University
 
 # Uncomment the following to include education; not required at the moment.
 education:
@@ -60,8 +60,8 @@ social: # uncomment the social link sections you are providing
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
 # - Faculty
-- Postdocs and PhD Students
-# - Former Graduate Students
+# - Postdocs and PhD Students
+ - Former Graduate Students
 ---
 
 Sophia Chan is a PhD candidate in actuarial science at the University of Toronto, supervised by Prof. <a href="/author/sheldon-lin/">X. Sheldon Lin </a> and Prof. <a href="/author/andrei-badescu/">Andrei L. Badescu</a>.  Her research focuses on risk modelling, particularly in the context of general insurance.  Recently she has been exploring usage-based insurance and enhancement of auto-insurance ratemaking via incorporation of vehicle telematics data.  Prior to her current studies, she received her HBSc in Actuarial Science and Masters in Financial Insurance both from U of T.
