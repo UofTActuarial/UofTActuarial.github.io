@@ -60,6 +60,6 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Lorem ipsum
+Hi! My name is Pat Chimtanoo and I'm a first year PhD student in Statistics at University of Toronto. I earned my Bachelor degree in Actuarial Science and Mathematics from UW-Madison and my Master's degree in Applied Statistics at University of Michigan, and with my background, my passion lies in the intersection of statistics and various social science topics i.e., politics, social inequality, economic and health disparity.
 
-Email:  [at] mail [dot] utoronto [dot] ca
+Email:  pat [dot] chimtanoo [at] mail [dot] utoronto [dot] ca
