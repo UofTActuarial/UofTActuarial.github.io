@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Postdoctoral Fellow
+role: PhD, 2025; Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
