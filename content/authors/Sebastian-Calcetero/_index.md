@@ -4,7 +4,7 @@ title: Sebastian Calcetero
 
 # Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
 # Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
-weight: 209
+weight: 843
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD Candidate
+role: PhD, 2025
 
 # Organizations/Affiliations
 organizations:
@@ -60,8 +60,8 @@ social: # uncomment the social link sections you are providing
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
 # - Faculty
-- Postdocs and PhD Students
-# - Former Graduate Students
+# - Postdocs and PhD Students
+- Former Graduate Students
 ---
 
 Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.
