@@ -13,11 +13,16 @@ columns = "2"
 [[gallery_item]]
 album = "1"
 image = "img/photo1.jpg"
-caption = "Meeting with Geotab"
+caption = "Research group in 2025"
 
 [[gallery_item]]
 album = "1"
 image = "img/photo2.jpg"
+caption = "Meeting with Geotab"
+
+[[gallery_item]]
+album = "1"
+image = "img/photo3.jpg"
 caption = "Visiting Geotab's Office"
 
 +++
