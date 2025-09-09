@@ -53,6 +53,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<footer>
-  <h3>And our <a href="/people-uoftactuarial/#alumni">alumni</a></h3>
-</footer>
