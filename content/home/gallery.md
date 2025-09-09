@@ -17,6 +17,11 @@ caption = "Research group in 2025"
 
 [[gallery_item]]
 album = "1"
+image = "img/photo4.jpg"
+caption = "Group at ARC 2024"
+
+[[gallery_item]]
+album = "1"
 image = "img/photo2.jpg"
 caption = "Meeting with Geotab"
 
