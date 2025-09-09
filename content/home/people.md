@@ -15,6 +15,8 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Faculty", "Postdocs and PhD Students"]
 
+  This is a test.
+
 [design]
   # Show user's social networking links? (true/false)
   show_social = false
