@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Assistant Professor, Actuarial Science
+role: Associate Professor, Actuarial Science
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Silvana Pesenti is an Assistant Professor in Insurance Risk Management at the Department of Statistical Sciences at the University of Toronto. Silvana was named the [2022 Rising Star in Quant Finance](https://www.risk.net/awards/7926406/rising-star-in-quant-finance-silvana-pesenti) by [Risk.net](https://www.riskawards.com/) for the paper Portfolio Optimisation within a Wasserstein Ball. She received the [2020 Peter Clark Best Paper Prize](https://www.statistics.utoronto.ca/news/assistant-professor-silvana-pesenti-awarded-peter-clark-best-paper-prize-exceptional-research-0) for her research paper  “Reverse Sensitivity Testing: what does it take to break the model?” from the Institute and Faculty of Actuaries (IFoA). In 2019, Silvana was awarded the [Dorothy Shoichet Women Faculty Science Award of Excellence](https://www.statistics.utoronto.ca/news/dorothy-shoichet-award-winner-silvana-pesenti%E2%80%99s-research-builds-bridges-might-help-prevent-next).
+Silvana Pesenti is an Associate Professor in Insurance Risk Management at the Department of Statistical Sciences at the University of Toronto. Silvana was named the [2022 Rising Star in Quant Finance](https://www.risk.net/awards/7926406/rising-star-in-quant-finance-silvana-pesenti) by [Risk.net](https://www.riskawards.com/) for the paper Portfolio Optimisation within a Wasserstein Ball. She received the [2020 Peter Clark Best Paper Prize](https://www.statistics.utoronto.ca/news/assistant-professor-silvana-pesenti-awarded-peter-clark-best-paper-prize-exceptional-research-0) for her research paper  “Reverse Sensitivity Testing: what does it take to break the model?” from the Institute and Faculty of Actuaries (IFoA). In 2019, Silvana was awarded the [Dorothy Shoichet Women Faculty Science Award of Excellence](https://www.statistics.utoronto.ca/news/dorothy-shoichet-award-winner-silvana-pesenti%E2%80%99s-research-builds-bridges-might-help-prevent-next).
 
 Silvana Pesenti received her PhD in Actuarial Science and Insurance from [Bayes Business School (formerly Cass Business Scohol)](https://www.bayes.city.ac.uk/), London, UK. Her PhD thesis was awarded the Dimitris N. Chorafas Prize 2018 from the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Further, Silvana holds a MSc and a BSc in Mathematics from [ETH Zurich](https://ethz.ch/en.html).
 
