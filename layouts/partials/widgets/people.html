@@ -3,7 +3,7 @@
 {{/* Initialise */}}
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $display_groups := .user_groups}}
+{{ $display_groups := .display_groups}}
 {{ $tools :=  .tools | default false }}
 {{ $subtitle := .subtitle}}
 {{ $show_social := $page.Params.design.show_social | default false }}
@@ -27,8 +27,8 @@
   
     
     {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" ($display_groups) }}
-    {{ if in (slice "Tools") $subtitle}}
-      {{ $query := $query | intersect (where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice "Tools")) }}
+    {{if $query}}
+      {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" ($display_groups) }}
       {{if $query}}
       <div class="col-md-12">
           <h2 class="mb-4">{{ $subtitle }}</h2>
