@@ -53,8 +53,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
 <div>
-  <h3>This is an HTML heading</h3>
-  <p>This is some <strong>HTML</strong> content.</p>
+  <h3>And our <a href="/people-uoftactuarial/#alumni">alumni</a></h3>
 </div>
