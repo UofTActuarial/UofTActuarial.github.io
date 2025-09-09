@@ -32,6 +32,12 @@
   weight = 80
   identifier = "Event"
 
+[[main]]
+  name = "WIM26"
+  url = https://actsci.utstat.utoronto.ca/WIM26/
+  weight = 90
+  identifier = "WIM26"
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
