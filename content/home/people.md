@@ -54,4 +54,7 @@ subtitle = ""
  css_class = ""
 +++
 
-And our alumnis
+<div>
+  <h3>This is an HTML heading</h3>
+  <p>This is some <strong>HTML</strong> content.</p>
+</div>
