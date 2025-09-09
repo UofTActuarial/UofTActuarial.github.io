@@ -1,5 +1,5 @@
 +++
-widget = "markdown"
+widget = "blank"
 headless = true
 active = true
 weight = 69  # Just after "Meet the Team"
