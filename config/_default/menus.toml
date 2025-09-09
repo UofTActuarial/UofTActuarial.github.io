@@ -34,7 +34,7 @@
 
 [[main]]
   name = "WIM26"
-  url = https://actsci.utstat.utoronto.ca/WIM26/
+  url = "https://actsci.utstat.utoronto.ca/WIM26/"
   weight = 90
   identifier = "WIM26"
 
