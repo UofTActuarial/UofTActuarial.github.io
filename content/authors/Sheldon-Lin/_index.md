@@ -50,9 +50,9 @@ social: # uncomment the social link sections you are providing
 - icon: university
   icon_pack: fas
   link: https://www.statistics.utoronto.ca/people/directories/all-faculty/sheldon-lin 
-# - icon: linkedin
-#   icon_pack: fab
-#   link: <replace with linkedin>
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sheldon-lin-utoronto/
 
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
