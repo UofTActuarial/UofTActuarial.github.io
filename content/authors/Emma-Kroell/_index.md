@@ -46,9 +46,6 @@ social: # uncomment the social link sections you are providing
 - icon: github
   icon_pack: fab
   link: https://github.com/emmakroell
-- icon: university
-  icon_pack: fas
-  link: https://www.statistics.utoronto.ca/people/directories/graduate-students/emma-kroell
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/emma-kroell/
@@ -60,8 +57,8 @@ user_groups: # Uncomment your corresponding group.
 - Former Graduate Students
 ---
 
-Emma is a PhD student in the Department of Statistical Sciences. Her research is in quantitative risk management, at the intersection of mathematical finance and actuarial science. Her advisors are Dr. Silvana Pesenti and Dr. Sebastian Jaimungal.  She previously received a MSc in Mathematics and a BA (Honours) in Mathematics and Economics from McMaster University. Emma is supported by a NSERC Canada Graduate Scholarship (Doctoral).
+Emma is a postdoctoral researcher in the Department of Mathematical Sciences at the University of Copenhagen.
+She received her PhD from the University of Toronto in 2025, supervised by Prof. Silvana Pesenti and Prof. Sebastian Jaimungal, where her thesis was on model uncertainty in non-life insurance. 
+Before that, she received an MSc in Mathematics and a BA (Honours) in Mathematics and Economics from McMaster University.
 
 For more, please visit her [personal website](https://www.emmakroell.ca).
-
-Email: emma [dot] kroell [at] mail [dot] utoronto [dot] ca
