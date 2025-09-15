@@ -40,9 +40,9 @@ education:
 # Social/Academic Networking
 social: # uncomment the social link sections you are providing
 
-# - icon: user-graduate
-#   icon_pack: fas
-#   link: <replace with personal webpage>
+- icon: user-graduate
+  icon_pack: fas
+  link: https://www.kathleenmiao.ca/
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
@@ -60,6 +60,8 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Kathleen is a PhD student under the supervision of Dr. Silvana Pesenti.  They have a MA Theoretical Statistics from York University, a MSc Applied Mathematics and a BSc Hons Financial Mathematics from Ryerson University.  Their interest lies in financial risk management, particularly in the impact of regulation on systemic behaviours of the financial market.
+Kathleen is a PhD candidate under the supervision of Prof. Silvana Pesenti.
+
+For more information, please visit her personal website: https://www.kathleenmiao.ca/.
 
 Email: k [dot] miao [at] mail [dot] utoronto [dot] ca
