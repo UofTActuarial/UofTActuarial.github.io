@@ -12,6 +12,11 @@ columns = "2"
 
 [[gallery_item]]
 album = "1"
+image = "img/coop-pre.jpeg"
+caption = "Presentation at cooperators"
+
+[[gallery_item]]
+album = "1"
 image = "img/photo1.jpg"
 caption = "Research group in 2025"
 
