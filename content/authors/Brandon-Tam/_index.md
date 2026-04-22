@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
