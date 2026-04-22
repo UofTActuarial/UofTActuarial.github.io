@@ -4,7 +4,7 @@ title: Jinghui Chen
 
 # Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
 # Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
-weight: 101
+weight: 806
 
 # Username (this should match the folder name)
 authors:
@@ -18,11 +18,11 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Postdoctoral Fellow
+role: Postdoc, 2024-2025; Postdoctoral Fellow, National University of Singapore.
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto, York University
+- name: National University of Singapore
 
 interests:
 - Actuarial Science # or specific fields
@@ -60,11 +60,12 @@ social: # uncomment the social link sections you are providing
 # Organizational groups that you belong to
 user_groups: # Uncomment your corresponding group.
 # - Faculty
-- Postdocs and PhD Students
+# - Postdocs and PhD Students
 # - Former Graduate Students
+- Former Postdoctoral Fellows
 ---
 
-Jinghui is currently a postdoctoral fellow in actuarial science at the University of Toronto under the supervision of Prof. Sheldon Lin and Prof. Edward Furman.
+Jinghui is currently a Postdoctoral Fellow in Actuarial Science at the National University of Singapore. Before that, he was a postdoctoral fellow in actuarial science at the University of Toronto under the supervision of Prof. Sheldon Lin and Prof. Edward Furman.
 
 In Jan 2024, he got his PhD in mathematical finance and insurance at Vrije Universiteit Brussel under the supervision of Prof. Carole Bernard and Prof. Steven Vanduffel. 
 
@@ -72,4 +73,4 @@ His research interest is focused on dependence modelling, portfolio optimization
 
 For more information, visit his personal website [here](https://sites.google.com/view/jinghuichen/home-page).
 
-Email: jh8chen [at] yorku [dot] ca
+Email: jinghui.chen [at] nus [dot] edu [dot] sg
