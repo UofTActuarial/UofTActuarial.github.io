@@ -12,6 +12,7 @@ authors:
 
 # Author Names (alternative spellings etc)
 names:
+- Kathleen Miao
 - Kathleen E. Miao # or any other spellings as in your publication citations
 
 # Is this the primary user of the site? DO NOT CHANGE THIS FIELD

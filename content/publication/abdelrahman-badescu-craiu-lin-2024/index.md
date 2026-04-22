@@ -34,24 +34,9 @@ projects: []
 publishDate: '2025-05-26T20:03:56.809829Z'
 publication_types:
 - '2'
-abstract: 'Accurate loss reserving is crucial in Property and Casualty (P&C) insurance
-  for financial stability, regulatory compliance, and effective risk management. We
-  propose a novel micro-level Cox model based on hidden Markov models (HMMs). Initially
-  formulated as a continuous-time model, it addresses the complexity of incorporating
-  temporal dependencies and policyholder risk attributes. However, the continuous-time
-  model faces significant challenges in maximizing the likelihood and fitting right-truncated
-  reporting delays. To overcome these issues, we introduce two discrete-time versions:
-  one incorporating unsystematic randomness in reporting delays through a Dirichlet
-  distribution and one without. We provide the EM algorithm for parameter estimation
-  for all three models and apply them to an auto-insurance dataset to estimate IBNR
-  claim counts. Our results show that while all models perform well, the discrete-time
-  versions demonstrate superior performance by jointly modeling delay and frequency,
-  with the Dirichlet-based model capturing additional variability in reporting delays.
-  This approach enhances the accuracy and reliability of IBNR reserving, offering
-  a flexible framework adaptable to different levels of granularity within an insurance
-  portfolio.'
-publication: '*arXiv*'
+abstract: 'We propose a novel micro-level Cox model for incurred but not reported (IBNR) claims count based on hidden Markov models. Initially formulated as a continuous-time model, it addresses the complexity of incorporating temporal dependencies and policyholder risk attributes. However, the continuous-time model faces significant challenges in maximizing the likelihood and fitting right-truncated reporting delays. To overcome these issues, we introduce two discrete-time versions: one incorporating unsystematic randomness in reporting delays through a Dirichlet distribution and one without. We provide the EM algorithm for parameter estimation for all three models and apply them to an auto-insurance dataset to estimate IBNR claim counts. Our results show that while all models perform well, the discrete-time versions demonstrate superior performance by jointly modeling delay and frequency, with the Dirichlet-based model capturing additional variability in reporting delays. This approach enhances the accuracy and reliability of IBNR reserving, offering a flexible framework adaptable to different levels of granularity within an insurance portfolio.'
+publication: '*ASTIN Bulletin*'
 links:
 - name: URL
-  url: https://arxiv.org/abs/2409.12896
+  url: https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/marked-cox-models-for-ibnr-claims-count-continuous-and-discretized-approaches-with-dirichletdriven-reporting-delays/7F8EBD9A3AE3A72A44BFC4C352295EBA
 ---

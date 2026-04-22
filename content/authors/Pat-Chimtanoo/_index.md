@@ -40,9 +40,9 @@ education:
 # Social/Academic Networking
 social: # uncomment the social link sections you are providing
 
-# - icon: user-graduate
-#   icon_pack: fas
-#   link: <replace with personal webpage>
+- icon: user-graduate
+  icon_pack: fas
+  link: https://chitchayapat.github.io/
 # - icon: github
 #   icon_pack: fab
 #   link: <replace with github page>
@@ -60,6 +60,6 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Hi! My name is Pat Chimtanoo and I'm a first year PhD student in Statistics at University of Toronto. I earned my Bachelor degree in Actuarial Science and Mathematics from UW-Madison and my Master's degree in Applied Statistics at University of Michigan, and with my background, my passion lies in the intersection of statistics and various social science topics i.e., politics, social inequality, economic and health disparity.
+Pat Chimtanoo is a first-year Ph.D. student in Actuarial Science within the Department of Statistical Sciences at the University of Toronto. She is co-supervised by Professor Andrei Badescu and Professor Christopher Blier-Wong. Pat earned her bachelor’s degree in actuarial science from UW-Madison and a master’s in applied statistics from the University of Michigan. Her research interests lie in predictive modeling and algorithmic fairness in actuarial science. 
 
 Email:  pat [dot] chimtanoo [at] mail [dot] utoronto [dot] ca
