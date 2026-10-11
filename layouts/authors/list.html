@@ -39,7 +39,7 @@
     {{/* Show the About widget if an account exists for this user. */}}
     {{ if .File }}
       {{ $widget := "widgets/about.html" }}
-      {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $username := (.File.Dir | path.Clean | path.Base) }}{{/* Alternatively, use `index .Params.authors 0` */}}
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
@@ -47,7 +47,7 @@
     {{ if .File }}
       {{ $display_groups := .Params.display_groups}}
       {{ $widget := "widgets/people_inpage.html" }}
-      {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $username := (.File.Dir | path.Clean | path.Base) }}{{/* Alternatively, use `index .Params.authors 0` */}}
       {{ if intersect .Params.user_groups (slice "Alumni" "Researchers")}}
         {{ $subtitle := "Contributed To"}}
         {{ $params := dict "root" $ "display_groups" $display_groups "subtitle" $subtitle}}
@@ -68,7 +68,7 @@
     {{/* and display the articles that have an author equal to any of the names */}}
     {{/* listed in the _index.md page */}}
     {{ if .File }}
-      {{ $query := where .Site.Pages ".IsNode" false }}
+      {{ $query := where .Site.Pages ".IsPage" true }}
       {{ $count := len $query }}
       {{ $list := .Params.names}}
       {{ $research_tags := .Params.research_area_tags}}
@@ -112,7 +112,7 @@
     {{/* If no _index.md file exists for the author */}}
     {{/* list papers that have the same exact author listed */}}
     {{ if not .File }}
-        {{ $query := where .Pages ".IsNode" false }}
+        {{ $query := where .Pages ".IsPage" true }}
         {{ $count := len $query }}
 
         {{ if $count }}

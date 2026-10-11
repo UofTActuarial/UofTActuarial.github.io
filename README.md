@@ -6,20 +6,29 @@
 * Follow **How To's** below and edit the corresponding files on Github directly.
 
 **If you have experience with coding:**
-* Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
+* Install [Hugo Extended 0.167.0](https://github.com/gohugoio/hugo/releases/tag/v0.167.0), [Go](https://go.dev/dl/) (1.18 or later; the build configuration uses 1.27.2), and [Git](https://git-scm.com/downloads), and ensure all three are on your `PATH`. The Extended edition compiles the theme's SCSS. Node/npm, R, and a separate Sass installation are not needed for this site's build. Python and the `academic` CLI are only needed for importing publications, as described below.
 * cd into a directory you want to have the file in
 * git clone https://github.com/UofTActuarial/UofTActuarial.github.io.git
 * cd into the UofTActuarial.github.io folder
-* `hugo server` which allows you to view changes on the localhost first.
+* Check the installed versions with `hugo version`, `go version`, and `git --version`. Hugo's output must include `extended`.
+* `hugo server --disableFastRender` allows you to view changes on the localhost first.
 * Check it is up and running at localhost:1313
   *  If you encounter the error `hugo academic failed to extract shortcode: template for shortcode "callout" not found`, do:
       ~~~
       hugo mod clean
-      hugo mod get -u ./...
+      hugo --minify
       ~~~
 * Install the text editor of your choice
 * Create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
+
+Run `hugo --minify` from the repository root to create a production build in `public/`. The first build downloads the theme modules, so it needs internet access.
+
+### Hugo compatibility
+
+The Hugo version is pinned to 0.167.0 in the deployment workflows and Netlify configuration. The original Wowchemy theme remains pinned to commit `e58ee0ffc576` in `go.mod` to preserve the layout, typography, widgets, and existing customizations. Project templates in `layouts/` override older theme APIs for compatibility with modern Hugo.
+
+Do not run `hugo mod get -u ./...` as a routine repair: it upgrades the theme and can change the design or break the legacy widgets. Clearing the module cache and rebuilding downloads the versions already recorded in `go.mod` and `go.sum`. Review future Hugo upgrades locally before updating the deployment pins.
 
 ## How To's
 
