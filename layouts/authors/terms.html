@@ -1,0 +1,34 @@
+{{- define "main" -}}
+
+{{/* List of all authors. */}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{/* Modern Hugo can list both a profile and its generated author term at the same URL.
+       Keep the first entry (the weighted profile comes first) to preserve the legacy archive. */}}
+  {{ $pages := slice }}
+  {{ $seen := dict }}
+  {{ range .Pages }}
+    {{ if not (isset $seen .RelPermalink) }}
+      {{ $pages = $pages | append . }}
+      {{ $seen = merge $seen (dict .RelPermalink true) }}
+    {{ end }}
+  {{ end }}
+
+  <ul>
+    {{ $paginator := .Paginate $pages }}
+    {{ range $k, $v := $paginator.Pages }}
+      {{ $name := $v.Title }}
+      <li><a href="{{$v.Permalink}}">{{$name}}</a></li>
+    {{ end }}
+  </ul>
+
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}

@@ -27,8 +27,7 @@ organizations:
 interests:
 - Actuarial Science # or specific fields
 
-department:
-- 
+department: []
 
 # Uncomment the following to include education; not required at the moment.
 education:
