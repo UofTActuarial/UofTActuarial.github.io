@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Softwares | UofT ActSci</title><link>https://actsci.utstat.utoronto.ca/software/</link><atom:link href="https://actsci.utstat.utoronto.ca/software/index.xml" rel="self" type="application/rss+xml"/><description>Softwares</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://actsci.utstat.utoronto.ca/images/icon_hu4d218d6b5a759e6192687f4e4cea32fb_24821_512x512_fill_lanczos_center_2.png</url><title>Softwares</title><link>https://actsci.utstat.utoronto.ca/software/</link></image><item><title>SWIM Package</title><link>https://actsci.utstat.utoronto.ca/software/swim/</link><pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate><guid>https://actsci.utstat.utoronto.ca/software/swim/</guid><description>&lt;p>SWIM package is available in R and Shiny app.&lt;/p>
-&lt;ul>
-&lt;li>In R: available via &lt;a href="https://cran.r-project.org/web/packages/SWIM/index.html/" target="_blank" rel="noopener">CRAN&lt;/a> and &lt;a href="https://github.com/spesenti/SWIM/" target="_blank" rel="noopener">Github&lt;/a>&lt;/li>
-&lt;li>In Shiny app: &lt;a href="https://icmr.shinyapps.io/ShinySWIM/" target="_blank" rel="noopener">application&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>The SWIM package provides weights on simulated scenarios from a stochastic model, such that stressed model components (random variables) fulfil given probabilistic constraints (e.g. specified values for risk measures), under the new scenario weights. Scenario weights are selected by constrained minimisation of the relative entropy to the baseline model. The SWIM package is based on the papers &lt;a href="https://actsci.utstat.utoronto.ca/publication/pesenti-millossovich-tsanakas-2019">Pesenti et al. (2019)&lt;/a> and &lt;a href="https://actsci.utstat.utoronto.ca/publication/pesenti-2021">Pesenti (2021)&lt;/a>.&lt;/p></description></item><item><title>LRMoE Package</title><link>https://actsci.utstat.utoronto.ca/software/lrmoe/</link><pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate><guid>https://actsci.utstat.utoronto.ca/software/lrmoe/</guid><description>&lt;p>LRMoE packages are available in Julia and R.&lt;/p>
-&lt;ul>
-&lt;li>In Julia: &lt;a href="https://uoftactuarial.github.io/LRMoE.jl/" target="_blank" rel="noopener">documentation&lt;/a>&lt;/li>
-&lt;li>In R: &lt;a href="https://uoftactuarial.github.io/LRMoE/" target="_blank" rel="noopener">documentation&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>LRMoE is a package tailor-made for actuarial applications which allows actuarial researchers and practitioners to model and analyze insurance loss frequencies and severities using the Logit-weighted Reduced Mixture-of-Experts (LRMoE) model. The flexibility of LRMoE models is theoretically justified in &lt;a href="https://actsci.utstat.utoronto.ca/publication/fung-badescu-lin-2019-b/">Fung et al. (2019)&lt;/a>, and an application of LRMoE for modelling correlated insurance claim frequencies is in &lt;a href="https://actsci.utstat.utoronto.ca/publication/fung-badescu-lin-2019/">Fung et al. (2019)&lt;/a>.&lt;/p>
-&lt;p>The package LRMoE offers several new distinctive features which are motivated by various actuarial applications and mostly cannot be achieved using existing packages for mixture models. Key features include:&lt;/p>
-&lt;ul>
-&lt;li>A wider coverage on frequency and severity distributions and their zero inflation;&lt;/li>
-&lt;li>The flexibility to vary classes of distributions across components;&lt;/li>
-&lt;li>Parameter estimation under data censoring and truncation;&lt;/li>
-&lt;li>A collection of insurance rate making and reserving functions; and&lt;/li>
-&lt;li>Model selection and visualization tools.&lt;/li>
-&lt;/ul>
-&lt;p>While LRMoE was initially developed for actuarial application, this package also allows for customized expert functions for various modelling problems outside of the insurance context.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Softwares | UofT ActSci</title><link>https://actsci.utstat.utoronto.ca/software/</link><atom:link href="https://actsci.utstat.utoronto.ca/software/index.xml" rel="self" type="application/rss+xml"/><description>Softwares</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://actsci.utstat.utoronto.ca/images/icon_hu_7fbb529f9d6b9b89.png</url><title>Softwares</title><link>https://actsci.utstat.utoronto.ca/software/</link></image><item><title>SWIM Package</title><link>https://actsci.utstat.utoronto.ca/software/swim/</link><pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate><guid>https://actsci.utstat.utoronto.ca/software/swim/</guid><description>&lt;p&gt;SWIM package is available in R and Shiny app.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In R: available via &lt;a href="https://cran.r-project.org/web/packages/SWIM/index.html/" target="_blank" rel="noopener"&gt;CRAN&lt;/a&gt; and &lt;a href="https://github.com/spesenti/SWIM/" target="_blank" rel="noopener"&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In Shiny app: &lt;a href="https://icmr.shinyapps.io/ShinySWIM/" target="_blank" rel="noopener"&gt;application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;The SWIM package provides weights on simulated scenarios from a stochastic model, such that stressed model components (random variables) fulfil given probabilistic constraints (e.g. specified values for risk measures), under the new scenario weights. Scenario weights are selected by constrained minimisation of the relative entropy to the baseline model. The SWIM package is based on the papers &lt;a href="https://actsci.utstat.utoronto.ca/publication/pesenti-millossovich-tsanakas-2019"&gt;Pesenti et al. (2019)&lt;/a&gt; and &lt;a href="https://actsci.utstat.utoronto.ca/publication/pesenti-2021"&gt;Pesenti (2021)&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>LRMoE Package</title><link>https://actsci.utstat.utoronto.ca/software/lrmoe/</link><pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate><guid>https://actsci.utstat.utoronto.ca/software/lrmoe/</guid><description>&lt;p&gt;LRMoE packages are available in Julia and R.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In Julia: &lt;a href="https://uoftactuarial.github.io/LRMoE.jl/" target="_blank" rel="noopener"&gt;documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In R: &lt;a href="https://uoftactuarial.github.io/LRMoE/" target="_blank" rel="noopener"&gt;documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;LRMoE is a package tailor-made for actuarial applications which allows actuarial researchers and practitioners to model and analyze insurance loss frequencies and severities using the Logit-weighted Reduced Mixture-of-Experts (LRMoE) model. The flexibility of LRMoE models is theoretically justified in &lt;a href="https://actsci.utstat.utoronto.ca/publication/fung-badescu-lin-2019-b/"&gt;Fung et al. (2019)&lt;/a&gt;, and an application of LRMoE for modelling correlated insurance claim frequencies is in &lt;a href="https://actsci.utstat.utoronto.ca/publication/fung-badescu-lin-2019/"&gt;Fung et al. (2019)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The package LRMoE offers several new distinctive features which are motivated by various actuarial applications and mostly cannot be achieved using existing packages for mixture models. Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A wider coverage on frequency and severity distributions and their zero inflation;&lt;/li&gt;
+&lt;li&gt;The flexibility to vary classes of distributions across components;&lt;/li&gt;
+&lt;li&gt;Parameter estimation under data censoring and truncation;&lt;/li&gt;
+&lt;li&gt;A collection of insurance rate making and reserving functions; and&lt;/li&gt;
+&lt;li&gt;Model selection and visualization tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While LRMoE was initially developed for actuarial application, this package also allows for customized expert functions for various modelling problems outside of the insurance context.&lt;/p&gt;</description></item></channel></rss>
