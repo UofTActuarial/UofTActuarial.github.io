@@ -60,6 +60,6 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Pak Hop Chan is third-year PhD student in the Department of Statistical Sciences, specializing in actuarial science. His supervisors are Professor Andrei Badescu and Professor Sheldon Lin. He is interested in modelling and pricing of cyber risks and insurance. He holds a Bachelor of Science in Actuarial Science degree from the University of Hong Kong.
+Pak Hop Chan is fourth-year PhD student in the Department of Statistical Sciences, specializing in actuarial science. His supervisors are Professor Andrei Badescu and Professor Sheldon Lin. He is interested in modelling and pricing of cyber risks and insurance. He holds a Bachelor of Science in Actuarial Science degree from the University of Hong Kong.
 
 Email: ph [dot] chan [at] mail [dot] utoronto [dot] ca

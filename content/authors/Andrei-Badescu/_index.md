@@ -19,7 +19,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Professor, Actuarial Science; Director, Master of Financial Insurance
+role: Professor, Actuarial Science
 
 # Organizations/Affiliations
 organizations:

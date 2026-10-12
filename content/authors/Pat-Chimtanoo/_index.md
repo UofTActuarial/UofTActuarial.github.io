@@ -60,6 +60,6 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Pat Chimtanoo is a first-year Ph.D. student in Actuarial Science within the Department of Statistical Sciences at the University of Toronto. She is co-supervised by Professor Andrei Badescu and Professor Christopher Blier-Wong. Pat earned her bachelor’s degree in actuarial science from UW-Madison and a master’s in applied statistics from the University of Michigan. Her research interests lie in predictive modeling and algorithmic fairness in actuarial science. 
+Pat Chimtanoo is a second-year Ph.D. student in Actuarial Science within the Department of Statistical Sciences at the University of Toronto. She is co-supervised by Professor Andrei Badescu and Professor Christopher Blier-Wong. Pat earned her bachelor’s degree in actuarial science from UW-Madison and a master’s in applied statistics from the University of Michigan. Her research interests lie in predictive modeling and algorithmic fairness in actuarial science. 
 
 Email:  pat [dot] chimtanoo [at] mail [dot] utoronto [dot] ca

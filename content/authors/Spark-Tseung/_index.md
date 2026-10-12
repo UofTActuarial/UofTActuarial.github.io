@@ -18,11 +18,11 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: 
+role: Lead Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Reinsurance Group of America
 
 interests:
 - Actuarial Science # or specific fields
@@ -59,7 +59,7 @@ user_groups: # Uncomment your corresponding group.
  - Former Graduate Students
 ---
 
-Chau Lung Ngan Spark Tseung is a third-year PhD student in the Department of Statistical Sciences, with a research focus on actuarial science. His academic goal is to apply novel machine learning and data science methods to solving actuarial problems such as pricing and claims reserving. Apart from academics, he enjoys reading fictions and history. Prior to joining U of T, he obtained a bachelor’s degree in actuarial science from the University of Hong Kong.
+Chau Lung Ngan Spark Tseung was a PhD student in the Department of Statistical Sciences, with a research focus on actuarial science. His academic goal is to apply novel machine learning and data science methods to solving actuarial problems such as pricing and claims reserving. Apart from academics, he enjoys reading fictions and history. Prior to joining U of T, he obtained a bachelor’s degree in actuarial science from the University of Hong Kong.
 
 For more information, visit his personal website [here](https://sparktseung.com/).
 

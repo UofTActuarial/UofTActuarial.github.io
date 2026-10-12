@@ -4,7 +4,7 @@ title: Hassan Abdelrahman
 
 # Use 1-99 for professors, 101-199 for current postdocs, 201-299 for current phds, 301-399 for current masters, 401-499 for current undergrads, 801-809 for alum postdocs, 811-849 for alum phds, 851-899 for alum masters, and 901-999 for alum undergrads
 # Further modifying the weights in each group (e.g. 201, 202, 203,... for current phds) allows customized ordering (e.g. new students first)
-weight: 207
+weight: 199
 
 # Username (this should match the folder name)
 authors:
@@ -18,11 +18,11 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD Candidate
+role: PhD, 2026; Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+- name: Department of Statistical Sciences
 
 interests:
 # - Actuarial Science # or specific fields
@@ -60,6 +60,6 @@ user_groups: # Uncomment your corresponding group.
 # - Former Graduate Students
 ---
 
-Hassan Abdelrahman is a PhD student in the Department of Statistical Sciences, supervised by Professors Andrei Badescu and Sheldon Lin. He is mainly interested in micro-level claim reserving and ratemaking. Prior to joining U of T, he graduated with a double major in Actuarial Science and Mathematics from the American University in Cairo, before obtaining a Master of Mathematics in Actuarial Science from the University of Waterloo.
+Hassan Abdelrahman was a PhD candidate in the Department of Statistical Sciences, supervised by Professors Andrei Badescu and Sheldon Lin. He is mainly interested in micro-level claim reserving and ratemaking. Prior to joining U of T, he graduated with a double major in Actuarial Science and Mathematics from the American University in Cairo, before obtaining a Master of Mathematics in Actuarial Science from the University of Waterloo.
 
 Email: hassan [dot] abdelrahman [at] mail [dot] utoronto [dot] ca

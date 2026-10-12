@@ -18,11 +18,11 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: PhD, 2025
+role: PhD, 2025; Senior Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+- name: CIBC
 
 interests:
 - Applied Statistics
@@ -64,6 +64,6 @@ user_groups: # Uncomment your corresponding group.
 - Former Graduate Students
 ---
 
-Sebastian Calcetero is a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.
+Sebastian Calcetero was a Ph.D. candidate in actuarial science at the University of Toronto. He is mainly interested in loss modelling, risk management and analytics. His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance.
 
 Email: sebastian [dot] calcetero [at] mail [dot] utoronto [dot] ca
