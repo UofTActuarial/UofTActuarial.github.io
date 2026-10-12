@@ -55,5 +55,5 @@ subtitle = ""
 +++
 
 <div>
-    <h3>And our <a href="/people-uoftactuarial/#alumni">alumni</a></h3>
+    <h2 class="mb-4">And our <a href="/people-uoftactuarial/#alumni">alumni</a></h2>
 </div>

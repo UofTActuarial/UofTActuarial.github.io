@@ -14,12 +14,6 @@
   </div>
   {{ end }}
 
-  {{ with $page.Content }}
-  <div class="col-md-12">
-    {{ . }}
-  </div>
-  {{ end }}
-
   {{ range $page.Params.content.user_groups }}
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
 
@@ -57,5 +51,12 @@
     </div>
   </div>
   {{ end }}
+  {{ end }}
+
+  {{/* Display section content after all people groups. */}}
+  {{ with $page.Content }}
+  <div class="col-md-12">
+    {{ . }}
+  </div>
   {{ end }}
 </div>
