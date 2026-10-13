@@ -27,7 +27,8 @@ organizations:
 interests:
 - Actuarial Science # or specific fields
 
-department: []
+department: 
+- Reinsurance Group of America
 
 # Uncomment the following to include education; not required at the moment.
 education:

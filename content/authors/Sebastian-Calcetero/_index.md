@@ -32,7 +32,7 @@ interests:
 - Bayesian Methods
 
 department:
-- Department of Statistical Sciences
+- CIBC
 
 # Uncomment the following to include education; not required at the moment.
 education:
