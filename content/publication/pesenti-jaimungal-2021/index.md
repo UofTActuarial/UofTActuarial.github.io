@@ -5,12 +5,12 @@ title: Portfolio Optimization within a Wasserstein Ball
 subtitle: ''
 summary: ''
 authors:
-- Silvana M. Pesenti
-- Sebastian Jaimungal
+- "Silvana Pesenti"
+- "Sebastian Jaimungal"
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2022-07-04T21:06:29-04:00
+date: '2023-12-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -52,4 +52,5 @@ links:
 - name: URL
   url: https://doi.org/10.1137/22M1496803
 doi: 10.1137/22M1496803
+url_pdf: https://arxiv.org/pdf/2012.04500
 ---

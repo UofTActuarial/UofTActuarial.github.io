@@ -6,14 +6,14 @@ title: 'LRMoE.jl: a software package for insurance loss modelling using mixture 
 subtitle: ''
 summary: ''
 authors:
-- Spark C. Tseung
-- Andrei L. Badescu
-- Tsz Chai Fung
-- X. Sheldon Lin
+- "Spark Tseung"
+- "Andrei Badescu"
+- "Samson Fung"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-05-27T21:48:49-04:00
+date: '2021-07-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -34,18 +34,10 @@ projects: []
 publishDate: '2025-05-26T20:03:28.655364Z'
 publication_types:
 - '2'
-abstract: This paper introduces a new julia package, LRMoE, a statistical software
-  tailor-made for actuarial applications, which allows actuarial researchers and practitioners
-  to model and analyse insurance loss frequencies and severities using the Logit-weighted
-  Reduced Mixture-of-Experts (LRMoE) model. LRMoE offers several new distinctive features
-  which are motivated by various actuarial applications and mostly cannot be achieved
-  using existing packages for mixture models. Key features include a wider coverage
-  on frequency and severity distributions and their zero inflation, the flexibility
-  to vary classes of distributions across components, parameter estimation under data
-  censoring and truncation and a collection of insurance ratemaking and reserving
-  functions. The package also provides several model evaluation and visualisation
-  functions to help users easily analyse the performance of the fitted model and interpret
-  the model in insurance contexts.
+abstract: 'This paper introduces a new `julia` package, LRMoE, a statistical software tailor-made for actuarial applications, which allows actuarial researchers and practitioners to model and analyse insurance loss frequencies and severities using the Logit-weighted Reduced Mixture-of-Experts (LRMoE) model. LRMoE offers several new distinctive features which are motivated by various actuarial applications and mostly cannot be achieved using existing packages for mixture models. Key features include a wider coverage on frequency and severity distributions and their zero inflation, the flexibility to vary classes of distributions across components, parameter estimation under data censoring and truncation and a collection of insurance ratemaking and reserving functions. The package also provides several model evaluation and visualisation functions to help users easily analyse the performance of the fitted model and interpret the model in insurance contexts.'
 publication: '*Annals of Actuarial Science*'
 doi: 10.1017/S1748499521000087
+links:
+- name: URL
+  url: https://www.cambridge.org/core/product/identifier/S1748499521000087/type/journal_article
 ---

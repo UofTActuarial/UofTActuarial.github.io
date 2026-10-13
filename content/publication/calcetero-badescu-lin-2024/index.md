@@ -5,9 +5,9 @@ title: Effective experience rating for large insurance portfolios via surrogate 
 subtitle: ''
 summary: ''
 authors:
-- Sebastian Calcetero Vanegas
-- Andrei Badescu
-- X. Sheldon Lin
+- "Sebastian Calcetero"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags:
 - Credibility
 - Surrogate modeling
@@ -15,8 +15,8 @@ tags:
 - Bayesian regression
 - Experience rating
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T21:15:58-05:00
+date: '2024-09-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -48,15 +48,16 @@ abstract: Experience rating in insurance uses a Bayesian credibility model to up
   To address these challenges, this paper proposes a surrogate modeling approach to
   inexpensively derive an analytical expression for computing the Bayesian premiums
   for any given model, approximately. As a part of the methodology, the paper introduces
-  a likelihood-based summary statistic of the policyholder's claim history that serves
+  a *likelihood-based summary statistic* of the policyholder's claim history that serves
   as the main input of the surrogate model and that is sufficient for certain families
   of distribution, including the exponential dispersion family. As a result, the computational
   burden of experience rating for large portfolios is reduced through the direct evaluation
   of such analytical expression, which can provide a transparent and interpretable
   way of computing Bayesian premiums.
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2024.05.004
+doi: 10.1016/j.insmatheco.2024.05.004
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S016766872400060X
+url_pdf: https://arxiv.org/pdf/2211.06568
 ---

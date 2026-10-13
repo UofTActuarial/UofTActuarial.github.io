@@ -5,16 +5,16 @@ title: On the threshold dividend strategy for a generalized jump–diffusion ris
 subtitle: ''
 summary: ''
 authors:
-- Yichun Chi
-- X. Sheldon Lin
+- "Yichun Chi"
+- "Sheldon Lin"
 tags:
 - Jump–diffusion risk model
 - Expected discounted penalty function
 - Threshold dividend strategy
 - Wiener–Hopf factorization
 categories: []
-date: '2011-01-01'
-lastmod: 2022-07-12T22:05:45-04:00
+date: '2011-05-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -45,5 +45,10 @@ abstract: In this paper, we generalize the Cramér–Lundberg risk model perturb
   integral equation. Finally, phase-type downward jumps are considered and a matrix
   representation of the EDP function is presented.
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2010.11.006
+doi: '10.1016/j.insmatheco.2010.11.006'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167668710001332
+- name: Author manuscript
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1459883
 ---

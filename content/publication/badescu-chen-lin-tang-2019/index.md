@@ -5,14 +5,14 @@ title: 'A marked Cox model for the number of IBNR claims: estimation and applica
 subtitle: ''
 summary: ''
 authors:
-- Andrei L. Badescu
-- Tianle Chen
-- X. Sheldon Lin
-- Dameng Tang
+- "Andrei Badescu"
+- "Tianle Chen"
+- "Sheldon Lin"
+- "Dameng Tang"
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-05-27T22:04:38-04:00
+date: '2019-09-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -48,4 +48,7 @@ abstract: Incurred but not reported (IBNR) loss reserving is of great importance
   that the proposed model can provide realistic predictive distributions.
 publication: '*ASTIN Bulletin*'
 doi: 10.1017/asb.2019.15
+links:
+- name: URL
+  url: https://www.cambridge.org/core/product/identifier/S0515036119000151/type/journal_article
 ---

@@ -1,18 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Assessing driving risk through unsupervised detection of anomalies in telematics
-  time series data
+title: "Assessing driving risk through unsupervised detection of anomalies in telematics time series data"
 subtitle: ''
 summary: ''
 authors:
-- Ian Weng Chan
-- Andrei L. Badescu
-- X. Sheldon Lin
+- "Sophia Chan"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2025-01-01'
-lastmod: 2025-04-01T22:34:08-04:00
+date: "2025-05-01"
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -32,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-05-26T20:04:05.805531Z'
 publication_types:
-- '2'
+- "2"
 abstract: Vehicle telematics provides granular data for dynamic driving risk assessment,
   but current methods often rely on aggregated metrics (e.g., harsh braking counts)
   and do not fully exploit the rich time-series structure of telematics data. In this
@@ -52,6 +51,9 @@ abstract: Vehicle telematics provides granular data for dynamic driving risk ass
   and 0.78 for distinguishing drivers with claims. Furthermore, the methodology reveals
   significant behavioural differences between drivers with and without claims, offering
   valuable insights for insurance applications, accident analysis, and prevention.
-publication: '*ASTIN Bulletin*'
-doi: 10.1017/asb.2025.14
+publication: "*ASTIN Bulletin*"
+doi: "10.1017/asb.2025.14"
+links:
+- name: URL
+  url: https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/assessing-driving-risk-through-unsupervised-detection-of-anomalies-in-telematics-time-series-data/3E84AF8926F86916929FA9BEA807DC93
 ---

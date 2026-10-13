@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behavior'
+title: "Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behavior"
 subtitle: ''
 summary: ''
 authors:
-- Ian Weng Chan
-- Spark C. Tseung
-- Andrei L. Badescu
-- X. Sheldon Lin
+- "Sophia Chan"
+- "Spark Tseung"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T21:15:57-05:00
+date: "2025-04-03"
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-05-26T20:04:03.720850Z'
 publication_types:
-- '2'
+- "2"
 abstract: 'With the advancements in technology, telematics data that capture vehicle
   movement information are becoming available to more insurers. Because these data
   capture the actual driving behavior, they are expected to improve our understanding
@@ -53,9 +53,10 @@ abstract: 'With the advancements in technology, telematics data that capture veh
   show that both severe harsh events detected at a high threshold and expected claim
   counts are not directly proportional with driving time or distance but they increase
   at a decreasing rate. '
-publication: '*North American Actuarial Journal*'
-doi: 10.1080/10920277.2024.2376816
+publication: "*North American Actuarial Journal*"
+doi: "10.1080/10920277.2024.2376816"
+url_pdf: "https://arxiv.org/pdf/2304.10591"
 links:
 - name: URL
-  url: https://doi.org/10.1080/10920277.2024.2376816
+  url: https://www.tandfonline.com/doi/full/10.1080/10920277.2024.2376816
 ---

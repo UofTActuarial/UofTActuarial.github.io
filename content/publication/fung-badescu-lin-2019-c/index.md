@@ -5,13 +5,13 @@ title: Multivariate Cox Hidden Markov models with an application to operational 
 subtitle: ''
 summary: ''
 authors:
-- Tsz Chai Fung
-- Andrei L. Badescu
-- X. Sheldon Lin
+- "Samson Fung"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-05-27T22:06:00-04:00
+date: '2019-09-14'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -32,19 +32,10 @@ projects: []
 publishDate: '2025-05-26T20:03:34.587582Z'
 publication_types:
 - '2'
-abstract: 'Modeling multivariate time-series aggregate losses is an important actuarial
-  topic that is very challenging due to the fact that losses can be serially dependent
-  with heterogeneous dependence structures across loss types and business lines. In
-  this paper, we investigate a flexible class of multivariate Cox Hidden Markov Models
-  for the joint arrival process of loss events. Some of the nice properties possessed
-  by this class of models, such as closed-form expressions, thinning properties and
-  model versatility are discussed in details. We provide the expectation-maximization
-  (EM) algorithm for efficient model calibration. Applying the proposed model to an
-  operational risk dataset, we demonstrate that the model offers sufficient flexibility
-  to capture most characteristics of the observed loss frequencies. By modeling the
-  log-transformed loss severities through mixture of Erlang distributions, we can
-  model the aggregate losses. Finally, out-of-sample testing shows that the proposed
-  model is adequate to predict short-term future operational risk losses. '
+abstract: 'Modeling multivariate time-series aggregate losses is an important actuarial topic that is very challenging due to the fact that losses can be serially dependent with heterogeneous dependence structures across loss types and business lines. In this paper, we investigate a flexible class of multivariate Cox Hidden Markov Models for the joint arrival process of loss events. Some of the nice properties possessed by this class of models, such as closed-form expressions, thinning properties and model versatility are discussed in details. We provide the expectation-maximization (EM) algorithm for efficient model calibration. Applying the proposed model to an operational risk dataset, we demonstrate that the model offers sufficient flexibility to capture most characteristics of the observed loss frequencies. By modeling the log-transformed loss severities through mixture of Erlang distributions, we can model the aggregate losses. Finally, out-of-sample testing shows that the proposed model is adequate to predict short-term future operational risk losses.'
 publication: '*Scandinavian Actuarial Journal*'
 doi: 10.1080/03461238.2019.1598482
+links:
+- name: URL
+  url: https://www.tandfonline.com/doi/full/10.1080/03461238.2019.1598482
 ---

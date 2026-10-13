@@ -5,18 +5,18 @@ title: On the consistency of penalized MLEs for Erlang mixtures
 subtitle: ''
 summary: ''
 authors:
-- Cuihong Yin
-- X. Sheldon Lin
-- Rongtan Huang
-- Haili Yuan
+- "Cuihong Yin"
+- "Sheldon Lin"
+- "Rongtan Huang"
+- "Haili Yuan"
 tags:
 - Erlang mixture
 - Insurance loss modeling
 - Penalized maximum likelihood estimates
 - Consistency
 categories: []
-date: '2019-01-01'
-lastmod: 2022-05-30T21:02:05-04:00
+date: '2019-02-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -45,5 +45,8 @@ abstract: In Yin and Lin (2016), a new penalty, termed as iSCAD penalty, is prop
   justification and show that the penalized maximum likelihood estimators of the weights
   and the scale parameter as well as the order of mixture are all consistent.
 publication: '*Statistics & Probability Letters*'
-doi: https://doi.org/10.1016/j.spl.2018.08.004
+doi: '10.1016/j.spl.2018.08.004'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167715218302797
 ---

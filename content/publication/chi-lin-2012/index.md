@@ -5,12 +5,12 @@ title: Are Flexible Premium Variable Annuities Under-Priced?
 subtitle: ''
 summary: ''
 authors:
-- Yichun Chi
-- X. Sheldon Lin
+- "Yichun Chi"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2012-01-01'
-lastmod: 2022-07-12T22:05:45-04:00
+date: '2012-11-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -48,4 +48,8 @@ abstract: A variable annuity (VA) is a deferred annuity that allows an annuitant
   same M&E fee for both should be re-examined.
 publication: '*ASTIN Bulletin*'
 doi: 10.2143/AST.42.2.2182808
+links:
+- name: URL
+  url: https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/are-flexible-premium-variable-annuities-underpriced/AB6E9E20847119B25A680DA8CD57A8EE
+url_pdf: 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB6E9E20847119B25A680DA8CD57A8EE/S0515036100001197a.pdf/div-class-title-are-flexible-premium-variable-annuities-under-priced-div.pdf'
 ---

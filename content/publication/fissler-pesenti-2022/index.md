@@ -5,12 +5,12 @@ title: Sensitivity measures based on scoring functions
 subtitle: ''
 summary: ''
 authors:
-- Tobias Fissler
-- Silvana M. Pesenti
+- "Tobias Fissler"
+- "Silvana Pesenti"
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2022-07-04T21:06:31-04:00
+date: '2023-06-16'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -32,9 +32,9 @@ publishDate: '2025-05-26T20:03:47.736769Z'
 publication_types:
 - '2'
 abstract: We propose a holistic framework for constructing sensitivity measures for
-  any elicitable functional T of a response variable. The sensitivity measures, termed
+  any elicitable functional $T$ of a response variable. The sensitivity measures, termed
   score-based sensitivities, are constructed via scoring functions that are (strictly)
-  consistent for T. These score-based sensitivities quantify the relative improvement
+  consistent for $T$. These score-based sensitivities quantify the relative improvement
   in predictive accuracy when available information, e.g., from explanatory variables,
   is used ideally. We establish intuitive and desirable properties of these sensitivities
   and discuss advantageous choices of scoring functions leading to scale-invariant
@@ -49,6 +49,7 @@ abstract: We propose a holistic framework for constructing sensitivity measures 
 publication: '*European Journal of Operational Research*'
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0377221722007718
-doi: https://doi.org/10.1016/j.ejor.2022.10.002
+  url: https://doi.org/10.1016/j.ejor.2022.10.002
+doi: 10.1016/j.ejor.2022.10.002
+url_pdf: https://arxiv.org/pdf/2203.00460
 ---

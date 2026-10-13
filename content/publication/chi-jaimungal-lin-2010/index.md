@@ -5,9 +5,9 @@ title: An insurance risk model with stochastic volatility
 subtitle: ''
 summary: ''
 authors:
-- Yichun Chi
-- Sebastian Jaimungal
-- X. Sheldon Lin
+- "Yichun Chi"
+- "Sebastian Jaimungal"
+- "Sheldon Lin"
 tags:
 - Gerber–Shiu expected discounted penalty function
 - Integro-differential equation
@@ -17,8 +17,8 @@ tags:
 - Phase-type distribution
 - Ornstein–Uhlenbeck process
 categories: []
-date: '2010-01-01'
-lastmod: 2022-07-12T22:05:44-04:00
+date: '2010-02-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -52,5 +52,9 @@ abstract: In this paper, we extend the Cramér–Lundberg insurance risk model p
   of the approximation. Hyper-exponential and mixed-Erlang distributed claims are
   considered in some detail.
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2009.03.006
+doi: '10.1016/j.insmatheco.2009.03.006'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167668709000365
+url_pdf: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1370482_code879537.pdf?abstractid=1316223&mirid=1'
 ---

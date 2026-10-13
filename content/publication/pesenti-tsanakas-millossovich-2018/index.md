@@ -6,9 +6,9 @@ title: 'Euler allocations in the presence of non-linear reinsurance: Comment on 
 subtitle: ''
 summary: ''
 authors:
-- Silvana M. Pesenti
-- Andreas Tsanakas
-- Pietro Millossovich
+- "Silvana Pesenti"
+- "Andreas Tsanakas"
+- "Pietro Millossovich"
 tags:
 - Distortion risk measures
 - Capital allocation
@@ -17,8 +17,8 @@ tags:
 - Reinsurance
 - Aggregation
 categories: []
-date: '2018-01-01'
-lastmod: 2022-07-04T20:52:33-04:00
+date: '2018-11-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -50,5 +50,9 @@ abstract: Major (2018) discusses Euler/Aumann–Shapley allocations for non-line
   to homogeneous portfolios. Explicit formulas are derived and our approach is compared
   with that of Major (2018) via a numerical example.
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2018.09.001
+doi: 10.1016/j.insmatheco.2018.09.001
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.insmatheco.2018.09.001
+url_pdf: https://openaccess.city.ac.uk/id/eprint/20437/1/MajorCommentAccepted.pdf
 ---

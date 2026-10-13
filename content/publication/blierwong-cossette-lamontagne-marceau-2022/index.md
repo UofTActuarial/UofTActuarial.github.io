@@ -5,14 +5,14 @@ title: Geographic Ratemaking With Spatial Embeddings
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Hélène Cossette
-- Luc Lamontagne
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Hélène Cossette"
+- "Luc Lamontagne"
+- "Etienne Marceau"
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2024-11-08T20:58:35-05:00
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -42,6 +42,10 @@ abstract: 'Spatial data are a rich source of information for actuarial applicati
   Compared to spatial interpolation models, our approach leads to smaller predictive
   bias and reduced variance in most situations. This method also enables us to generate
   rates in territories with no historical experience.'
-publication: '*ASTIN Bulletin*'
+publication: '*ASTIN Bulletin: The Journal of the IAA*'
 doi: 10.1017/asb.2021.25
+links:
+- name: URL
+  url: https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/abs/geographic-ratemaking-with-spatial-embeddings/FE5AF1B2DD96B0D6B2684A775A847013
+url_pdf: https://arxiv.org/pdf/2104.12852
 ---

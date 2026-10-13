@@ -5,9 +5,9 @@ title: Risk aggregation with FGM copulas
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Hélène Cossette
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Hélène Cossette"
+- "Etienne Marceau"
 tags:
 - Stochastic representation
 - Mixed Erlang distributions
@@ -16,8 +16,8 @@ tags:
 - Risk-sharing
 - Capital allocation
 categories: []
-date: '2023-01-01'
-lastmod: 2024-11-08T20:58:36-05:00
+date: '2023-07-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -49,8 +49,9 @@ abstract: We offer a new perspective on risk aggregation with FGM copulas. Along
   under the convex order. Finally, we discuss risk-sharing and capital allocation,
   providing numerical examples for each.
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2023.03.002
+doi: 10.1016/j.insmatheco.2023.03.002
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0167668723000331
+url_pdf: https://arxiv.org/pdf/2207.14692
 ---

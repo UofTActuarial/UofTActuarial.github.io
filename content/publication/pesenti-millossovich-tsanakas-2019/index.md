@@ -5,9 +5,9 @@ title: 'Reverse sensitivity testing: What does it take to break the model?'
 subtitle: ''
 summary: ''
 authors:
-- Silvana M. Pesenti
-- Pietro Millossovich
-- Andreas Tsanakas
+- "Silvana Pesenti"
+- "Pietro Millossovich"
+- "Andreas Tsanakas"
 tags:
 - Robustness and sensitivity analysis
 - Risk management
@@ -15,8 +15,8 @@ tags:
 - Expected Shortfall
 - Stress testing
 categories: []
-date: '2019-01-01'
-lastmod: 2022-06-08T21:09:13-04:00
+date: '2019-04-16'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -59,5 +59,9 @@ abstract: 'Sensitivity analysis is an important component of model building, int
   examples with a simple insurance portfolio and a model of a London Insurance Market
   portfolio used in industry.'
 publication: '*European Journal of Operational Research*'
-doi: https://doi.org/10.1016/j.ejor.2018.10.003
+doi: 10.1016/j.ejor.2018.10.003
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.ejor.2018.10.003
+url_pdf: https://arts.units.it/retrieve/e2913fdc-cabf-f688-e053-3705fe0a67e0/Millossovich_Reverse%20sensitivity%20testing_postprint.pdf
 ---

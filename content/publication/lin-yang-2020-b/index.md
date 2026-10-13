@@ -6,8 +6,8 @@ title: 'Fast and efficient nested simulation for large variable annuity portfoli
 subtitle: ''
 summary: ''
 authors:
-- X. Sheldon Lin
-- Shuai Yang
+- "Sheldon Lin"
+- "Alex Yang"
 tags:
 - Variable annuity portfolio
 - Nested-simulation
@@ -15,8 +15,8 @@ tags:
 - Spline regression
 - Population sampling
 categories: []
-date: '2020-01-01'
-lastmod: 2022-05-27T21:59:42-04:00
+date: '2020-03-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -51,5 +51,8 @@ abstract: The nested-simulation is commonly used for calculating the predictive 
   is able to accurately approximate the predictive distribution of the total VA liability
   at a significantly reduced running time.
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2020.01.002
+doi: '10.1016/j.insmatheco.2020.01.002'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167668720300020
 ---

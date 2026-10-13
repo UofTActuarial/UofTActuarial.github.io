@@ -5,9 +5,9 @@ title: 'A marked Cox model for the number of IBNR claims: Theory'
 subtitle: ''
 summary: ''
 authors:
-- Andrei L. Badescu
-- X. Sheldon Lin
-- Dameng Tang
+- "Andrei Badescu"
+- "Sheldon Lin"
+- "Dameng Tang"
 tags:
 - IBNR claims
 - Loss reserving
@@ -16,8 +16,8 @@ tags:
 - Temporal dependence
 - Pascal mixture
 categories: []
-date: '2016-01-01'
-lastmod: 2022-05-30T21:16:34-04:00
+date: '2016-07-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -56,5 +56,8 @@ abstract: Incurred but not reported (IBNR) loss reserving is an important issue 
   claims and IBNR claims. Model estimation and its applications are considered in
   a subsequent paper, Badescu et al. (2015b).
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2016.03.016
+doi: '10.1016/j.insmatheco.2016.03.016'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167668715303401
 ---

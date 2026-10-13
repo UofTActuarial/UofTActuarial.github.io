@@ -5,13 +5,13 @@ title: Stressing dynamic loss models
 subtitle: ''
 summary: ''
 authors:
-- Emma Kroell
-- Silvana M. Pesenti
-- Sebastian Jaimungal
+- "Emma Kroell"
+- "Silvana Pesenti"
+- "Sebastian Jaimungal"
 tags: []
 categories: []
 date: '2024-01-01'
-lastmod: 2024-06-16T19:54:50-04:00
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -57,8 +57,9 @@ abstract: 'Stress testing, and in particular, reverse stress testing, is a promi
   to simulate sample paths under the stressed measure, thus allowing to compare the
   effects of stresses on the dynamics of the process.'
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2023.11.002
+doi: 10.1016/j.insmatheco.2023.11.002
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0167668723000975
+  url: https://doi.org/10.1016/j.insmatheco.2023.11.002
+url_pdf: https://arxiv.org/pdf/2211.03221
 ---

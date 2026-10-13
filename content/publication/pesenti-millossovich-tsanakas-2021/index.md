@@ -5,9 +5,9 @@ title: Cascade Sensitivity Measures
 subtitle: ''
 summary: ''
 authors:
-- Silvana M. Pesenti
-- Pietro Millossovich
-- Andreas Tsanakas
+- "Silvana Pesenti"
+- "Pietro Millossovich"
+- "Andreas Tsanakas"
 tags:
 - dependence
 - importance measures
@@ -16,8 +16,8 @@ tags:
 - Rosenblatt transform
 - Sensitivity analysis
 categories: []
-date: '2021-01-01'
-lastmod: 2022-07-04T20:52:34-04:00
+date: '2021-12-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -52,5 +52,9 @@ abstract: In risk analysis, sensitivity measures quantify the extent to which th
   The applicability of the methodology is illustrated through the analysis of a commercially
   used insurance risk model.
 publication: '*Risk Analysis*'
-doi: https://doi.org/10.1111/risa.13758
+doi: 10.1111/risa.13758
+links:
+- name: URL
+  url: https://doi.org/10.1111/risa.13758
+url_pdf: https://openaccess.city.ac.uk/25904/8/Cascade_Sensitivity_11-2020.pdf
 ---

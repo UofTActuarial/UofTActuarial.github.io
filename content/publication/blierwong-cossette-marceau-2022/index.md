@@ -6,9 +6,9 @@ title: Stochastic representation of FGM copulas using multivariate Bernoulli ran
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Hélène Cossette
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Hélène Cossette"
+- "Etienne Marceau"
 tags:
 - Multivariate Farlie-Gumbel-Morgenstern copulas
 - Multivariate Bernoulli distributions
@@ -16,8 +16,8 @@ tags:
 - Stochastic simulation
 - Dependence ordering
 categories: []
-date: '2022-01-01'
-lastmod: 2024-11-08T20:58:35-05:00
+date: '2022-09-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -41,17 +41,18 @@ publication_types:
 abstract: "A one-to-one correspondence between Fréchet's class of multivariate Bernoulli\
   \ distribution with symmetric marginals and the well-known family of Farlie-Gumbel-Morgenstern\
   \ (FGM) copulas is established. A new stochastic representation of the family of\
-  \ d-variate FGM copulas is introduced. The representation is bijective: from any\
-  \ d-variate Bernoulli distribution, one may define a corresponding d-variate FGM\
-  \ copula; and for any d-variate FGM copula, one finds the corresponding d-variate\
+  \ *d*-variate FGM copulas is introduced. The representation is bijective: from any\
+  \ *d*-variate Bernoulli distribution, one may define a corresponding *d*-variate FGM\
+  \ copula; and for any *d*-variate FGM copula, one finds the corresponding *d*-variate\
   \ Bernoulli distribution. The proposed stochastic representation has many advantages,\
   \ notably establishing stochastic orders, constructing subclasses of FGM copulas\
   \ and sampling. In particular, one may use the stochastic representation to develop\
   \ computational methods to perform sampling from subclasses of FGM copulas, which\
   \ scale well to large dimensions."
 publication: '*Computational Statistics & Data Analysis*'
-doi: https://doi.org/10.1016/j.csda.2022.107506
+doi: 10.1016/j.csda.2022.107506
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S016794732200086X
+url_pdf: https://chrisbw.ca/wp-content/uploads/2022/07/fgm-preprint.pdf
 ---

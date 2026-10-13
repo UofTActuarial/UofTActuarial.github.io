@@ -6,12 +6,12 @@ title: Efficient estimation of Erlang mixtures using iSCAD penalty with insuranc
 subtitle: ''
 summary: ''
 authors:
-- Cuihong Yin
-- X. Sheldon Lin
+- "Cuihong Yin"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2022-05-30T21:14:05-04:00
+date: '2016-09-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -40,4 +40,7 @@ abstract: The Erlang mixture model has been widely used in modeling insurance lo
   application, we demonstrate the efficiency of the EM algorithm.
 publication: '*ASTIN Bulletin*'
 doi: 10.1017/asb.2016.14
+links:
+- name: URL
+  url: https://www.cambridge.org/core/product/identifier/S0515036116000143/type/journal_article
 ---

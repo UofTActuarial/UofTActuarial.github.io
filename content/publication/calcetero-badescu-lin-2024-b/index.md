@@ -6,13 +6,13 @@ title: 'Claim reserving via inverse probability weighting: a micro-level Chain-L
 subtitle: ''
 summary: ''
 authors:
-- Sebastian Calcetero Vanegas
-- Andrei Badescu
-- X. Sheldon Lin
+- "Sebastian Calcetero"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T21:15:58-05:00
+date: '2025-04-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -50,4 +50,9 @@ abstract: Claim reserving primarily relies on macro-level models, with the Chain
   foundation based on population sampling theory that enables the use of granular
   information and other extensions.
 publication: '*European Actuarial Journal*'
+doi: 10.1007/s13385-024-00395-3
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s13385-024-00395-3
+url_pdf: https://arxiv.org/pdf/2307.10808
 ---

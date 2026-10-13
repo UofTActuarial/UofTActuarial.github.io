@@ -5,14 +5,14 @@ title: Robust Risk-Aware Reinforcement Learning
 subtitle: ''
 summary: ''
 authors:
-- Sebastian Jaimungal
-- Silvana M. Pesenti
-- Ye Sheng Wang
-- Hariom Tatsat
+- "Sebastian Jaimungal"
+- "Silvana Pesenti"
+- "Ye Sheng Wang"
+- "Hariom Tatsat"
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-07-04T20:52:34-04:00
+date: '2022-03-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -47,4 +47,8 @@ abstract: 'We present a reinforcement learning (RL) approach for robust optimiza
   benchmark optimization, and statistical arbitrage. '
 publication: '*SIAM Journal on Financial Mathematics*'
 doi: 10.1137/21M144640X
+links:
+- name: URL
+  url: https://doi.org/10.1137/21M144640X
+url_pdf: https://arxiv.org/pdf/2108.10403
 ---

@@ -5,12 +5,12 @@ title: 'Optimal reinsurance with limited ceded risk: A stochastic dominance appr
 subtitle: ''
 summary: ''
 authors:
-- Yichun Chi
-- X. Sheldon Lin
+- "Yichun Chi"
+- "Sheldon Lin"
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-07-12T22:05:46-04:00
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -52,4 +52,8 @@ abstract: An optimal reinsurance problem from the perspective of an insurer is s
   value at risk.
 publication: '*ASTIN Bulletin*'
 doi: 10.1017/asb.2013.28
+links:
+- name: URL
+  url: https://www.cambridge.org/core/product/identifier/S0515036113000287/type/journal_article
+url_pdf: 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0515036113000287'
 ---

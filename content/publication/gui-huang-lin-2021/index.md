@@ -5,17 +5,17 @@ title: 'Fitting multivariate Erlang mixtures to data: A roughness penalty approa
 subtitle: ''
 summary: ''
 authors:
-- Wenyong Gui
-- Rongtan Huang
-- X. Sheldon Lin
+- "Wenyong Gui"
+- "Rongtan Huang"
+- "Sheldon Lin"
 tags:
 - Multivariate Erlang mixtures
 - Truncated and censored data
 - GECM algorithm
 - Roughness penalty
 categories: []
-date: '2021-01-01'
-lastmod: 2022-05-27T21:48:52-04:00
+date: '2021-04-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -49,5 +49,8 @@ abstract: The class of multivariate Erlang mixtures with common scale parameter 
   We illustrate the performance of the proposed method through some numerical experiments
   and real data applications.
 publication: '*Journal of Computational and Applied Mathematics*'
-doi: https://doi.org/10.1016/j.cam.2020.113216
+doi: '10.1016/j.cam.2020.113216'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0377042720305070
 ---

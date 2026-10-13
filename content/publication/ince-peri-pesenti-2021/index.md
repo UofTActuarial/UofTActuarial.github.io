@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Risk contributions of lambda quantiles*
+title: 'Risk contributions of lambda quantiles'
 subtitle: ''
 summary: ''
 authors:
@@ -10,8 +10,8 @@ authors:
 - Silvana Pesenti
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-07-04T21:06:30-04:00
+date: '2022-10-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -57,4 +57,5 @@ links:
 - name: URL
   url: https://doi.org/10.1080/14697688.2022.2092543
 doi: 10.1080/14697688.2022.2092543
+url_pdf: https://arxiv.org/pdf/2106.14824
 ---

@@ -5,13 +5,13 @@ title: A Population Sampling Framework for Claim Reserving in General Insurance
 subtitle: ''
 summary: ''
 authors:
-- Sebastian Calcetero Vanegas
-- Andrei L Badescu
-- X Sheldon Lin
+- "Sebastian Calcetero"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2025-01-01'
-lastmod: 2025-03-31T14:49:09-04:00
+date: '2025-02-21'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-05-26T20:04:05.083966Z'
 publication_types:
-- '2'
+- '3'
 abstract: 'Claim reserving in insurance has been studied through two primary frameworks:
   the macro-level approach, which estimates reserves at an aggregate level (e.g.,
   Chain-Ladder), and the micro-level approach, which estimates reserves at the individual
@@ -50,4 +50,8 @@ abstract: 'Claim reserving in insurance has been studied through two primary fra
   for actuaries. The framework is illustrated using Canadian auto insurance data,
   highlighting the practical benefits of the sampling-based methods.'
 publication: '*arXiv preprint arXiv:2502.15598*'
+doi: 10.48550/arXiv.2502.15598
+links:
+- name: URL
+  url: https://arxiv.org/abs/2502.15598
 ---

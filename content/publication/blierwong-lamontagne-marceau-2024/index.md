@@ -5,13 +5,13 @@ title: A representation-learning approach for insurance pricing with images
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Luc Lamontagne
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Luc Lamontagne"
+- "Etienne Marceau"
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T21:16:04-05:00
+date: '2024-05-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -46,6 +46,10 @@ abstract: Unstructured data are a promising new source of information that insur
   characteristics within the image leads to increased or decreased predicted claim
   frequencies. Throughout, we discuss the practical difficulties (technical and social)
   of using this type of data for insurance pricing.
-publication: '*ASTIN Bulletin*'
+publication: '*ASTIN Bulletin: The Journal of the IAA*'
 doi: 10.1017/asb.2024.9
+links:
+- name: URL
+  url: https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/representationlearning-approach-for-insurance-pricing-with-images/E442676A2F597A9DBBDFC9FB986C3070
+url_pdf: https://arxiv.org/pdf/2309.11404
 ---

@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Marginal expected shortfall: Systemic risk measurement under dependence uncertainty'
+title: "Static marginal expected shortfall: Systemic risk measurement under dependence uncertainty"
 subtitle: ''
 summary: ''
 authors:
-- Jinghui Chen
-- Edward Furman
-- Sheldon Lin
+- "Jinghui Chen"
+- "Edward Furman"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2025-04-29'
-lastmod: 2025-04-29T21:16:05-05:00
+date: "2026-09-01"
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -31,10 +31,12 @@ image:
 projects: []
 publishDate: '2025-09-08T17:03:56.809829Z'
 publication_types:
-- '2'
-abstract: 'Measuring the contribution of a bank or an insurance company to the overall systemic risk of the market is an important issue, especially in the aftermath of the 20072009 financial crisis and the financial downturn of 2020. In this paper, we derive the worst-case and best-case bounds for marginal expected shortfall (MES)—a key measure of systemic risk contribution—under the assumption of known marginal distributions for individual companies’ risks but an unknown dependence structure. We further derive improved bounds for the MES risk measure when partial information on companies’ risk exposures—and hence their dependence—is available. To capture this partial information, we utilize three commonly used background risk models: the additive, minimum-based, and multiplicative factor models. Finally, we present an alternative set of improved MES bounds based on a linear regression relationship between individual companies’ risks and overall market risk, consistent with the assumptions of the Capital Asset Pricing Model in finance and the Weighted Insurance Pricing Model in insurance.'
-publication: '*arXiv*'
+- "2"
+abstract: "Measuring the contribution of a bank or an insurance company to overall systemic risk is a key concern, particularly in the aftermath of the 2007–2009 financial crisis and the 2020 downturn. In this paper, we derive worst-case and best-case bounds for the marginal expected shortfall (MES)—a key measure of systemic risk contribution—under the assumption that individual firms’ risk distributions are known but their dependence structure is unspecified. We further derive tighter MES bounds when partial information on firms’ risk exposures, and thus their dependence structure, is available. This partial information is incorporated through two standard factor models: additive and minimum-based background risk models. Additionally, we propose an alternative set of improved MES bounds based on a linear relationship between firm-specific and market-wide risks, consistent with the capital asset pricing model in finance and the weighted insurance pricing model in insurance. Finally, empirical analyses demonstrate the practical relevance of the theoretical bounds for industry practitioners and policymakers."
+publication: "*Insurance: Mathematics and Economics*"
+doi: "10.1016/j.insmatheco.2026.103285"
+url_pdf: /publication/chen-furman-lin-2025/chen-furman-lin-2026.pdf
 links:
 - name: URL
-  url: https://arxiv.org/abs/2504.19953
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0167668726000752
 ---

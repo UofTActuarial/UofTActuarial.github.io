@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Optimal Robust Reinsurance with Multiple Insurers
+title: 'Optimal robust reinsurance with multiple insurers'
 subtitle: ''
 summary: ''
 authors:
-- Emma Kroell
-- Sebastian Jaimungal
-- Silvana M Pesenti
+- "Emma Kroell"
+- "Sebastian Jaimungal"
+- "Silvana Pesenti"
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2024-06-16T19:54:51-04:00
+date: '2025-05-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -44,8 +44,10 @@ abstract: We study a reinsurer who faces multiple sources of model uncertainty. 
   contracts, and illustrate the solutions numerically. Furthermore, we solve the related
   problem where the reinsurer maximises, still under ambiguity, their expected utility
   and compare the solutions.
-publication: '*Available at SSRN 4548858*'
+publication: '*Scandinavian Actuarial Journal*'
 links:
 - name: URL
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4548858
+  url: https://doi.org/10.1080/03461238.2024.2431539
+doi: 10.1080/03461238.2024.2431539
+url_pdf: https://arxiv.org/pdf/2308.11828
 ---

@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Risk Budgeting Portfolios from Simulations
+title: 'Risk budgeting portfolios from simulations'
 subtitle: ''
 summary: ''
 authors:
-- B. Freitas Paulo da Costa
-- Silvana M. Pesenti
-- Rodrigo S. Targino
+- "B. Freitas Paulo da Costa"
+- "Silvana Pesenti"
+- "Rodrigo S. Targino"
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2022-07-04T21:06:30-04:00
+date: '2023-12-16'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -45,6 +45,7 @@ abstract: Risk budgeting is a portfolio strategy where each asset contributes a 
 publication: '*European Journal of Operational Research*'
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0377221723004277
-doi: https://doi.org/10.1016/j.ejor.2023.06.003
+  url: https://doi.org/10.1016/j.ejor.2023.06.003
+doi: 10.1016/j.ejor.2023.06.003
+url_pdf: https://arxiv.org/pdf/2302.01196
 ---

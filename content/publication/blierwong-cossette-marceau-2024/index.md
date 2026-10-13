@@ -5,13 +5,13 @@ title: Exchangeable FGM copulas
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Hélène Cossette
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Hélène Cossette"
+- "Etienne Marceau"
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T20:58:37-05:00
+date: '2024-03-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -50,4 +50,8 @@ abstract: Copulas provide a powerful and flexible tool for modeling the dependen
   exchangeable FGM copulas.
 publication: '*Advances in Applied Probability*'
 doi: 10.1017/apr.2023.19
+links:
+- name: URL
+  url: https://www.cambridge.org/core/journals/advances-in-applied-probability/article/exchangeable-fgm-copulas/670BBBF0018C8B864AAA7B7A47134304
+url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/670BBBF0018C8B864AAA7B7A47134304/S0001867823000198a.pdf/exchangeable-fgm-copulas.pdf
 ---

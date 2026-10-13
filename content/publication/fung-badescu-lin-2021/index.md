@@ -5,13 +5,13 @@ title: A New Class of Severity Regression Models with an Application to IBNR Pre
 subtitle: ''
 summary: ''
 authors:
-- Tsz Chai Fung
-- Andrei L. Badescu
-- X. Sheldon Lin
+- "Samson Fung"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-05-27T21:48:53-04:00
+date: '2021-04-03'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -32,21 +32,10 @@ projects: []
 publishDate: '2025-05-26T20:03:31.313241Z'
 publication_types:
 - '2'
-abstract: 'Insurance loss severity data often exhibit heavy-tailed behavior, complex
-  distributional characteristics such as multimodality, and peculiar links between
-  policyholders’ risk profiles and claim amounts. To capture these features, we propose
-  a transformed Gamma logit-weighted mixture of experts (TG-LRMoE) model for severity
-  regression. The model possesses several desirable properties. The TG-LRMoE satisfies
-  the denseness property that warrants its full versatility in capturing any distribution
-  and regression structures. It may effectively extrapolate a wide range of tail behavior.
-  The model is also identifiable, which further ensures its suitability for statistical
-  inference. To make the TG-LRMoE computationally tractable, an expectation conditional
-  maximization (ECM) algorithm with parameter penalization is developed for efficient
-  and robust parameter estimation. The proposed model is applied to fit the severity
-  and reporting delay components of a European automobile insurance dataset. In addition
-  to obtaining excellent goodness of fit, the proposed model is shown to be useful
-  and crucial for adequate prediction of incurred but not reported (IBNR) reserves
-  through out-of-sample testing. '
+abstract: 'Insurance loss severity data often exhibit heavy-tailed behavior, complex distributional characteristics such as multimodality, and peculiar links between policyholders’ risk profiles and claim amounts. To capture these features, we propose a transformed Gamma logit-weighted mixture of experts (TG-LRMoE) model for severity regression. The model possesses several desirable properties. The TG-LRMoE satisfies the denseness property that warrants its full versatility in capturing any distribution and regression structures. It may effectively extrapolate a wide range of tail behavior. The model is also identifiable, which further ensures its suitability for statistical inference. To make the TG-LRMoE computationally tractable, an expectation conditional maximization (ECM) algorithm with parameter penalization is developed for efficient and robust parameter estimation. The proposed model is applied to fit the severity and reporting delay components of a European automobile insurance dataset. In addition to obtaining excellent goodness of fit, the proposed model is shown to be useful and crucial for adequate prediction of incurred but not reported (IBNR) reserves through out-of-sample testing.'
 publication: '*North American Actuarial Journal*'
 doi: 10.1080/10920277.2020.1729813
+links:
+- name: URL
+  url: https://www.tandfonline.com/doi/full/10.1080/10920277.2020.1729813
 ---

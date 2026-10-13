@@ -6,13 +6,13 @@ title: Fitting Censored and Truncated Regression Data Using the Mixture of Exper
 subtitle: ''
 summary: ''
 authors:
-- Tsz Chai Fung
-- Andrei L. Badescu
-- X. Sheldon Lin
+- "Samson Fung"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-05-27T21:48:51-04:00
+date: '2022-10-02'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -33,16 +33,10 @@ projects: []
 publishDate: '2025-05-26T20:03:29.779245Z'
 publication_types:
 - '2'
-abstract: 'The logit-weighted reduced mixture of experts model (LRMoE) is a flexible
-  yet analytically tractable non-linear regression model. Though it has shown usefulness
-  in modeling insurance loss frequencies and severities, model calibration becomes
-  challenging when censored and truncated data are involved, which is common in actuarial
-  practice. In this article, we present an extended expectation–conditional maximization
-  (ECM) algorithm that efficiently fits the LRMoE to random censored and random truncated
-  regression data. The effectiveness of the proposed algorithm is empirically examined
-  through a simulation study. Using real automobile insurance data sets, the usefulness
-  and importance of the proposed algorithm are demonstrated through two actuarial
-  applications: individual claim reserving and deductible ratemaking. '
+abstract: 'The logit-weighted reduced mixture of experts model (LRMoE) is a flexible yet analytically tractable non-linear regression model. Though it has shown usefulness in modeling insurance loss frequencies and severities, model calibration becomes challenging when censored and truncated data are involved, which is common in actuarial practice. In this article, we present an extended expectation–conditional maximization (ECM) algorithm that efficiently fits the LRMoE to random censored and random truncated regression data. The effectiveness of the proposed algorithm is empirically examined through a simulation study. Using real automobile insurance data sets, the usefulness and importance of the proposed algorithm are demonstrated through two actuarial applications: individual claim reserving and deductible ratemaking.'
 publication: '*North American Actuarial Journal*'
 doi: 10.1080/10920277.2021.2013896
+links:
+- name: URL
+  url: https://www.tandfonline.com/doi/full/10.1080/10920277.2021.2013896
 ---

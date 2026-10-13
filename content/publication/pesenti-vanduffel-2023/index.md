@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Optimal Transport Divergences induced by Scoring Functions
+title: 'Optimal transport divergences induced by scoring functions'
 subtitle: ''
 summary: ''
 authors:
-- Silvana M Pesenti
-- Steven Vanduffel
+- "Silvana Pesenti"
+- "Steven Vanduffel"
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2024-06-16T19:54:53-04:00
+date: '2024-11-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -31,21 +31,17 @@ projects: []
 publishDate: '2025-05-26T20:03:55.297218Z'
 publication_types:
 - '2'
-abstract: We employ scoring functions, used in statistics for eliciting risk functionals,
-  as cost functions in the Monge-Kantorovich (MK) optimal transport problem. This
-  gives raise to a rich variety of novel asymmetric MK divergences, which subsume
-  the family of Bregman-Wasserstein divergences. We show that for distributions on
-  the real line, the comonotonic coupling is optimal for the majority of the new divergences.
-  Specifically, we derive the optimal coupling of the MK divergences induced by functionals
-  including the mean, generalised quantiles, expectiles, and shortfall measures. Furthermore,
-  we show that while any elicitable law-invariant coherent risk measure gives raise
-  to infinitely many MK divergences, the comonotonic coupling is simultaneously optimal.
-  The novel MK divergences, which can be efficiently calculated, open an array of
-  applications in robust stochastic optimisation. We derive sharp bounds on distortion
-  risk measures under a Bregman-Wasserstein divergence constraint, and solve for cost-efficient
-  payoffs under benchmark constraints.
-publication: '*Available at SSRN 4638937*'
+abstract: |-
+  We employ scoring functions, used in statistics for eliciting risk functionals, as cost
+  functions in the Monge-Kantorovich (MK) optimal transport problem. This gives rise to a
+  rich variety of novel asymmetric MK divergences, subsuming Bregman-Wasserstein
+  divergences. We show that for distributions on the real line, the comonotonic coupling is
+  optimal for the majority of the new divergences. We conclude with two applications to
+  robust optimisation.
+publication: '*Operations Research Letters*'
 links:
 - name: URL
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4638937
+  url: https://doi.org/10.1016/j.orl.2024.107146
+doi: 10.1016/j.orl.2024.107146
+url_pdf: https://arxiv.org/pdf/2311.12183
 ---

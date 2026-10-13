@@ -5,12 +5,12 @@ title: Applications of Population Sampling to Insurance Ratemaking and Reserving
 subtitle: ''
 summary: ''
 authors:
-- Sebastian Calcetero Vanegas
-- X. Sheldon Lin
+- "Sebastian Calcetero"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T21:15:59-05:00
+date: '2024-11-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -46,4 +46,8 @@ abstract: This paper explores the underutilized application of population sampli
   weighting techniques, we demonstrate a statistically robust, distribution-free method
   for IBNR reserving, emphasizing the integration of granular policyholder information.
 publication: '*Japanese Journal of Statistics and Data Science*'
+doi: 10.1007/s42081-024-00260-3
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s42081-024-00260-3
 ---

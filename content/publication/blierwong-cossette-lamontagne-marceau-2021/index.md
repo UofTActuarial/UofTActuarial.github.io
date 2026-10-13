@@ -5,14 +5,14 @@ title: 'Machine Learning in P&C Insurance: A Review for Pricing and Reserving'
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Hélène Cossette
-- Luc Lamontagne
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Hélène Cossette"
+- "Luc Lamontagne"
+- "Etienne Marceau"
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2024-11-08T20:29:23-05:00
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -47,4 +47,5 @@ doi: 10.3390/risks9010004
 links:
 - name: URL
   url: https://www.mdpi.com/2227-9091/9/1/4
+url_pdf: https://res.mdpi.com/d_attachment/risks/risks-09-00004/article_deploy/risks-09-00004-v2.pdf
 ---

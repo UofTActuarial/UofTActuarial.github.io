@@ -6,13 +6,13 @@ title: 'A class of mixture of experts models for general insurance: application 
 subtitle: ''
 summary: ''
 authors:
-- Tsz Chai Fung
-- Andrei L. Badescu
-- X. Sheldon Lin
+- "Samson Fung"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-05-27T21:48:50-04:00
+date: '2019-09-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -49,4 +49,7 @@ abstract: This paper focuses on the estimation and application aspects of the Er
   be useful for insurance ratemaking.
 publication: '*ASTIN Bulletin*'
 doi: 10.1017/asb.2019.25
+links:
+- name: URL
+  url: https://www.cambridge.org/core/product/identifier/S0515036119000254/type/journal_article
 ---

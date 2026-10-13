@@ -70,7 +70,7 @@
     {{ if .File }}
       {{ $query := where .Site.Pages ".IsPage" true }}
       {{ $count := len $query }}
-      {{ $list := .Params.names}}
+      {{ $list := union (.Params.names | default (slice)) (.Params.authors | default (slice)) }}
       {{ $research_tags := .Params.research_area_tags}}
 
       {{ if $count }}

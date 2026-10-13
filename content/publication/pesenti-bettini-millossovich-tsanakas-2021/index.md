@@ -6,14 +6,14 @@ title: Scenario Weights for Importance Measurement (SWIM) – an R package for s
 subtitle: ''
 summary: ''
 authors:
-- Silvana M. Pesenti
-- Alberto Bettini
-- Pietro Millossovich
-- Andreas Tsanakas
+- "Silvana Pesenti"
+- "Alberto Bettini"
+- "Pietro Millossovich"
+- "Andreas Tsanakas"
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-07-04T20:52:33-04:00
+date: '2021-07-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -52,4 +52,8 @@ abstract: The Scenario Weights for Importance Measurement (SWIM) package impleme
   SWIM are demonstrated through a case study of a credit portfolio model.
 publication: '*Annals of Actuarial Science*'
 doi: 10.1017/S1748499521000130
+links:
+- name: URL
+  url: https://doi.org/10.1017/S1748499521000130
+url_pdf: https://openaccess.city.ac.uk/id/eprint/25845/1/SWIM_AAS_Accepted.pdf
 ---

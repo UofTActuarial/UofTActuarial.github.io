@@ -5,14 +5,14 @@ title: Risk Budgeting Allocation for Dynamic Risk Measures
 subtitle: ''
 summary: ''
 authors:
-- Sebastian Jaimungal
-- Silvana M Pesenti
-- Yuri F Saporito
-- Rodrigo S Targino
+- "Silvana Pesenti"
+- "Sebastian Jaimungal"
+- "Yuri F. Saporito"
+- "Rodrigo S. Targino"
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2024-06-16T19:54:51-04:00
+date: '2025-05-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -33,19 +33,22 @@ projects: []
 publishDate: '2025-05-26T20:03:52.794535Z'
 publication_types:
 - '2'
-abstract: We define and develop an approach for risk budgeting allocation -- a risk
-  diversification portfolio strategy -- where risk is measured using a dynamic time-consistent
-  risk measure. For this, we introduce a notion of dynamic risk contributions that
-  generalise the classical Euler contributions and which allow us to obtain dynamic
-  risk contributions in a recursive manner. We prove that, for the class of dynamic
-  coherent distortion risk measures, the risk allocation problem may be recast as
-  a sequence of strictly convex optimisation problems. Moreover, we show that any
-  self-financing dynamic risk budgeting strategy with initial wealth of $1$ is a scaled
-  version of the unique solution of the sequence of convex optimisation problems.
-  Furthermore, we develop an actor-critic approach, leveraging the elicitability of
-  dynamic risk measures, to solve for risk budgeting strategy using deep learning.
-publication: '*Available at SSRN 4452742*'
+abstract: |-
+  We define and develop an approach for risk budgeting allocation—a risk diversification
+  portfolio strategy—where risk is measured using a dynamic time-consistent risk measure.
+  For this, we introduce a notion of dynamic risk contributions that generalize the
+  classical Euler contributions, which allows us to obtain dynamic risk contributions in a
+  recursive manner. We prove that for the class of coherent dynamic distortion risk
+  measures, the risk allocation problem may be recast as a sequence of strictly convex
+  optimization problems. Moreover, we show that self-financing dynamic risk budgeting
+  strategies with initial wealth of one are scaled versions of the solution of the sequence
+  of convex optimization problems. Furthermore, we develop an actor-critic approach,
+  leveraging the elicitability of dynamic risk measures, to solve for risk budgeting
+  strategies using deep learning.
+publication: '*Operations Research*'
 links:
 - name: URL
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452742
+  url: https://doi.org/10.1287/opre.2023.0299
+doi: 10.1287/opre.2023.0299
+url_pdf: https://arxiv.org/pdf/2305.11319
 ---

@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'A Unified Bayesian Collective Reserving Framework with Hierarchical Temporal Smoothing'
+title: "A Unified Bayesian Collective Reserving Framework with Hierarchical Temporal Smoothing"
 subtitle: ''
 summary: ''
 authors:
-- Hassan Abdelrahman
-- Andrei Badescu
-- Sheldon Lin
+- "Hassan Abdelrahman"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags: []
 categories: []
-date: '2026-03-13'
-lastmod: 2024-11-08T21:16:05-05:00
+date: "2026-03-13"
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -31,9 +31,10 @@ image:
 projects: []
 publishDate: '2026-03-13T20:03:56.809829Z'
 publication_types:
-- '2'
-abstract: 'This paper develops a unified Bayesian reserving framework built upon the foundations of the Collective Reserving Model (CRM). Rather than proposing a single fixed specification, we introduce a modular probabilistic architecture that enables the principled integration of structural components commonly encountered in actuarial practice. These include hierarchical partial pooling across claim types, smooth temporal dynamics, spline-based development patterns, calendar effects, seasonal components, reporting--payment delay interactions, and portfolio-level risk covariates.By utilizing Hamiltonian Monte Carlo implemented in \texttt{Stan}, all framework components are estimated jointly within a single coherent likelihood, allowing for a separate estimation of the RBNS and IBNR reserves. This unified formulation ensures full propagation of parameter and process uncertainty across modeling layers and yields robust posterior predictive distributions for reserve risk assessment.Applied to a large European automobile physical damage portfolio, the framework demonstrates a strong ability to extract stable, high-resolution signals from granular monthly data. A rolling-origin backtest shows that the proposed approach substantially outperforms traditional deterministic benchmarks. Ultimately, the results demonstrate that a structured Bayesian approach provides a flexible, interpretable, and practically effective alternative to traditional reserving models.'
-publication: '*SSRN Preprint*'
+- "3"
+abstract: "This paper develops a unified Bayesian reserving framework built upon the foundations of the Collective Reserving Model (CRM). Rather than proposing a single fixed specification, we introduce a modular probabilistic architecture that enables the principled integration of structural components commonly encountered in actuarial practice. These include hierarchical partial pooling across claim types, smooth temporal dynamics, spline-based development patterns, calendar effects, seasonal components, reporting–payment delay interactions, and portfolio-level risk covariates. By utilizing Hamiltonian Monte Carlo implemented in <code>Stan</code>, all framework components are estimated jointly within a single coherent likelihood, allowing for a separate estimation of the RBNS and IBNR reserves. This unified formulation ensures full propagation of parameter and process uncertainty across modeling layers and yields robust posterior predictive distributions for reserve risk assessment. Applied to a large European automobile physical damage portfolio, the framework demonstrates a strong ability to extract stable, high-resolution signals from granular monthly data. A rolling-origin backtest shows that the proposed approach substantially outperforms traditional deterministic benchmarks. Ultimately, the results demonstrate that a structured Bayesian approach provides a flexible, interpretable, and practically effective alternative to traditional reserving models."
+publication: "*SSRN Preprint*"
+doi: "10.2139/ssrn.6410160"
 links:
 - name: URL
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6410160

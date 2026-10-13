@@ -6,10 +6,10 @@ title: A new method to construct high-dimensional copulas with Bernoulli and Cox
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Hélène Cossette
-- Sebastien Legros
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Hélène Cossette"
+- "Sebastien Legros"
+- "Etienne Marceau"
 tags:
 - Generalized Farlie–Gumbel–Morgenstern copulas
 - High-dimensional copulas
@@ -17,8 +17,8 @@ tags:
 - Measures of multivariate association
 - Stochastic representation
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T20:58:36-05:00
+date: '2024-05-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -56,8 +56,9 @@ abstract: We propose an approach to construct a new family of generalized Farlie
   case and provide insights into the most negative dependence structure within this
   new class of high-dimensional copulas.
 publication: '*Journal of Multivariate Analysis*'
-doi: https://doi.org/10.1016/j.jmva.2023.105261
+doi: 10.1016/j.jmva.2023.105261
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0047259X23001070
+url_pdf: https://arxiv.org/pdf/2209.13675
 ---

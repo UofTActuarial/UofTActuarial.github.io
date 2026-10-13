@@ -5,13 +5,13 @@ title: Collective risk models with FGM dependence
 subtitle: ''
 summary: ''
 authors:
-- Christopher Blier-Wong
-- Hélène Cossette
-- Etienne Marceau
+- "Christopher Blier Wong"
+- "Hélène Cossette"
+- "Etienne Marceau"
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-11-08T21:16:05-05:00
+date: '2025-02-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -49,5 +49,6 @@ publication: '*Scandinavian Actuarial Journal*'
 doi: 10.1080/03461238.2024.2401390
 links:
 - name: URL
-  url: https://doi.org/10.1080/03461238.2024.2401390
+  url: https://www.tandfonline.com/doi/abs/10.1080/03461238.2024.2401390
+url_pdf: https://arxiv.org/pdf/2209.13543
 ---

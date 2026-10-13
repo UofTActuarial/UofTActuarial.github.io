@@ -5,9 +5,9 @@ title: 'A class of mixture of experts models for general insurance: Theoretical 
 subtitle: ''
 summary: ''
 authors:
-- Tsz Chai Fung
-- Andrei L. Badescu
-- X. Sheldon Lin
+- "Samson Fung"
+- "Andrei Badescu"
+- "Sheldon Lin"
 tags:
 - Claim frequency and severity modeling
 - Denseness theory
@@ -15,8 +15,8 @@ tags:
 - Multivariate regression analysis
 - Neural network
 categories: []
-date: '2019-01-01'
-lastmod: 2022-05-27T22:02:41-04:00
+date: '2019-11-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -55,5 +55,8 @@ abstract: 'In the Property and Casualty (P&C) ratemaking process, it is critical
   flexible”. In the subsequent paper (Fung et al., 2019b), we will focus on the estimation
   and application aspects of the LRMoE.'
 publication: '*Insurance: Mathematics and Economics*'
-doi: https://doi.org/10.1016/j.insmatheco.2019.09.007
+doi: '10.1016/j.insmatheco.2019.09.007'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167668719303956
 ---

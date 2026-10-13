@@ -5,13 +5,13 @@ title: Robustness regions for measures of risk aggregation
 subtitle: ''
 summary: ''
 authors:
-- Silvana M. Pesenti
-- Pietro Millossovich
-- Andreas Tsanakas
+- "Silvana Pesenti"
+- "Pietro Millossovich"
+- "Andreas Tsanakas"
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-04T20:37:57-04:00
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -52,5 +52,9 @@ abstract: One of risk measures’ key purposes is to consistently rank and disti
   whose robustness in a risk aggregation context requires restricting the possible
   dependence structures of the input vectors.
 publication: '*Dependence Modeling*'
-doi: doi:10.1515/demo-2016-0020
+doi: 10.1515/demo-2016-0020
+links:
+- name: URL
+  url: https://doi.org/10.1515/demo-2016-0020
+url_pdf: https://arts.units.it/bitstream/11368/2897183/2/Robustness%20Regions%20for%20Measures%20of%20Risk%20Aggregation.pdf
 ---

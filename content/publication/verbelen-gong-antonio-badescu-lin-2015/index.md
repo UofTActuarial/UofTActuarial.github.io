@@ -12,8 +12,8 @@ authors:
 - Sheldon Lin
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2022-05-30T21:19:27-04:00
+date: '2015-09-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -41,4 +41,7 @@ abstract: We discuss how to fit mixtures of Erlangs to censored and truncated da
   simulated data as well as real data sets.
 publication: '*ASTIN Bulletin*'
 doi: 10.1017/asb.2015.15
+links:
+- name: URL
+  url: https://www.cambridge.org/core/product/identifier/S051503611500015X/type/journal_article
 ---

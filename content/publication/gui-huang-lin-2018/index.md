@@ -5,9 +5,9 @@ title: Fitting the Erlang mixture model to data via a GEM-CMM algorithm
 subtitle: ''
 summary: ''
 authors:
-- Wenyong Gui
-- Rongtan Huang
-- X. Sheldon Lin
+- "Wenyong Gui"
+- "Rongtan Huang"
+- "Sheldon Lin"
 tags:
 - Erlang mixture model
 - Insurance loss data
@@ -15,8 +15,8 @@ tags:
 - Clusterized method of moments
 - Local search method
 categories: []
-date: '2018-01-01'
-lastmod: 2022-05-30T21:05:43-04:00
+date: '2018-12-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -50,5 +50,8 @@ abstract: The Erlang mixture model with common scale parameter is flexible and a
   the performance of the proposed approach through several simulation studies and
   apply it to fit the Erlang mixture model to two real loss data sets.
 publication: '*Journal of Computational and Applied Mathematics*'
-doi: https://doi.org/10.1016/j.cam.2018.04.032
+doi: '10.1016/j.cam.2018.04.032'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0377042718302140
 ---

@@ -6,8 +6,8 @@ title: 'Mixture of experts models for multilevel data: Modeling framework and ap
 subtitle: ''
 summary: ''
 authors:
-- Tsz Chai Fung
-- Spark C. Tseung
+- "Samson Fung"
+- "Spark Tseung"
 tags:
 - Artificial neural network
 - Crossed and nested random effects
@@ -15,8 +15,8 @@ tags:
 - Mixed effects models
 - Universal approximation theorem
 categories: []
-date: '2025-01-01'
-lastmod: 2025-03-31T14:49:09-04:00
+date: '2025-04-14'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -51,7 +51,7 @@ abstract: Multilevel data are prevalent in many real-world applications. However
   MMoE universally approximates a broad range of dependence structures of the random
   effects among different factor levels.
 publication: '*Neurocomputing*'
-doi: https://doi.org/10.1016/j.neucom.2025.129357
+doi: '10.1016/j.neucom.2025.129357'
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0925231225000293

@@ -5,13 +5,13 @@ title: Robust distortion risk measures
 subtitle: ''
 summary: ''
 authors:
-- Carole Bernard
-- Silvana M. Pesenti
-- Steven Vanduffel
+- "Carole Bernard"
+- "Silvana Pesenti"
+- "Steven Vanduffel"
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2022-07-04T21:06:29-04:00
+date: '2024-07-01'
+lastmod: '2026-10-13'
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ projects: []
 publishDate: '2025-05-26T20:03:44.279264Z'
 publication_types:
 - '2'
-abstract: Abstract The robustness of risk measures to changes in underlying loss distributions
+abstract: The robustness of risk measures to changes in underlying loss distributions
   (distributional uncertainty) is of crucial importance in making well-informed decisions.
   In this paper, we quantify, for the class of distortion risk measures with an absolutely
   continuous distortion function, its robustness to distributional uncertainty by
@@ -47,6 +47,7 @@ abstract: Abstract The robustness of risk measures to changes in underlying loss
 publication: '*Mathematical Finance*'
 links:
 - name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/mafi.12414
-doi: https://doi.org/10.1111/mafi.12414
+  url: https://doi.org/10.1111/mafi.12414
+doi: 10.1111/mafi.12414
+url_pdf: https://arxiv.org/pdf/2205.08850
 ---
