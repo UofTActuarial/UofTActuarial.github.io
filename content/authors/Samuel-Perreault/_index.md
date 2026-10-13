@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Postdoc, 2020-2024; Hydro-Quebec Research Center
+role: Postdoc, 2020-2024
 
 # Organizations/Affiliations
 organizations:

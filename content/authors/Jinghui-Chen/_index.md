@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position: Professor, PhD Candidate/Student, or PhD, <year of graduation>
-role: Postdoc, 2024-2025; Postdoctoral Fellow, National University of Singapore.
+role: Postdoc, 2024-2025; Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ interests:
 - Operations Research
 
 department:
-- Department of Statistical Sciences
+- National University of Singapore
 
 # Uncomment the following to include education; not required at the moment.
 education:
